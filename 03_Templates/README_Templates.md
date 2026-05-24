@@ -1,33 +1,42 @@
-# README - Templates cho NLCS Obsidian RAG
+# README - Templates cho NLCS Vault
 
-Thư mục này chứa các template Markdown dùng để tạo tài liệu chuẩn cho vault `NLCS`.
+Thư mục này chứa các template Markdown dùng để tạo tracking note và file dataset chuẩn cho RAG.
 
-## Cách dùng
+## Chọn template nào?
 
-1. Chọn đúng template theo loại tài liệu:
-   - `Document Template.md`: mẫu tổng quát.
-   - `Template_VanBan.md`: quyết định, quy định, quy chế, thông báo.
-   - `Template_QuyTrinh.md`: quy trình, thủ tục hành chính.
-   - `Template_BieuMau.md`: biểu mẫu, đơn, file DOCX/PDF cần tải.
-   - `Template_FAQ.md`: câu hỏi thường gặp.
-2. Tạo file mới trong `01_Dataset/<đơn vị hoặc lĩnh vực>/`.
-3. Copy template vào file mới.
-4. Điền YAML frontmatter.
-5. Đưa nội dung OCR / Markdown chuẩn hóa vào mục `# Nội dung OCR / Markdown chuẩn hóa`.
-6. Review, sau đó cập nhật:
+| Nhu cầu | Template | Nơi tạo file |
+|---|---|---|
+| Tracking file PDF/DOCX mới thu thập | `Template_Attachment_Intake.md` | `06_Processing/00_Attachment_Intake/` |
+| Tracking biểu mẫu/link/file liên quan | `Template_Asset_Intake.md` | `06_Processing/00_Attachment_Intake/Assets/` |
+| Văn bản/quy định/quyết định | `Template_VanBan.md` | `01_Dataset/<Domain>/` |
+| Quy trình/thủ tục hành chính | `Template_QuyTrinh.md` | `01_Dataset/QuyTrinh/` |
+| Biểu mẫu đã chuẩn hóa cho RAG | `Template_BieuMau.md` | `01_Dataset/MauDon/` |
+| FAQ | `Template_FAQ.md` | `01_Dataset/FAQ/` |
+| Mẫu tổng quát | `Document Template.md` | Tùy trường hợp |
+
+## Quy tắc gọn cho giai đoạn thu thập
+
+- Tracking note chỉ theo dõi file gốc và trạng thái OCR.
+- Nếu phát hiện biểu mẫu/link liên quan, tạo asset note riêng.
+- Trong tracking note chỉ dùng `related_assets` dạng wikilink:
 
 ```yaml
-ocr_status: "done"
-review_status: "approved"
-validity_status: "valid"
-rag_status: "published"
+related_assets:
+  - "[[asset-mau-don-cap-bang-diem]]"
 ```
 
-## Quy tắc quan trọng
+Không ghi object YAML dài trong `related_assets` vì Obsidian Properties sẽ khó đọc.
 
-- Không dùng field `status` chung chung.
-- Luôn dùng các trạng thái riêng: `collection_status`, `ocr_status`, `review_status`, `rag_status`, `validity_status`.
-- Mỗi tài liệu có `document_id`.
-- Mỗi phiên bản có `version_id`.
-- Tài liệu mới nhất nên có `is_latest: true`.
-- Tài liệu cũ bị thay thế nên có `validity_status: "replaced"` và `rag_status: "deactivated"`.
+## Quy tắc khi đưa vào RAG
+
+- File gốc nằm ở `02_Attachments/`.
+- File Markdown chính thức nằm ở `01_Dataset/`.
+- Chỉ file đã review và còn hiệu lực mới nên index/publish.
+
+Metadata tối thiểu khi tài liệu sẵn sàng cho RAG:
+
+```yaml
+review_status: "approved"
+validity_status: "valid"
+rag_status: "not_indexed"
+```
