@@ -49,8 +49,7 @@ processing_time: ""
 fee: ""
 online_available: false
 online_url: ""
-required_forms:
-  - ""
+required_form_ids: []
 
 # Kiểm soát xử lý
 created_at:

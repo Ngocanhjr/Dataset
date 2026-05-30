@@ -12,16 +12,14 @@ audience:
 
 # Thông tin biểu mẫu
 form_code: ""
-related_procedure: ""
-related_document: ""
-file_format: "docx"
+related_procedure_ids: []
+related_document_ids: []
+related_asset_ids: []
 submit_required: false
 required_when: ""
 usage_purpose: ""
-download_url: ""
 
 # Thông tin phiên bản / hiệu lực
-code: ""
 issued_date:
 effective_date:
 expiry_date:
@@ -79,7 +77,7 @@ tags:
 | Văn bản liên quan |  |
 | Có bắt buộc nộp không |  |
 | Dùng trong trường hợp |  |
-| Link tải |  |
+| Asset/file tải liên quan |  |
 
 # Mục đích sử dụng
 
@@ -113,7 +111,7 @@ tags:
 - [ ] Đã kiểm tra tên biểu mẫu.
 - [ ] Đã kiểm tra file gốc.
 - [ ] Đã kiểm tra thủ tục liên quan.
-- [ ] Đã kiểm tra link tải.
+- [ ] Đã kiểm tra asset/file tải liên quan.
 - [ ] Đã kiểm tra hướng dẫn điền.
 - [ ] Đã kiểm tra hiệu lực / phiên bản.
 - [ ] Đã duyệt để đưa vào RAG.

@@ -1,45 +1,49 @@
 ---
 asset_id: ""
 title: ""
-asset_type: "form"
+asset_type: "downloadable_file"
 
-# Phân loại nghiệp vụ
+# Phân loại
 domain: ""
 department: ""
 audience:
   - "student"
 
-# File / link tải
+# File / link / video
 file_name: ""
 file_path: ""
-file_type: "docx"
+file_type: "url"
 download_url: ""
 source_url: ""
+accessed_date: ""
 is_downloadable: true
 
-# Quan hệ với tài liệu / thủ tục
+# Quan hệ với tài liệu / thủ tục / biểu mẫu
+source_document_id: ""
+source_version_id: ""
 related_document_ids: []
+related_version_ids: []
 related_procedure_ids: []
-relation_type: "required_form"
-required: true
+related_form_ids: []
+relation_type: "downloadable_file"
+required: false
 required_when: ""
 
 # Hiệu lực / version
-version: "1.0"
-is_latest: true
-validity_status: "valid"
+version: ""
+is_latest: false
+validity_status: "unchecked"
 effective_date: ""
 expiry_date: ""
 replaces: []
 replaced_by: []
 
 # RAG
-rag_include: true
-rag_status: "ready_to_index"
-retrieval_keywords: []
+rag_status: "not_indexed"
 
 # Kiểm soát
-review_status: "reviewed"
+collection_status: "collected"
+review_status: "not_reviewed"
 created_at: ""
 updated_at: ""
 notes: ""
@@ -47,7 +51,6 @@ notes: ""
 tags:
   - ctu
   - asset
-  - form
   - rag
 ---
 
@@ -55,33 +58,43 @@ tags:
 
 ## Mô tả ngắn cho chatbot
 
-Biểu mẫu này dùng để:  
+Tài nguyên này dùng để:  
 
-## Khi nào sinh viên cần dùng biểu mẫu này?
+## Loại tài nguyên
 
 - 
 
-## Thủ tục liên quan
-
-| Mã thủ tục | Tên thủ tục | Quan hệ | Ghi chú |
-|---|---|---|---|
-|  |  | required_form |  |
-
-## Văn bản / tài liệu liên quan
-
-| Mã tài liệu | Tên tài liệu | Ghi chú |
-|---|---|---|
-|  |  |
-
-## Hướng dẫn tải / sử dụng
+## Link / file
 
 - File trong vault:  
-- Link tải ngoài:  
-- Định dạng file:  
-- Sinh viên có thể tải: Có / Không  
+- Link tải/link xem:  
+- Định dạng:  
+- Có thể cung cấp cho sinh viên: Có / Không  
+
+## Tài liệu gốc / nguồn phát hiện
+
+| Document ID | Version ID | Quan hệ | Ghi chú |
+|---|---|---|---|
+|  |  | source_document |  |
+
+## Thủ tục / biểu mẫu liên quan
+
+| ID | Loại | Quan hệ | Ghi chú |
+|---|---|---|---|
+|  | procedure/form | downloadable_file |  |
+
+## Hướng dẫn sử dụng
+
+- 
 
 ## Điều kiện áp dụng
 
+- 
+
+## Từ khóa truy xuất
+
+- 
+- 
 - 
 
 ## Trạng thái hiệu lực
@@ -92,6 +105,7 @@ Biểu mẫu này dùng để:
 
 ## Ghi chú cho RAG
 
-- Chỉ trả biểu mẫu này khi câu hỏi liên quan đúng thủ tục.
-- Nếu `validity_status` không phải `valid`, chatbot không nên khuyến nghị sử dụng.
+- Chỉ trả tài nguyên này khi câu hỏi liên quan đúng tài liệu/thủ tục/biểu mẫu.
+- Nếu tài nguyên là biểu mẫu, phần hướng dẫn nghiệp vụ phải nằm trong `Template_BieuMau.md`; file này chỉ lưu link/file asset.
+- Nếu `validity_status` không phải `valid`, chatbot không nên khuyến nghị sử dụng hoặc cung cấp link tải.
 - Nếu `is_latest: false`, chatbot phải ưu tiên bản được ghi trong `replaced_by`.

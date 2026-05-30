@@ -1,59 +1,41 @@
 # README - Attachment Intake
 
-Thư mục `06_Processing/00_Attachment_Intake/` dùng để tracking các file gốc vừa thu thập trước khi OCR và chuẩn hóa vào `01_Dataset/`.
+File này chỉ là trang điều hướng nhanh cho quy trình intake. Quy định chi tiết và enum chuẩn nằm ở các file sau:
+
+```text
+README.md
+03_Templates/Template_Attachment_Intake.md
+03_Templates/Template_Asset_Intake.md
+03_Templates/Attachment_Intake_Metadata_Guide.md
+03_Templates/Template_Metadata_Field_Guide.md
+```
+
+## Luồng ngắn
+
+```text
+02_Attachments
+  -> 06_Processing/00_Attachment_Intake
+  -> 06_Processing/01_OCR_Output
+  -> 06_Processing/03_Markdown_Cleaning
+  -> 06_Processing/04_Need_Review
+  -> 01_Dataset
+```
 
 ## Khi thêm file mới
 
 1. Lưu file gốc vào `02_Attachments/`.
-2. Tạo tracking note trong `06_Processing/00_Attachment_Intake/`.
-3. Dùng template `03_Templates/Template_Attachment_Intake.md`.
-4. Cập nhật `ocr_status`, `processing_stage`, `next_action`.
+2. Tạo tracking note bằng `03_Templates/Template_Attachment_Intake.md`.
+3. Nếu phát hiện biểu mẫu/link/file liên quan, tạo asset note bằng `03_Templates/Template_Asset_Intake.md`.
+4. Chỉ dùng `related_assets` trong tracking note để link ngắn tới asset note.
 
-## Khi thấy biểu mẫu/link/file liên quan
-
-Không ghi chi tiết dài trong tracking note. Tạo asset note riêng tại:
+## Enum dùng trong intake
 
 ```text
-06_Processing/00_Attachment_Intake/Assets/
+ocr_status:
+not_started | processing | done | failed | need_review | not_required
+
+processing_stage:
+attachment_only | ocr_processing | ocr_output | ocr_failed | markdown_cleaning | need_review | dataset_ready | rag_published | blocked
 ```
 
-Dùng template:
-
-```text
-03_Templates/Template_Asset_Intake.md
-```
-
-Trong tracking note chính chỉ link:
-
-```yaml
-related_assets:
-  - "[[asset-mau-don-cap-bang-diem]]"
-```
-
-## Trạng thái OCR
-
-```text
-not_started   = chưa OCR
-processing    = đang OCR
-done          = OCR xong
-failed        = OCR lỗi
-need_review   = OCR cần kiểm tra lại
-```
-
-## Giai đoạn xử lý
-
-```text
-attachment_only = mới có file gốc
-ocr_processing  = đang OCR
-ocr_output      = đã có output OCR
-cleaning        = đang làm sạch Markdown
-need_review     = cần review
-canonical_done  = đã tạo file canonical trong 01_Dataset
-```
-
-## Sau khi OCR
-
-- Lưu file OCR vào `06_Processing/01_OCR_Output/`.
-- Chuyển file cần làm sạch sang `06_Processing/03_Markdown_Cleaning/`.
-- Chuyển file cần review sang `06_Processing/04_Need_Review/`.
-- Sau khi duyệt, tạo file chính trong `01_Dataset/`.
+Không dùng các giá trị cũ như `cleaning` hoặc `canonical_done`; dùng `markdown_cleaning` và `dataset_ready`.

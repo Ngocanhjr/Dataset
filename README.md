@@ -173,6 +173,7 @@ Ví dụ:
 |---|---|
 | Tracking file PDF/DOCX mới thu thập | `Template_Attachment_Intake.md` |
 | Tracking biểu mẫu/link/file liên quan mới phát hiện | `Template_Asset_Intake.md` |
+| Asset/file tải đã chuẩn hóa cho RAG | `Template_asset_rag.md` |
 | Văn bản/quy định/quyết định chính thức | `Template_VanBan.md` |
 | Quy trình/thủ tục hành chính | `Template_QuyTrinh.md` |
 | Biểu mẫu đã chuẩn hóa cho dataset/RAG | `Template_BieuMau.md` |
@@ -205,7 +206,8 @@ asset_type: "form"
 download_url: ""
 file_path: ""
 collection_status: "link_collected"
-source_document: ""
+source_document_id: ""
+source_version_id: ""
 relation_type: "required_form"
 next_action: ""
 ```
@@ -242,7 +244,8 @@ need_review  = cần kiểm tra lại
 
 ```text
 not_reviewed = chưa duyệt
-needs_fix    = cần sửa
+reviewing    = đang duyệt
+need_fix     = cần sửa
 approved     = đã duyệt
 rejected     = loại bỏ
 ```
@@ -266,6 +269,13 @@ embedded    = đã embedding
 indexed     = đã index
 published   = đang dùng cho chatbot
 deactivated = ngưng dùng
+failed      = lỗi trong pipeline RAG
+```
+
+Quy ước enum và ý nghĩa field chi tiết nằm tại:
+
+```text
+03_Templates/Template_Metadata_Field_Guide.md
 ```
 
 ---

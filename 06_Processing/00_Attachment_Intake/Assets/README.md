@@ -14,3 +14,9 @@ Trong tracking note chính, chỉ link tới asset:
 related_assets:
   - "[[asset-ten-bieu-mau]]"
 ```
+
+Quy định field và enum chuẩn xem tại:
+
+```text
+03_Templates/Template_Metadata_Field_Guide.md
+```

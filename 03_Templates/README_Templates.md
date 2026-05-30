@@ -4,15 +4,16 @@ Thư mục này chứa các template Markdown dùng để tạo tracking note v�
 
 ## Chọn template nào?
 
-| Nhu cầu | Template | Nơi tạo file |
-|---|---|---|
-| Tracking file PDF/DOCX mới thu thập | `Template_Attachment_Intake.md` | `06_Processing/00_Attachment_Intake/` |
-| Tracking biểu mẫu/link/file liên quan | `Template_Asset_Intake.md` | `06_Processing/00_Attachment_Intake/Assets/` |
-| Văn bản/quy định/quyết định | `Template_VanBan.md` | `01_Dataset/<Domain>/` |
-| Quy trình/thủ tục hành chính | `Template_QuyTrinh.md` | `01_Dataset/QuyTrinh/` |
-| Biểu mẫu đã chuẩn hóa cho RAG | `Template_BieuMau.md` | `01_Dataset/MauDon/` |
-| FAQ | `Template_FAQ.md` | `01_Dataset/FAQ/` |
-| Mẫu tổng quát | `Document Template.md` | Tùy trường hợp |
+| Nhu cầu                               | Template                        | Nơi tạo file                                      |
+| ------------------------------------- | ------------------------------- | ------------------------------------------------- |
+| Tracking file PDF/DOCX mới thu thập   | `Template_Attachment_Intake.md` | `06_Processing/00_Attachment_Intake/`             |
+| Tracking asset/link/file/video liên quan | `Template_Asset_Intake.md`      | `06_Processing/00_Attachment_Intake/Assets/`      |
+| Asset/link/file/video đã chuẩn hóa cho RAG | `Template_asset_rag.md`         | Khu vực asset canonical |
+| Văn bản/quy định/quyết định           | `Template_VanBan.md`            | `01_Dataset/<Domain>/`                            |
+| Quy trình/thủ tục hành chính          | `Template_QuyTrinh.md`          | `01_Dataset/QuyTrinh/`                            |
+| Biểu mẫu đã chuẩn hóa cho RAG         | `Template_BieuMau.md`           | `01_Dataset/MauDon/`                              |
+| FAQ                                   | `Template_FAQ.md`               | `01_Dataset/FAQ/`                                 |
+| Mẫu tổng quát                         | `Document Template.md`          | Tùy trường hợp                                    |
 
 ## Quy tắc gọn cho giai đoạn thu thập
 
@@ -31,6 +32,8 @@ Không ghi object YAML dài trong `related_assets` vì Obsidian Properties sẽ 
 
 - File gốc nằm ở `02_Attachments/`.
 - File Markdown chính thức nằm ở `01_Dataset/`.
+- Asset dùng để lưu link tải, file tải, link YouTube/video hoặc tài nguyên ngoài.
+- Nếu tài nguyên là biểu mẫu, mô tả nghiệp vụ bằng `Template_BieuMau.md` và nối tới asset bằng `related_asset_ids`.
 - Chỉ file đã review và còn hiệu lực mới nên index/publish.
 
 Metadata tối thiểu khi tài liệu sẵn sàng cho RAG:
@@ -39,4 +42,10 @@ Metadata tối thiểu khi tài liệu sẵn sàng cho RAG:
 review_status: "approved"
 validity_status: "valid"
 rag_status: "not_indexed"
+```
+
+Xem quy ước field và enum chuẩn tại:
+
+```text
+03_Templates/Template_Metadata_Field_Guide.md
 ```

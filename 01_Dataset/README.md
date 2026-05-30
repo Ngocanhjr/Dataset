@@ -40,25 +40,32 @@ rag_status: "deactivated"
 
 ---
 
-## 3. Biểu mẫu có thể có 2 phần
+## 3. Biểu mẫu và asset tải về
 
 ```text
 01_Dataset/MauDon/<form>.md
 ```
 
-Dùng để mô tả biểu mẫu, hướng dẫn điền, liên kết thủ tục.
+Dùng để mô tả nghiệp vụ của biểu mẫu: mục đích, khi nào dùng, hướng dẫn điền, thủ tục liên quan.
 
 ```text
 02_Attachments/Forms/<DonVi>/<form>.docx
 ```
 
-Dùng làm file tải về thực tế.
+Dùng làm file tải về thực tế. Metadata file tải nên nằm trong asset canonical hoặc asset intake, không nhồi trực tiếp vào mô tả biểu mẫu.
 
-Trong Markdown phải khai báo:
+Trong file biểu mẫu canonical, trỏ đến asset/file tải bằng ID:
 
 ```yaml
-asset_id: ""
-file_path: "02_Attachments/Forms/<DonVi>/<file>.docx"
+related_asset_ids:
+  - "ctu-form-xin-cap-bang-diem"
+```
+
+Trong file asset canonical, khai báo đường dẫn file tải:
+
+```yaml
+asset_id: "ctu-form-xin-cap-bang-diem"
+file_path: "02_Attachments/Forms/PDT/mau_don_xin_cap_bang_diem.docx"
 is_downloadable: true
 ```
 
@@ -87,9 +94,9 @@ rag_status: "not_indexed"
 
 - [ ] Đã dùng đúng template.
 - [ ] Có `document_id`, `version_id`.
-- [ ] Có `source_file`, `source_path`.
+- [ ] Có `source_file` hoặc `source_url`.
 - [ ] Có page marker nếu cần citation.
-- [ ] Có `related_assets` / `required_forms` nếu tài liệu có biểu mẫu.
+- [ ] Có `related_asset_ids` hoặc `required_form_ids` nếu tài liệu có biểu mẫu.
 - [ ] Đã kiểm tra version cũ/mới.
 - [ ] Đã kiểm tra hiệu lực.
 - [ ] Đã review nội dung.

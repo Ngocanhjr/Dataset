@@ -12,26 +12,15 @@ audience:
 
 # Thông tin FAQ
 question_group: ""
-related_procedure: ""
-related_document: ""
+related_procedure_ids: []
+related_document_ids: []
 source_type: "manual"
 
-# Thông tin phiên bản / hiệu lực
-code: ""
-issued_date:
-effective_date:
-expiry_date:
-version: ""
-is_latest: false
+# Hiệu lực
 validity_status: "unchecked"
-
-# Quan hệ phiên bản
-replaces:
-replaced_by:
 
 # Trạng thái xử lý
 collection_status: "collected"
-ocr_status: "not_started"
 review_status: "not_reviewed"
 rag_status: "not_indexed"
 
@@ -51,9 +40,6 @@ chunking_strategy: "qa_based"
 # Kiểm soát xử lý
 created_at:
 updated_at:
-checksum:
-parser:
-ocr_engine:
 notes:
 
 tags:
@@ -89,7 +75,7 @@ tags:
 
 # Nội dung hỗ trợ truy xuất
 
-<!-- page: 1 -->
+<!-- section: faq -->
 
 # Ghi chú kiểm tra
 

@@ -8,10 +8,10 @@ File này được giữ lại để tham khảo lịch sử. README chính hi�
 README.md
 ```
 
-Các thay đổi quan trọng đã được đưa vào `README.md`:
+Các thay đổi quan trọng đã được đưa vào tài liệu vận hành hiện tại:
 
 - Bổ sung quản lý `asset_id` cho biểu mẫu/file liên quan.
-- Bổ sung `related_assets`, `downloadable_files`, `required_forms`.
+- Bổ sung `related_assets`, `related_asset_ids`, `required_form_ids`.
 - Phân biệt `source_file` với file tải về cho sinh viên.
 - Bổ sung rule version cũ/mới bằng `replaces`, `replaced_by`, `is_latest`.
 - Bổ sung PostgreSQL schema cho `document_assets`, `document_asset_links`, `document_relationships`.
@@ -22,6 +22,7 @@ Không nên tiếp tục chỉnh `README_V1.md` cho vận hành mới. Hãy dùn
 ```text
 README.md
 03_Templates/README_Templates.md
+03_Templates/Template_Metadata_Field_Guide.md
 05_Research/Asset_Form_Version_Governance.md
 05_Research/Database_rule.md
 ```

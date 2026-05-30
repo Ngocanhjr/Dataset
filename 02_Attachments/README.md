@@ -26,8 +26,9 @@ Cập nhật: `2026-05-24`
 | `source_path` | Đường dẫn file gốc trong vault |
 | `file_path` | Đường dẫn file asset/biểu mẫu |
 | `download_url` | Link tải ngoài nếu có |
-| `downloadable_files` | Danh sách file chatbot có thể trả cho sinh viên |
-| `required_forms` | Danh sách biểu mẫu bắt buộc trong thủ tục |
+| `is_downloadable` | Asset/file này có thể cung cấp cho sinh viên tải hay không |
+| `related_asset_ids` | Danh sách asset liên quan trong file canonical |
+| `required_form_ids` | Danh sách biểu mẫu bắt buộc trong thủ tục |
 
 ---
 
@@ -53,7 +54,7 @@ Ví dụ:
 - [ ] Tạo tracking note trong `06_Processing/00_Attachment_Intake` nếu cần OCR.
 - [ ] Tạo/cập nhật Markdown canonical trong `01_Dataset`.
 - [ ] Nếu là biểu mẫu/file tải về, tạo `asset_id`.
-- [ ] Cập nhật `source_path`, `file_path`, `download_url` trong YAML.
+- [ ] Cập nhật `source_path`, `file_path`, `download_url` hoặc `related_asset_ids` trong YAML phù hợp.
 - [ ] Tính `checksum` nếu cần phát hiện file bị thay đổi.
 
 ---
