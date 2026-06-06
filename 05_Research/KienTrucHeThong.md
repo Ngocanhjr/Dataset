@@ -1,6 +1,6 @@
 ---
 title: "Kiến trúc hệ thống - CTU Student Service RAG"
-document_type: "research_note"
+document_type: "ghi_chu_nghien_cuu"
 domain: "system_architecture"
 department: "NLCS"
 audience:

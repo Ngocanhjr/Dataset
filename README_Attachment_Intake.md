@@ -39,3 +39,17 @@ attachment_only | ocr_processing | ocr_output | ocr_failed | markdown_cleaning |
 ```
 
 Không dùng các giá trị cũ như `cleaning` hoặc `canonical_done`; dùng `markdown_cleaning` và `dataset_ready`.
+
+## Enum canonical sau OCR
+
+Khi tạo file trong `01_Dataset`, dùng `document_type` tiếng Việt:
+
+```text
+noi_quy | quy_trinh | bieu_mau | hoi_dap
+```
+
+Nếu tài liệu được chunk theo heading, dùng:
+
+```yaml
+chunking_strategy: "heading_aware_parent_child"
+```

@@ -253,7 +253,7 @@ document_id: ""
 version_id: ""
 title: ""
 
-document_type: ""
+document_type: "noi_quy"
 domain: ""
 department: ""
 audience:
@@ -285,7 +285,7 @@ language: "vi"
 confidentiality: "public"
 priority: "medium"
 citation_type: "page"
-chunking_strategy: "heading_based"
+chunking_strategy: "heading_aware_parent_child"
 
 created_at:
 updated_at:
@@ -299,6 +299,12 @@ notes:
 tags:
   - ctu
 ---
+```
+
+`document_type` dùng enum tiếng Việt:
+
+```text
+noi_quy | quy_trinh | bieu_mau | hoi_dap
 ```
 
 ---
@@ -533,7 +539,7 @@ Chunk theo heading, không cắt ngẫu nhiên.
   "heading_path": "",
   "page_start": 1,
   "page_end": 1,
-  "document_type": "",
+  "document_type": "noi_quy",
   "department": "",
   "domain": "",
   "validity_status": "valid",
@@ -586,7 +592,7 @@ Mục: Chương II > Điều 5
   "document_id": "",
   "version_id": "",
   "title": "",
-  "document_type": "",
+  "document_type": "noi_quy",
   "domain": "",
   "department": "",
   "audience": ["student"],

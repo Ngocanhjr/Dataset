@@ -1,6 +1,6 @@
 ---
 title: "Asset, Form và Version Governance cho NLCS RAG"
-document_type: "governance_guide"
+document_type: "huong_dan_quan_tri"
 domain: "rag_governance"
 department: "NLCS"
 audience:

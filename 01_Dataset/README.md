@@ -79,6 +79,13 @@ review_status: "approved"
 validity_status: "valid"
 rag_status: "published"
 confidentiality: "public"
+chunking_strategy: "heading_aware_parent_child"
+```
+
+`document_type` trong file canonical dùng enum tiếng Việt:
+
+```text
+noi_quy | quy_trinh | bieu_mau | hoi_dap
 ```
 
 Nếu chưa chắc hiệu lực:
@@ -94,6 +101,8 @@ rag_status: "not_indexed"
 
 - [ ] Đã dùng đúng template.
 - [ ] Có `document_id`, `version_id`.
+- [ ] Có `document_type` đúng enum tiếng Việt.
+- [ ] Có `chunking_strategy: "heading_aware_parent_child"` nếu chunk theo heading.
 - [ ] Có `source_file` hoặc `source_url`.
 - [ ] Có page marker nếu cần citation.
 - [ ] Có `related_asset_ids` hoặc `required_form_ids` nếu tài liệu có biểu mẫu.

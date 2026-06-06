@@ -1,6 +1,6 @@
 ---
 title: "Đánh giá Chatbot RAG - CTU Student Service"
-document_type: "research_note"
+document_type: "ghi_chu_nghien_cuu"
 domain: "evaluation"
 department: "NLCS"
 audience:

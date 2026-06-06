@@ -1,6 +1,6 @@
 ---
 title: "OCR Pipeline - Chuẩn hóa tài liệu sang Markdown cho RAG"
-document_type: "research_note"
+document_type: "ghi_chu_nghien_cuu"
 domain: "ocr_pipeline"
 department: "NLCS"
 audience:
@@ -342,7 +342,7 @@ language: "vi"
 confidentiality: "public"
 priority: "medium"
 citation_type: "page"
-chunking_strategy: "heading_based"
+chunking_strategy: "heading_aware_parent_child"
 
 created_at:
 updated_at:

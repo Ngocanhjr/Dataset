@@ -4,7 +4,7 @@ version_id: ""
 title: ""
 
 # Phân loại tài liệu
-document_type: "faq"
+document_type: "hoi_dap"
 domain: ""
 department: ""
 audience:

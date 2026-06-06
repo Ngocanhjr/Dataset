@@ -1,6 +1,6 @@
 ---
 title: "Template metadata field guide"
-document_type: "metadata_guide"
+document_type: "huong_dan_metadata"
 domain: "template_governance"
 department: "NLCS"
 status: "active"
@@ -156,10 +156,15 @@ Quy ước:
 ### `document_type`
 
 ```text
-regulation = văn bản/quy định/quyết định
-procedure  = thủ tục/quy trình
-form       = biểu mẫu
-faq        = câu hỏi/câu trả lời chuẩn
+noi_quy            = nội quy/văn bản/quy định/quyết định
+quy_trinh          = thủ tục/quy trình
+bieu_mau           = biểu mẫu
+hoi_dap            = câu hỏi/câu trả lời chuẩn
+huong_dan          = tài liệu hướng dẫn nội bộ
+huong_dan_metadata = tài liệu giải thích metadata/template
+huong_dan_quan_tri = tài liệu hướng dẫn quản trị dữ liệu/version
+huong_dan_theo_doi = tài liệu hướng dẫn tracking/database
+ghi_chu_nghien_cuu = ghi chú nghiên cứu/thiết kế/đánh giá
 ```
 
 ---
@@ -239,11 +244,15 @@ none    = không citation trực tiếp
 ### `chunking_strategy`
 
 ```text
-heading_based = chunk theo heading
-qa_based      = chunk theo cặp hỏi/đáp
-asset_based   = chunk theo metadata asset
-manual        = chia chunk thủ công
+heading_aware_parent_child = chunk theo heading, giữ quan hệ parent-child
+qa_based                   = chunk theo cặp hỏi/đáp
+asset_based                = chunk theo metadata asset
+manual                     = chia chunk thủ công
 ```
+
+Quy ước:
+
+- Dùng `heading_aware_parent_child` cho văn bản, quy trình và biểu mẫu có cấu trúc heading.
 
 ---
 

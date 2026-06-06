@@ -1,6 +1,6 @@
 ---
 title: "Giải thích metadata tracking trước OCR"
-document_type: "metadata_guide"
+document_type: "huong_dan_metadata"
 domain: "attachment_intake"
 department: "NLCS"
 status: "active"

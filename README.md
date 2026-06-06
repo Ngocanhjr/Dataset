@@ -169,15 +169,15 @@ Ví dụ:
 
 ## 5. Chọn template nào?
 
-| Tình huống | Template |
-|---|---|
-| Tracking file PDF/DOCX mới thu thập | `Template_Attachment_Intake.md` |
-| Tracking biểu mẫu/link/file liên quan mới phát hiện | `Template_Asset_Intake.md` |
-| Asset/file tải đã chuẩn hóa cho RAG | `Template_asset_rag.md` |
-| Văn bản/quy định/quyết định chính thức | `Template_VanBan.md` |
-| Quy trình/thủ tục hành chính | `Template_QuyTrinh.md` |
-| Biểu mẫu đã chuẩn hóa cho dataset/RAG | `Template_BieuMau.md` |
-| FAQ | `Template_FAQ.md` |
+| Tình huống                                          | Template                        |
+| --------------------------------------------------- | ------------------------------- |
+| Tracking file PDF/DOCX mới thu thập                 | `Template_Attachment_Intake.md` |
+| Tracking biểu mẫu/link/file liên quan mới phát hiện | `Template_Asset_Intake.md`      |
+| Asset/file tải đã chuẩn hóa cho RAG                 | `Template_asset_rag.md`         |
+| Văn bản/quy định/quyết định chính thức              | `Template_VanBan.md`            |
+| Quy trình/thủ tục hành chính                        | `Template_QuyTrinh.md`          |
+| Biểu mẫu đã chuẩn hóa cho dataset/RAG               | `Template_BieuMau.md`           |
+| FAQ                                                 | `Template_FAQ.md`               |
 
 ---
 
@@ -218,12 +218,19 @@ next_action: ""
 document_id: ""
 version_id: ""
 title: ""
-document_type: ""
+document_type: "noi_quy"
 source_file: ""
 validity_status: "valid"
 is_latest: true
 review_status: "approved"
 rag_status: "not_indexed"
+chunking_strategy: "heading_aware_parent_child"
+```
+
+`document_type` dùng enum tiếng Việt thống nhất:
+
+```text
+noi_quy | quy_trinh | bieu_mau | hoi_dap
 ```
 
 ---

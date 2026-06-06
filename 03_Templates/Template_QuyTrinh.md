@@ -4,7 +4,7 @@ version_id: ""
 title: ""
 
 # Phân loại tài liệu
-document_type: "procedure"
+document_type: "quy_trinh"
 domain: ""
 department: ""
 audience:
@@ -41,7 +41,7 @@ language: "vi"
 confidentiality: "public"
 priority: "medium"
 citation_type: "page"
-chunking_strategy: "heading_based"
+chunking_strategy: "heading_aware_parent_child"
 
 # Thông tin nghiệp vụ
 submission_location: ""

@@ -1,6 +1,6 @@
 ---
 title: "Formatter & Chuẩn hóa nhanh cho NLCS RAG"
-document_type: "guide"
+document_type: "huong_dan"
 domain: "rag"
 department: "NLCS"
 audience:

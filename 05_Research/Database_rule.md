@@ -1,6 +1,6 @@
 ---
 title: "Theo dõi CSDL PostgreSQL và Qdrant cho NLCS RAG"
-document_type: "tracking_guide"
+document_type: "huong_dan_theo_doi"
 domain: "database_vector_tracking"
 department: "NLCS"
 audience:
@@ -142,7 +142,7 @@ Ví dụ:
 ```text
 document_id: ctu-quy-dinh-hoc-vu
 title: Quy định công tác học vụ
-document_type: regulation
+document_type: noi_quy
 domain: hoc_tap
 department: Phòng Đào tạo
 ```
@@ -319,7 +319,7 @@ Mỗi point trong Qdrant tương ứng với một chunk.
   "document_id": "ctu-quy-dinh-hoc-vu",
   "version_id": "ctu-qd1813-2021",
   "title": "Ban hành Quy định công tác học vụ dành cho sinh viên trình độ đại học hệ chính quy",
-  "document_type": "regulation",
+  "document_type": "noi_quy",
   "domain": "hoc_tap",
   "department": "Phòng Đào tạo",
   "audience": ["student"],

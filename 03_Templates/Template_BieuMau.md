@@ -4,7 +4,7 @@ version_id: ""
 title: ""
 
 # Phân loại tài liệu
-document_type: "form"
+document_type: "bieu_mau"
 domain: ""
 department: ""
 audience:
@@ -48,7 +48,7 @@ language: "vi"
 confidentiality: "public"
 priority: "medium"
 citation_type: "page"
-chunking_strategy: "heading_based"
+chunking_strategy: "heading_aware_parent_child"
 
 # Kiểm soát xử lý
 created_at:

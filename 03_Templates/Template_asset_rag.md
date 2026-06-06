@@ -81,7 +81,7 @@ Tài nguyên này dùng để:
 
 | ID | Loại | Quan hệ | Ghi chú |
 |---|---|---|---|
-|  | procedure/form | downloadable_file |  |
+|  | quy_trinh/bieu_mau | downloadable_file |  |
 
 ## Hướng dẫn sử dụng
 

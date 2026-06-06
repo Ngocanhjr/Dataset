@@ -2,7 +2,7 @@
 document_id: ""
 version_id: ""
 title: ""
-document_type: "regulation"
+document_type: "noi_quy"
 domain: ""
 department: ""
 audience:
@@ -28,7 +28,7 @@ language: "vi"
 confidentiality: "public"
 priority: "medium"
 citation_type: "page"
-chunking_strategy: "heading_based"
+chunking_strategy: "heading_aware_parent_child"
 created_at:
 updated_at:
 checksum:

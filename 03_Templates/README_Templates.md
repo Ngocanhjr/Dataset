@@ -42,6 +42,13 @@ Metadata tối thiểu khi tài liệu sẵn sàng cho RAG:
 review_status: "approved"
 validity_status: "valid"
 rag_status: "not_indexed"
+chunking_strategy: "heading_aware_parent_child"
+```
+
+Enum `document_type` dùng trong canonical Markdown:
+
+```text
+noi_quy | quy_trinh | bieu_mau | hoi_dap
 ```
 
 Xem quy ước field và enum chuẩn tại:
