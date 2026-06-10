@@ -4,7 +4,7 @@
 
 ```dataview
 TABLE document_id, version_id, title, document_type, department, domain, review_status, rag_status
-FROM "NLCS/01_Dataset"
+FROM "01_Dataset"
 SORT department ASC, title ASC
 ```
 
@@ -12,7 +12,7 @@ SORT department ASC, title ASC
 
 ```dataview
 TABLE document_id, version_id, title, department, validity_status, rag_status
-FROM "NLCS/01_Dataset"
+FROM "01_Dataset"
 GROUP BY document_type
 SORT document_type ASC
 ```
@@ -21,7 +21,7 @@ SORT document_type ASC
 
 ```dataview
 TABLE document_id, version_id, title, document_type, validity_status, rag_status
-FROM "NLCS/01_Dataset"
+FROM "01_Dataset"
 GROUP BY department
 SORT department ASC
 ```
@@ -30,7 +30,7 @@ SORT department ASC
 
 ```dataview
 TABLE document_id, version_id, title, version, is_latest, validity_status, rag_status
-FROM "NLCS/01_Dataset"
+FROM "01_Dataset"
 WHERE is_latest = true
 SORT updated_at DESC
 ```

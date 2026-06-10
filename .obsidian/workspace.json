@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Templates/Template_VanBan.md",
+                "file": "00_Dashboard/01_Attachment_Processing_Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template_VanBan"
+              "title": "01_Attachment_Processing_Tracker"
             }
           }
         ]
@@ -180,18 +180,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "4bd27fb2a5d68647",
   "lastOpenFiles": [
-    "README.md",
-    "Formatter_Quick_Guide.md",
-    "QuickGuide_QuyTrinh_XuLy.md",
-    "README_Attachment_Intake.md",
-    "03_Templates/Attachment_Intake_Metadata_Guide.md",
-    "03_Templates/README_Templates.md",
-    "03_Templates/Template_Metadata_Field_Guide.md",
-    "03_Templates/Template_Attachment_Intake.md"
+    "00_Dashboard/02_Dataset_Dashboard.md",
+    "00_Dashboard/03_Dataset_List.md",
+    "00_Dashboard/OCR_RAG_Checklist.md",
+    "00_Dashboard/01_Attachment_Processing_Tracker.md",
+    "03_Templates/Template_VanBan_V1.md",
+    "02_Attachments/Archive",
+    "02_Attachments/New folder",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/9_don_de_nghi_ho_tro_chi_phi_hoc_tap_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/8_don_xin_chuyen_truong_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/7_don_de_nghi_chuyen_ctdt_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/6_don_xin_thoi_hoc_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/5_don_xin_tam_nghi_hoc_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/3_don_xin_hoc_lai_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/21_letter_of_verification_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/19_don_xin_xac_nhan_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/18_don_xin_xac_nhan_tam_hoan_nghia_vu_quan_su_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/17_giay_cam_ket_tra_no_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/16_giay_xac_nhan_vay_von_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/15_to_khai_thong_tin_cua_nguoi_khuyet_tat_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/14_giay_chung_nhan_hoc_sinh_sinh_vien_thuoc_ho_can_ngheo_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/13_giay_chung_nhan_hoc_sinh_sinh_vien_thuoc_ho_ngheo_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/12_don_de_nghi_mien_giam_hoc_phi_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/11_don_xin_xet_tro_cap_xa_hoi_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV/10_don_xin_xet_tro_cap_kho_khan_dot_xuat_structured.md",
+    "06_Processing/03_Markdown_Cleaning/DOCX_CTSV",
+    "06_Processing/03_Markdown_Cleaning/PDFs_PDT/QuyTrinh4-Congtacsinhvien_structured.md",
+    "06_Processing/03_Markdown_Cleaning/PDFs_PDT/qt_xet_nhan_bangTN_structured.md",
+    "06_Processing/03_Markdown_Cleaning/PDFs_PDT/qt_xet_mien_HP_structured.md",
+    "06_Processing/03_Markdown_Cleaning/PDFs_PDT/qt_xet_hp_tuongduong_structured.md",
+    "06_Processing/03_Markdown_Cleaning/PDFs_PDT",
+    "06_Processing/03_Markdown_Cleaning/PDFs_CTSV",
+    "validate_metadata.py",
+    "apply_metadata.py",
+    "06_Processing/01_OCR_Output/Test/review_reports",
+    "06_Processing/01_OCR_Output/Test/temp_images"
   ]
 }

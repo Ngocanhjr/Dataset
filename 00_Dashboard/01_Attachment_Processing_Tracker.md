@@ -58,7 +58,7 @@ Dashboard này dùng để team biết:
 
 ```dataview
 TABLE WITHOUT ID processing_stage AS "Giai đoạn", length(rows) AS "Số lượng"
-FROM "NLCS/06_Processing"
+FROM "06_Processing"
 WHERE processing_stage
 GROUP BY processing_stage
 SORT processing_stage ASC
@@ -82,7 +82,7 @@ TABLE
   next_action AS "Việc cần làm",
   due_date AS "Deadline",
   blocker AS "Vướng mắc"
-FROM "NLCS/06_Processing/00_Attachment_Intake"
+FROM "06_Processing/00_Attachment_Intake"
 WHERE processing_stage = "attachment_only"
    OR ocr_status = "not_started"
 SORT due_date ASC, updated_at DESC
@@ -99,7 +99,7 @@ TABLE
   source_file AS "File gốc",
   next_action AS "Việc cần làm",
   due_date AS "Deadline"
-FROM "NLCS/06_Processing/00_Attachment_Intake"
+FROM "06_Processing/00_Attachment_Intake"
 WHERE !assignee
 SORT updated_at DESC
 ```
@@ -118,7 +118,7 @@ TABLE
   assignee AS "Người phụ trách",
   blocker AS "Vướng mắc",
   updated_at AS "Cập nhật"
-FROM "NLCS/06_Processing"
+FROM "06_Processing"
 WHERE ocr_status = "processing"
    OR ocr_status = "failed"
    OR ocr_status = "need_review"
@@ -139,7 +139,7 @@ TABLE
   processing_stage AS "Giai đoạn",
   assignee AS "Người phụ trách",
   next_action AS "Việc cần làm"
-FROM "NLCS/06_Processing"
+FROM "06_Processing"
 WHERE ocr_status = "done"
   AND processing_stage != "dataset_ready"
 SORT updated_at DESC
@@ -160,7 +160,7 @@ TABLE
   assignee AS "Người phụ trách",
   next_action AS "Việc cần làm",
   blocker AS "Vướng mắc"
-FROM "NLCS/06_Processing"
+FROM "06_Processing"
 WHERE processing_stage = "markdown_cleaning"
    OR processing_stage = "need_review"
    OR review_status = "reviewing"
@@ -184,7 +184,7 @@ TABLE
   validity_status AS "Hiệu lực",
   rag_status AS "RAG",
   assignee AS "Người phụ trách"
-FROM "NLCS/01_Dataset"
+FROM "01_Dataset"
 SORT updated_at DESC
 ```
 
@@ -204,7 +204,7 @@ TABLE
   rag_status AS "RAG",
   assignee AS "Người phụ trách",
   next_action AS "Việc cần làm"
-FROM "NLCS/01_Dataset"
+FROM "01_Dataset"
 WHERE ocr_status = "done"
   AND review_status = "approved"
   AND validity_status = "valid"
@@ -230,7 +230,7 @@ TABLE
   rag_status AS "RAG",
   assignee AS "Người phụ trách",
   next_action AS "Việc cần làm"
-FROM "NLCS/01_Dataset"
+FROM "01_Dataset"
 WHERE rag_status = "published"
   AND (
     validity_status = "unchecked"
@@ -260,7 +260,7 @@ TABLE
   next_action AS "Việc cần làm",
   due_date AS "Deadline",
   blocker AS "Vướng mắc"
-FROM "NLCS/06_Processing" OR "01_Dataset"
+FROM "06_Processing" OR "01_Dataset"
 WHERE assignee
 SORT assignee ASC, due_date ASC
 ```
