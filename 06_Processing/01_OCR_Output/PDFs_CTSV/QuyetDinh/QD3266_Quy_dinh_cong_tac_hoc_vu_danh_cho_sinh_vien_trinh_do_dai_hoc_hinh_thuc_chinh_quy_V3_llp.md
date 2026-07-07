@@ -1,20 +1,20 @@
 ---
 document_key: ctu-ctsv-qd3266-quy-dinh-cong-tac-hoc-vu-danh-cho-sinh-vien-trinh-do-dai-hoc-hinh-thuc-chinh-quy-v3
-version_key: ctu-ctsv-qd3266-quy-dinh-cong-tac-hoc-vu-danh-cho-sinh-vien-trinh-do-dai-hoc-hinh-thuc-chinh-quy-v3-d2301cf3edc8
+version_key: ctu-ctsv-qd3266-quy-dinh-cong-tac-hoc-vu-danh-cho-sinh-vien-trinh-do-dai-hoc-hinh-thuc-chinh-quy-v3-eab7bcae4c3e
 title: "QUYẾT ĐỊNH Ban hành Quy định công tác học vụ dành cho sinh viên trình độ đại học hình thức chính quy"
 document_type: quyet_dinh
-domain: hoc_vu
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: 
+domain: dao_tao
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
+- VPTr
 - PDT
 - PCTSV
-signer_name: "HT Tran Trung Tinh"
+signer_name: "HT Trần Trung Tính"
 audience:
   - student
-code: ""
-issued_date: 2024-8-15
-effective_date: 2024-2025
-version_label: ""
+code: "3266 /QĐ-ĐHCT"
+issued_date: 2024-08-15
+effective_date: 2024-08-15
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -24,16 +24,14 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/QuyetDinh/QD3266_Quy_dinh_cong_tac_hoc_vu_danh_cho_sinh_vien_trinh_do_dai_hoc_hinh_thuc_chinh_quy_V3.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/QuyetDinh/QD3266_Quy_dinh_cong_tac_hoc_vu_danh_cho_sinh_vien_trinh_do_dai_hoc_hinh_thuc_chinh_quy_V3.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: d2301cf3edc84cc4bc74c3a3d098b3c2
+checksum: eab7bcae4c3e453cac85d9bb46ce2bf62e9952c02f95855ffa17bc3e20b3ff4d
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T00:59:51+07:00"
-updated_at: "2026-07-05T00:59:51+07:00"
-notes: ""
+created_at: "2026-07-07T00:29:33+07:00"
+updated_at: "2026-07-07T00:29:33+07:00"
+notes: "Áp dụng từ HK2 năm 2024-2025"
 ---
 
 1
@@ -52,35 +50,35 @@ Số: 3266 /QĐ-ĐHCT
 
 # QUYẾT ĐỊNH
 
-# Ban hành Quy định công tác học vụ dành cho sinh viên trình độ đại học hình thức chính quy
+## Ban hành Quy định công tác học vụ dành cho sinh viên trình độ đại học hình thức chính quy
 
-## HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC CẦN THƠ
+# HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC CẦN THƠ
 
-*Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018;*
+Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018;
 
-*Căn cứ Nghị quyết số 99/NQ-HĐT ngày 19 tháng 4 năm 2023 của Hội đồng trường về việc Ban hành Quy chế tổ chức và hoạt động của Trường Đại học Cần Thơ; Nghị quyết số 181/NQ-HĐT ngày 19 tháng 4 năm 2024 của Hội đồng trường Trường Đại học Cần Thơ về việc sửa đổi, bổ sung một số điều của Nghị quyết số 99/NQ-HĐT; Nghị quyết số 185/NQ-HĐT ngày 03 tháng 7 năm 2024 về việc sửa đổi, bổ sung một số điều của Nghị quyết số 181/NQ-HĐT;*
+Căn cứ Nghị quyết số 99/NQ-HĐT ngày 19 tháng 4 năm 2023 của Hội đồng trường về việc Ban hành Quy chế tổ chức và hoạt động của Trường Đại học Cần Thơ; Nghị quyết số 181/NQ-HĐT ngày 19 tháng 4 năm 2024 của Hội đồng trường Trường Đại học Cần Thơ về việc sửa đổi, bổ sung một số điều của Nghị quyết số 99/NQ-HĐT; Nghị quyết số 185/NQ-HĐT ngày 03 tháng 7 năm 2024 về việc sửa đổi, bổ sung một số điều của Nghị quyết số 181/NQ-HĐT;
 
-*Căn cứ Thông tư số 16/2015/TT-BGDĐT ngày 12 tháng 8 năm 2015 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy;*
+Căn cứ Thông tư số 16/2015/TT-BGDĐT ngày 12 tháng 8 năm 2015 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy;
 
-*Căn cứ Thông tư số 25/2015/TT-BGDĐT ngày 04 tháng 10 năm 2015 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chương trình môn học Giáo dục thể chất thuộc các chương trình đào tạo trình độ đại học;*
+Căn cứ Thông tư số 25/2015/TT-BGDĐT ngày 04 tháng 10 năm 2015 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chương trình môn học Giáo dục thể chất thuộc các chương trình đào tạo trình độ đại học;
 
-*Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy;*
+Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy;
 
-*Căn cứ Thông tư số 27/2016/TT-BGDĐT ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục;*
+Căn cứ Thông tư số 27/2016/TT-BGDĐT ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục;
 
-*Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;*
+Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;
 
-*Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;*
+Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;
 
-*Căn cứ Nghị quyết số 189/NQ-HĐT ngày 05 tháng 7 năm 2024 của Hội đồng trường Trường Đại học Cần Thơ phê duyệt kế hoạch tổ chức giảng dạy và học tập từ Học kỳ 2, năm học 2024-2025;*
+Căn cứ Nghị quyết số 189/NQ-HĐT ngày 05 tháng 7 năm 2024 của Hội đồng trường Trường Đại học Cần Thơ phê duyệt kế hoạch tổ chức giảng dạy và học tập từ Học kỳ 2, năm học 2024-2025;
 
-*Căn cứ Biên bản số 2912/BB-ĐHCT-HĐKHĐT ngày 13 tháng 8 năm 2024 của Hội đồng Khoa học và Đào tạo Trường Đại học Cần Thơ;*
+Căn cứ Biên bản số 2912/BB-ĐHCT-HĐKHĐT ngày 13 tháng 8 năm 2024 của Hội đồng Khoa học và Đào tạo Trường Đại học Cần Thơ;
 
-*Theo đề nghị của Trưởng phòng Đào tạo và Trưởng phòng Công tác Sinh viên.*
+Theo đề nghị của Trưởng phòng Đào tạo và Trưởng phòng Công tác Sinh viên.
 
 # QUYẾT ĐỊNH:
 
-**Điều 1.** Ban hành kèm theo Quyết định này **Quy định công tác học vụ dành cho sinh viên trình độ đại học hình thức chính quy của Trường Đại học Cần Thơ.**
+#### Điều 1. Ban hành kèm theo Quyết định này Quy định công tác học vụ dành cho sinh viên trình độ đại học hình thức chính quy của Trường Đại học Cần Thơ.
 
 ---
 
@@ -88,9 +86,9 @@ Số: 3266 /QĐ-ĐHCT
 
 <!-- page: 2 -->
 
-**Điều 2.** Quyết định này có hiệu lực thi hành từ Học kỳ 2, năm học 2024 - 2025. Quyết định này thay thế Quyết định số 1813/QĐ-ĐHCT ngày 18 tháng 6 năm 2021 của Hiệu trưởng Trường Đại học Cần Thơ ban hành Quy định công tác học vụ dành cho sinh viên trình độ đại học hệ chính quy.
+#### Điều 2. Quyết định này có hiệu lực thi hành từ Học kỳ 2, năm học 2024 - 2025. Quyết định này thay thế Quyết định số 1813/QĐ-ĐHCT ngày 18 tháng 6 năm 2021 của Hiệu trưởng Trường Đại học Cần Thơ ban hành Quy định công tác học vụ dành cho sinh viên trình độ đại học hệ chính quy.
 
-**Điều 3.** Chánh văn phòng Trường, Trưởng phòng Đào tạo, Trưởng phòng Công tác Sinh viên, Trưởng các đơn vị, viên chức và sinh viên có liên quan chịu trách nhiệm thi hành Quyết định này./.
+#### Điều 3. Chánh văn phòng Trường, Trưởng phòng Đào tạo, Trưởng phòng Công tác Sinh viên, Trưởng các đơn vị, viên chức và sinh viên có liên quan chịu trách nhiệm thi hành Quyết định này./.
 
 *Nơi nhận:*
 
@@ -102,7 +100,7 @@ Số: 3266 /QĐ-ĐHCT
 
 **HIỆU TRƯỞNG**
 
-Chữ ký và dấu đỏ của Trường Đại học Cần Thơ
+Dấu mộc và chữ ký của Hiệu trưởng Trường Đại học Cần Thơ
 
 **Trần Trung Tính**
 
@@ -116,16 +114,18 @@ Chữ ký và dấu đỏ của Trường Đại học Cần Thơ
 
 ## Công tác học vụ dành cho sinh viên trình độ đại học hình thức chính quy
 
-*(Ban hành kèm theo Quyết định số 3266 /QĐ-ĐHCT ngày 15 tháng 8 năm 2024 của Hiệu trưởng Trường Đại học Cần Thơ)*
+*(Ban hành kèm theo Quyết định số 3266 /QĐ-ĐHCT ngày 15 tháng 8 năm 2024
+của Hiệu trưởng Trường Đại học Cần Thơ)*
 
 ### Chương I
+
 ### NHỮNG VẤN ĐỀ CHUNG
 
 #### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-1. Quy định này quy định về công tác học vụ dành cho sinh viên (*SV*) trình độ đại học hình thức chính quy bao gồm: chương trình đào tạo (*CTĐT*), thời gian học tập, tổ chức đào tạo, đánh giá kết quả học tập, cấp bằng tốt nghiệp và những quy định khác đối với SV.
+1. Quy định này quy định về công tác học vụ dành cho sinh viên (SV) trình độ đại học hình thức chính quy bao gồm: chương trình đào tạo (CTĐT), thời gian học tập, tổ chức đào tạo, đánh giá kết quả học tập, cấp bằng tốt nghiệp và những quy định khác đối với SV.
 
-2. Quy định này áp dụng đối với SV các ngành, khóa đào tạo trình độ đại học hình thức chính quy của Trường Đại học Cần Thơ (*ĐHCT*).
+2. Quy định này áp dụng đối với SV các ngành, khóa đào tạo trình độ đại học hình thức chính quy của Trường Đại học Cần Thơ (ĐHCT).
 
 #### Điều 2. Sinh viên
 
@@ -135,7 +135,7 @@ Sinh viên Trường ĐHCT phải chấp hành nội quy, quy định của Trư
 
 #### Điều 3. Chương trình đào tạo, Bản mô tả chương trình đào tạo và chương trình dạy học
 
-Chương trình đào tạo của mỗi ngành học được xây dựng theo đơn vị tín chỉ (*TC*), cấu trúc từ các học phần (*thuộc khối kiến thức giáo dục đại cương và giáo dục chuyên nghiệp*), trong đó có đủ các học phần bắt buộc và đáp ứng chuẩn CTĐT theo quy định hiện hành của Bộ Giáo dục và Đào tạo. Sinh viên phải tích lũy đủ các học phần và khối lượng TC tối thiểu theo yêu cầu của CTĐT để được xét cấp bằng tốt nghiệp.
+Chương trình đào tạo của mỗi ngành học được xây dựng theo đơn vị tín chỉ (*TC*), cấu trúc từ các học phần (thuộc khối kiến thức giáo dục đại cương và giáo dục chuyên nghiệp), trong đó có đủ các học phần bắt buộc và đáp ứng chuẩn CTĐT theo quy định hiện hành của Bộ Giáo dục và Đào tạo. Sinh viên phải tích lũy đủ các học phần và khối lượng TC tối thiểu theo yêu cầu của CTĐT để được xét cấp bằng tốt nghiệp.
 
 Bản mô tả chương trình đào tạo và chương trình dạy học được xây dựng căn cứ vào CTĐT, gồm các nội dung: thông tin chung về CTĐT; thông tin về đối sánh giữa CTĐT với các chương trình tương tự trong và ngoài nước; thông tin về kết quả đánh
 
@@ -161,7 +161,7 @@ Sinh viên có thể thay đổi KHHTTK trong quá trình học nhưng phải c�
 
 Kế hoạch học tập chuẩn toàn khóa có thời gian thiết kế cho một CTĐT tùy theo ngành học. Thời gian học tập tối đa cho phép để SV hoàn thành CTĐT được xác định theo bảng dưới đây:
 
-| Thời gian thiết kếcủa CTĐT | Thời gian học tập tối đađể SV hoàn thành CTĐT |
+| Thời gian thiết kế của CTĐT | Thời gian học tập tối đa để SV hoàn thành CTĐT |
 | --- | --- |
 | 4 năm | 8 năm |
 | 4,5 năm | 9 năm |
@@ -183,7 +183,7 @@ Những SV học liên thông (người có bằng tốt nghiệp trình độ c
 
 2. Mỗi HK kéo dài 15 tuần, trong đó gồm có 11 tuần dạy và học, 01 tuần dự trữ và tổ chức thi những học phần thi riêng, 01 tuần tổ chức thi những học phần thi riêng còn lại, 02 tuần tổ chức thi những học phần thi chung và xử lý kết quả đánh giá học phần.
 
-3. Học kỳ 1 bắt đầu từ tuần thứ 37 đến tuần thứ 51 của năm; Học kỳ 2 bắt đầu từ tuần thứ 01 đến tuần thứ 17 của năm (bao gồm 2 tuần nghỉ Tết Nguyên Đán); Học kỳ 3 bắt đầu từ tuần thứ 20 đến tuần thứ 34 của năm. Tuần nghỉ giữa các HK là tuần thứ 18, 19, 35, 36, 52 và tuần thứ 53 (*nếu có*) của năm.
+3. Học kỳ 1 bắt đầu từ tuần thứ 37 đến tuần thứ 51 của năm; Học kỳ 2 bắt đầu từ tuần thứ 01 đến tuần thứ 17 của năm (bao gồm 2 tuần nghỉ Tết Nguyên Đán); Học kỳ 3 bắt đầu từ tuần thứ 20 đến tuần thứ 34 của năm. Tuần nghỉ giữa các HK là tuần thứ 18, 19, 35, 36, 52 và tuần thứ 53 (nếu có) của năm.
 
 #### Điều 7. Học phần, lớp học phần và lớp chuyên ngành
 
@@ -197,9 +197,9 @@ Những SV học liên thông (người có bằng tốt nghiệp trình độ c
 
 5. Học phần song hành của học phần HPxxx là học phần mà SV phải học trước hoặc học cùng lúc với học phần HPxxx.
 
-6. Học phần điều kiện (*bao gồm các học phần Giáo dục Quốc phòng và An ninh (GDQP&AN), Giáo dục thể chất (GDTC), Ngoại ngữ căn bản, Tin học căn bản*) là học phần mà SV phải hoàn thành nhưng kết quả học phần không dùng để tính điểm trung bình chung tích lũy (ĐTBCTL); ngoài ra, điểm học phần GDTC không dùng để tính điểm trung bình chung học kỳ (ĐTBCHK) và điểm trung bình chung năm học (ĐTBCNH).
+6. Học phần điều kiện (bao gồm các học phần Giáo dục Quốc phòng và An ninh (GDQP&AN), Giáo dục thể chất (GDTC), Ngoại ngữ căn bản, Tin học căn bản) là học phần mà SV phải hoàn thành nhưng kết quả học phần không dùng để tính điểm trung bình chung tích lũy (ĐTBCTL); ngoài ra, điểm học phần GDTC không dùng để tính điểm trung bình chung học kỳ (ĐTBCHK) và điểm trung bình chung năm học (ĐTBCNH).
 
-7. Lớp học phần (*được dạy và học trực tiếp hoặc trực tuyến*) là lớp bao gồm những SV đăng ký học cùng thời khóa biểu (*TKB*) của một học phần trong HK. Trong một HK, mỗi học phần có thể có nhiều lớp học phần có TKB với mã số khác nhau và có giảng viên phụ trách.
+7. Lớp học phần (được dạy và học trực tiếp hoặc trực tuyến) là lớp bao gồm những SV đăng ký học cùng thời khóa biểu (TKB) của một học phần trong HK. Trong một HK, mỗi học phần có thể có nhiều lớp học phần có TKB với mã số khác nhau và có giảng viên phụ trách.
 
 8. Lớp chuyên ngành là lớp được hình thành từ đầu khóa học cho đến cuối khóa học. Tổ chức lớp chuyên ngành để duy trì những sinh hoạt đoàn thể, lao động, xét kết quả rèn luyện, xét khen thưởng, phổ biến những thông tin của Trường, đơn vị đào tạo đến SV. Mỗi lớp chuyên ngành có mã số riêng và được bố trí một CVHT để tư vấn và hỗ trợ SV.
 
@@ -217,7 +217,7 @@ a) Một (01) TC được tính tương đương 50 giờ học tập định m�
 
 b) Đối với hoạt động dạy học trên lớp, một TC yêu cầu thực hiện tối thiểu 15 giờ giảng trên lớp (và 30 giờ tự học, chuẩn bị cá nhân có hướng dẫn) hoặc 30 giờ thực hành, thí nghiệm, thảo luận (và 15 giờ tự học, chuẩn bị cá nhân có hướng dẫn). Ngoài ra, một TC yêu cầu thực hiện tối thiểu 45 giờ cho các hoạt động thực tập tại cơ sở, làm tiểu luận, bài tập lớn, đồ án, niên luận, tiểu luận tốt nghiệp, luận văn tốt nghiệp.
 
-2. Một giờ giảng trên lớp (*sau đây gọi là tiết*) được tính bằng 50 phút.
+2. Một giờ giảng trên lớp (sau đây gọi là tiết) được tính bằng 50 phút.
 
 #### Điều 9. Học bổng và trợ cấp xã hội
 
@@ -313,8 +313,9 @@ b) Số lượng TC mà SV tích lũy tại cơ sở đào tạo khác (*nếu c
 
 Sinh viên chuyển cơ sở đào tạo, chuyển chương trình, ngành đào tạo hoặc chuyển hình thức học; SV trao đổi và hợp tác trong đào tạo được xem xét công nhận kết quả học tập hoặc chuyển đổi TC đã tích lũy theo quy định hiện hành của Trường.
 
-## Chương II
-## TỔ CHỨC ĐÀO TẠO
+# Chương II
+
+# TỔ CHỨC ĐÀO TẠO
 
 #### Điều 13. Trách nhiệm của Trường Đại học Cần Thơ và sinh viên trong việc đăng ký học phần
 
@@ -326,7 +327,7 @@ b) Viên chức phụ trách công tác CVHT chịu trách nhiệm quản lý SV
 
 c) Đầu mỗi HK, Trường thông báo cho SV những học phần sẽ giảng dạy trong HK đó và TKB của từng học phần tương ứng.
 
-2. Trách nhiệm của SV: SV phải thực hiện đăng ký học phần trước khi HK mới bắt đầu (*SV mới trúng tuyển không phải đăng ký học phần cho HK đầu tiên của khóa học*). Các học phần đăng ký phải theo KHHTTK (*xem Điều 4*).
+2. Trách nhiệm của SV: SV phải thực hiện đăng ký học phần trước khi HK mới bắt đầu (SV mới trúng tuyển không phải đăng ký học phần cho HK đầu tiên của khóa học). Các học phần đăng ký phải theo KHHTTK (xem Điều 4).
 
 #### Điều 14. Số tín chỉ đăng ký trong một học kỳ
 
@@ -346,7 +347,7 @@ Tuỳ theo năng lực học tập và điều kiện cá nhân, SV nên đăng 
 
 #### Điều 15. Quy trình đăng ký học phần
 
-Sinh viên dựa vào KHHTTK và TKB các học phần giảng dạy trong HK do Trường ĐHCT công bố để đăng ký học phần tại hệ thống quản lý trực tuyến theo kế hoạch chung. Sau tuần lễ thứ 2 của HK, SV vào hệ thống quản lý trực tuyến để in "Kết quả đăng ký học phần".
+Sinh viên dựa vào KHHTTK và TKB các học phần giảng dạy trong HK do Trường ĐHCT công bố để đăng ký học phần tại hệ thống quản lý trực tuyến theo kế hoạch chung. Sau tuần lễ thứ 2 của HK, SV vào hệ thống quản lý trực tuyến để in “Kết quả đăng ký học phần”.
 
 **Lưu ý:**
 
@@ -362,9 +363,9 @@ Sinh viên dựa vào KHHTTK và TKB các học phần giảng dạy trong HK do
 
 #### Điều 16. Xóa và mở thêm lớp học phần
 
-1. Xóa lớp học phần: Trường ĐHCT sẽ xóa những lớp học phần có số lượng đăng ký ít hơn 20 SV, những trường hợp đặc biệt do Hiệu trưởng quyết định. Trong tuần đầu HK, những SV đã đăng ký các học phần bị xóa do không đủ điều kiện mở lớp được phép đăng ký học phần khác để thay thế (*trừ các học phần thực hành, thí nghiệm, thực tập tại cơ sở, GDQP&AN, GDTC*).
+1. Xóa lớp học phần: Trường ĐHCT sẽ xóa những lớp học phần có số lượng đăng ký ít hơn 20 SV, những trường hợp đặc biệt do Hiệu trưởng quyết định. Trong tuần đầu HK, những SV đã đăng ký các học phần bị xóa do không đủ điều kiện mở lớp được phép đăng ký học phần khác để thay thế (trừ các học phần thực hành, thí nghiệm, thực tập tại cơ sở, GDQP&AN, GDTC).
 
-2. Mở thêm lớp học phần: trong thời gian quy định đăng ký học phần của HK, nếu có từ 20 SV trở lên có nguyện vọng học, được trưởng bộ môn (*thuộc khoa, viện hoặc trung tâm*) hoặc trưởng khoa (*thuộc trường chuyên ngành*) quản lý học phần đó chấp thuận, Trường ĐHCT sẽ mở thêm lớp học phần theo đề nghị.
+2. Mở thêm lớp học phần: trong thời gian quy định đăng ký học phần của HK, nếu có từ 20 SV trở lên có nguyện vọng học, được trưởng bộ môn (thuộc khoa, viện hoặc trung tâm) hoặc trưởng khoa (thuộc trường chuyên ngành) quản lý học phần đó chấp thuận, Trường ĐHCT sẽ mở thêm lớp học phần theo đề nghị.
 
 #### Điều 17. Đăng ký học lại
 
@@ -448,26 +449,26 @@ CVHT thông báo về gia đình những trường hợp SV bị cảnh báo h�
 
 #### Điều 19. Giờ lên lớp
 
-Sinh viên phải dự 100% số tiết đối với các học phần thực hành, thí nghiệm, thực tập tại cơ sở, GDQP&AN, GDTC; phải tham dự tối thiểu 80% số tiết đối với các học phần lý thuyết. SV vắng tham gia lớp nhiều hơn thời gian quy định sẽ bị cấm thi. Giảng viên (*GV*) giảng dạy học phần đề nghị trưởng đơn vị đào tạo duyệt danh sách SV bị cấm thi và cho điểm F vào bảng điểm.
+Sinh viên phải dự 100% số tiết đối với các học phần thực hành, thí nghiệm, thực tập tại cơ sở, GDQP&AN, GDTC; phải tham dự tối thiểu 80% số tiết đối với các học phần lý thuyết. SV vắng tham gia lớp nhiều hơn thời gian quy định sẽ bị cấm thi. Giảng viên (GV) giảng dạy học phần đề nghị trưởng đơn vị đào tạo duyệt danh sách SV bị cấm thi và cho điểm F vào bảng điểm.
 
-Vào buổi học đầu tiên, GV thông báo cho SV biết đề cương chi tiết học phần (*nội dung học phần, chuẩn đầu ra của học phần, phương pháp giảng dạy, hình thức kiểm tra, đánh giá, cách tính điểm,...*).
+Vào buổi học đầu tiên, GV thông báo cho SV biết đề cương chi tiết học phần (*nội dung học phần, chuẩn đầu ra của học phần, phương pháp giảng dạy, hình thức kiểm tra, đánh giá, cách tính điểm,...*)
 
-Công tác giảng dạy, học tập được thực hiện 6 ngày/tuần (*trừ Chủ nhật*). Thời gian giảng dạy trong ngày được phân bố như bảng dưới đây:
+Công tác giảng dạy, học tập được thực hiện 6 ngày/tuần (*trừ Chủ nhật*). Thời gian giảng dạy trong ngày được phân bổ như bảng dưới đây:
 
 | BUỔI HỌC | TIẾT | GIỜ HỌC | THỜI GIAN NGHỈ |
 | --- | --- | --- | --- |
 | SÁNG | 1 | **07:00** – 07:50 | Không |
-|  | 2 | 07:50 – 08:40 | 10 phút |
-|  | 3 | 08:50 – 09:40 | 10 phút |
-|  | 4 | 09:50 – 10:40 | Không |
-|  | 5 | 10:40 – **11:30** |  |
+| SÁNG | 2 | 07:50 – 08:40 | 10 phút |
+| SÁNG | 3 | 08:50 – 09:40 | 10 phút |
+| SÁNG | 4 | 09:50 – 10:40 | Không |
+| SÁNG | 5 | 10:40 – **11:30** |  |
 | CHIỀU | 6 | **13:30** – 14:20 | Không |
-|  | 7 | 14:20 – 15:10 | 10 phút |
-|  | 8 | 15:20 – 16:10 | Không |
-|  | 9 | 16:10 – **17:00** |  |
-| TỐI | 10 | **Tiết nghỉ chung** |  |
-|  | 11 | **18:20** – 19:10 | Không |
-|  | 12 | 19:10 – **20:00** |  |
+| CHIỀU | 7 | 14:20 – 15:10 | 10 phút |
+| CHIỀU | 8 | 15:20 – 16:10 | Không |
+| CHIỀU | 9 | 16:10 – **17:00** |  |
+|  | 10 | **Tiết nghỉ chung** |  |
+| TỐI | 11 | **18:20** – 19:10 | Không |
+| TỐI | 12 | 19:10 – **20:00** |  |
 
 ---
 
@@ -507,7 +508,7 @@ c) Sau khi tốt nghiệp chương trình thứ nhất, SV sẽ được chuyể
 
 6. Khi học chương trình thứ hai, SV được công nhận kết quả của những học phần có nội dung và khối lượng kiến thức tương đương có trong chương trình thứ nhất.
 
-7. Trong quá trình SV học cùng lúc hai chương trình, nếu ĐTBCHK dưới 2,00 sẽ không được đăng ký học học phần thuộc chương trình thứ hai ở HK tiếp theo và chỉ được học tiếp chương trình thứ hai khi kết quả học tập được cải thiện. Riêng SV thuộc Khóa 47 trở về sau, nếu ĐTBCTL dưới 2,00 hoặc thuộc diện bị cảnh báo học tập thì phải dừng học chương trình thứ hai ở HK tiếp theo; SV sẽ bị loại khỏi danh sách đã đăng ký học chương trình thứ hai và được đăng ký lại chương trình thứ hai nếu đạt điều kiện được quy định tại khoản 1 Điều này.
+7. Trong quá trình SV học cùng lúc hai chương trình, nếu ĐTBCHK dưới 2,00 sẽ không được đăng ký học học phần thuộc chương trình thứ hai ở HK tiếp theo và chỉ được học tiếp chương trình thứ hai khi kết quả học tập được cải thiện. Riêng SV thuộc Khóa 47 trở về sau, nếu ĐTBCTL dưới 2,00 hoặc thuộc diện bị cảnh báo học tập thì phải dừng học chương trình thứ hai ở HK tiếp theo; SV sẽ bị loại khỏi danh sách đã đăng ký học chương trình thứ hai và được đăng ký lại chương trình thứ hai nếu đạt điều kiện quy định tại khoản 1 Điều này.
 
 ---
 
@@ -528,7 +529,7 @@ c) Sau khi tốt nghiệp chương trình thứ nhất, SV sẽ được chuyể
 
 3. Đối với các học phần có khối lượng nhỏ hơn 02 TC có thể chỉ có điểm của một loại hình đánh giá.
 
-4. Hình thức đánh giá trực tuyến được áp dụng khi đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp, đồng thời đóng góp không quá 50% trọng số tổng điểm học phần; riêng việc tổ chức bảo vệ và đánh giá luận văn tốt nghiệp được thực hiện trực tuyến với trọng số cao hơn khi đáp ứng thêm các điều kiện sau đây:
+4. Hình thức đánh giá trực tuyến được áp dụng khi đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp, đồng thời đóng góp không quá 50% trong số tổng điểm học phần; riêng việc tổ chức bảo vệ và đánh giá luận văn tốt nghiệp được thực hiện trực tuyến với trọng số cao hơn khi đáp ứng thêm các điều kiện sau đây:
 
 a) Việc đánh giá được thực hiện thông qua một hội đồng chuyên môn gồm ít nhất 3 thành viên;
 
@@ -542,7 +543,7 @@ Phương pháp đánh giá, hình thức đánh giá học phần, trọng số 
 
 #### Điều 22. Điểm học phần
 
-1. Điểm đánh giá thành phần và điểm thi kết thúc học phần được chấm theo thang điểm 10 (*từ 0 đến 10*), làm tròn đến một chữ số thập phân.
+1. Điểm đánh giá thành phần và điểm thi kết thúc học phần được chấm theo thang điểm 10 (từ 0 đến 10), làm tròn đến một chữ số thập phân.
 
 2. Điểm học phần là tổng số điểm của tất cả các điểm đánh giá thành phần của học phần nhân với trọng số tương ứng. Điểm học phần được tính theo thang điểm 10
 
@@ -554,34 +555,34 @@ Phương pháp đánh giá, hình thức đánh giá học phần, trọng số 
 
 và làm tròn đến một chữ số thập phân. GV phụ trách học phần nhập điểm vào hệ thống quản lý trực tuyến, hệ thống quy đổi sang điểm chữ và điểm số theo thang điểm 4. Cách quy đổi điểm được thực hiện theo bảng dưới đây:
 
-| Điểm sốtheo thang điểm 10 | Điểm chữ | Điểm sốtheo thang điểm 4 |
+| Điểm số<br>theo thang điểm 10 | Điểm chữ | Điểm số<br>theo thang điểm 4 |
 | --- | --- | --- |
 | 9,0 – 10,0 | A | 4,0 |
-| 8,0 – 8,9 | B+ | 3,5 |
+| 8,0 – 8,9 | B + | 3,5 |
 | 7,0 – 7,9 | B | 3,0 |
-| 6,5 – 6,9 | C+ | 2,5 |
+| 6,5 – 6,9 | C + | 2,5 |
 | 5,5 – 6,4 | C | 2,0 |
-| 5,0 – 5,4 | D+ | 1,5 |
+| 5,0 – 5,4 | D + | 1,5 |
 | 4,0 – 4,9 | D | 1,0 |
 | nhỏ hơn 4,0 | F | 0,0 |
 
 3. Học phần chỉ được tính tích lũy khi đạt từ điểm D trở lên.
 
-4. Điểm học phần sẽ được công bố và ghi nhận với điểm số theo thang điểm 10 và điểm chữ. Điểm chữ được quy đổi sang điểm số theo thang điểm 4 để tính ĐTBCHK và ĐTBCTL *(xem Điều 24)*.
+4. Điểm học phần sẽ được công bố và ghi nhận với điểm số theo thang điểm 10 và điểm chữ. Điểm chữ được quy đổi sang điểm số theo thang điểm 4 để tính ĐTBCHK và ĐTBCTL (xem Điều 24).
 
 5. Các điểm học phần khác.
 
-a) Điểm M *(tương đương điểm R của Thông tư 08/2021/TT-BGDĐT)*: dùng để xác nhận học phần SV được miễn học do đã tích lũy được bằng các hình thức khác. Điểm M không được tính vào ĐTBCHK và ĐTBCTL. Số TC của học phần có điểm M được tính vào tổng số TC tích lũy. Để nhận điểm M, SV phải làm đơn có ý kiến của trưởng đơn vị đào tạo xem xét theo từng HK, kèm theo giấy tờ hợp lệ.
+a) Điểm M (*tương đương điểm R của Thông tư 08/2021/TT-BGDĐT*): dùng để xác nhận học phần SV được miễn học do đã tích lũy được bằng các hình thức khác. Điểm M không được tính vào ĐTBCHK và ĐTBCTL. Số TC của học phần có điểm M được tính vào tổng số TC tích lũy. Để nhận điểm M, SV phải làm đơn có ý kiến của trưởng đơn vị đào tạo xem xét theo từng HK, kèm theo giấy tờ hợp lệ.
 
 b) Điểm I: chỉ áp dụng cho đánh giá kết thúc học phần. Dành cho các trường hợp SV đã dự học, dự các lần kiểm tra giữa HK, đã thực hiện các hoạt động liên quan đến học phần như thí nghiệm, thực hành nhưng vì lý do bất khả kháng như ốm đau, tai nạn,... đã vắng mặt trong buổi thi kết thúc học phần và được GV phụ trách học phần chấp thuận cho bổ sung điểm. Điểm I không được tính vào ĐTBCHK ở HK đó. Để nhận được điểm I, SV phải làm đơn kèm theo hồ sơ hợp lệ nộp cho GV giảng dạy học phần xem xét và trình trưởng đơn vị đào tạo duyệt. Thời hạn bổ sung điểm của học phần do GV quy định nhưng không quá 1 năm kể từ ngày thi lần trước. Quá thời hạn trên, nếu SV không hoàn thành thi học phần thì sẽ nhận điểm F.
 
-c) Điểm W: dành cho các học phần mà SV được phép rút theo quy định *(xem Điều 15)*. Điểm W không tính vào ĐTBCHK và ĐTBCTL.
+c) Điểm W: dành cho các học phần mà SV được phép rút theo quy định (*xem Điều 15*). Điểm W không tính vào ĐTBCHK và ĐTBCTL.
 
 #### Điều 23. Số lần thi, tổ chức thi và vắng thi
 
 1. Kỳ thi kết thúc học phần được tổ chức 1 lần.
 
-2. Thời gian tổ chức thi được thực hiện theo quy định *(xem Điều 6)*. Đối với các học phần riêng lẻ, GV tự sắp xếp để tổ chức thi thông qua hệ thống quản lý trực tuyến của Trường ĐHCT; đối với các học phần có nhiều SV, được giảng dạy nhiều lớp học phần thì có thể thi theo lịch chung do đơn vị quản lý học phần quyết định và xếp lịch thi.
+2. Thời gian tổ chức thi được thực hiện theo quy định (xem Điều 6). Đối với các học phần riêng lẻ, GV tự sắp xếp để tổ chức thi thông qua hệ thống quản lý trực tuyến của Trường ĐHCT; đối với các học phần có nhiều SV, được giảng dạy nhiều lớp học phần thì có thể thi theo lịch chung do đơn vị quản lý học phần quyết định và xếp lịch thi.
 
 ---
 
@@ -591,13 +592,13 @@ c) Điểm W: dành cho các học phần mà SV được phép rút theo quy đ
 
 Lịch thi kết thúc học phần được công bố trên Hệ thống quản lý trực tuyến và được GV thông báo đến tất cả SV chậm nhất 1 tuần trước ngày thi.
 
-3. Trong thời gian thi kết thúc học phần, nếu SV có lý do chính đáng không thể dự thi, được CVHT và GV giảng dạy học phần chấp thuận thì được phép vắng thi. Sinh viên được phép vắng thi sẽ nhận điểm I theo quy định (*xem điểm b khoản 5 Điều 22*).
+3. Trong thời gian thi kết thúc học phần, nếu SV có lý do chính đáng không thể dự thi, được CVHT và GV giảng dạy học phần chấp thuận thì được phép vắng thi. Sinh viên được phép vắng thi sẽ nhận điểm I theo quy định (xem điểm b khoản 5 Điều 22).
 
 #### Điều 24. Điểm trung bình chung học kỳ, điểm trung bình chung năm học và điểm trung bình chung tích lũy
 
 1. Số TC tích lũy là tổng số TC của các học phần đã tích lũy.
 
-2. Điểm trung bình chung học kỳ là trung bình có trọng số của điểm các học phần mà SV đã học trong HK (*kể cả các học phần bị điểm F và học phần điều kiện trừ học phần GDTC*), với trọng số là số TC của các học phần đó. ĐTBCHK là cơ sở để đánh giá kết quả học tập, xét học bổng, khen thưởng, cảnh báo học tập sau mỗi HK. ĐTBCHK được tính theo công thức tính như sau:
+2. Điểm trung bình chung học kỳ là trung bình có trọng số của điểm các học phần mà SV đã học trong HK (kể cả các học phần bị điểm F và học phần điều kiện trừ học phần GDTC), với trọng số là số TC của các học phần đó. ĐTBCHK là cơ sở để đánh giá kết quả học tập, xét học bổng, khen thưởng, cảnh báo học tập sau mỗi HK. ĐTBCHK được tính theo công thức tính như sau:
 
 $$ ĐTBCHK = \frac{\sum_{i=1}^{n} a_i X_i}{\sum_{i=1}^{n} a_i} $$
 
@@ -605,9 +606,9 @@ Trong đó: $X_i$ là điểm học phần thứ i;
 $a_i$ là số TC của học phần thứ i;
 n là số học phần SV đăng ký học trong HK.
 
-3. Điểm trung bình chung năm học là trung bình có trọng số của điểm các học phần mà SV đã học trong năm học (*kể cả các học phần bị điểm F và học phần điều kiện trừ học phần GDTC*).
+3. Điểm trung bình chung năm học là trung bình có trọng số của điểm các học phần mà SV đã học trong năm học (kể cả các học phần bị điểm F và học phần điều kiện trừ học phần GDTC).
 
-4. Điểm trung bình chung tích lũy là trung bình có trọng số của điểm các học phần đã tích lũy tính đến thời điểm xét (*không bao gồm các học phần bị điểm F và học phần điều kiện*). ĐTBCTL là cơ sở để đánh giá kết quả học tập trong suốt thời gian học, xếp loại học tập, xếp hạng tốt nghiệp.
+4. Điểm trung bình chung tích lũy là trung bình có trọng số của điểm các học phần đã tích lũy tính đến thời điểm xét (không bao gồm các học phần bị điểm F và học phần điều kiện). ĐTBCTL là cơ sở để đánh giá kết quả học tập trong suốt thời gian học, xếp loại học tập, xếp hạng tốt nghiệp.
 
 5. Xếp loại học tập HK căn cứ vào ĐTBCHK; xếp loại học tập năm học căn cứ vào ĐTBCNH theo bảng sau:
 
@@ -648,7 +649,7 @@ b) Điểm rèn luyện của SV từng HK là tiêu chí để xét HBKKHT, x�
 
 #### Điều 26. Xếp loại và khen thưởng
 
-1. Xếp loại: SV học đủ số TC theo quy định (*từ 12 TC trở lên cho mỗi HK*), có tiến độ học tập trong khung thời gian thiết kế CTĐT, không vi phạm kỷ luật từ hình thức khiển trách cấp Trường trở lên, đạt thành tích cao trong học tập và rèn luyện sẽ được xếp loại như sau:
+1. Xếp loại: SV học đủ số TC theo quy định (từ 12 TC trở lên cho mỗi HK), có tiến độ học tập trong khung thời gian thiết kế CTĐT, không vi phạm kỷ luật từ hình thức khiển trách cấp Trường trở lên, đạt thành tích cao trong học tập và rèn luyện sẽ được xếp loại như sau:
 
 a) Loại xuất sắc: học tập và rèn luyện đạt loại xuất sắc.
 
@@ -678,7 +679,7 @@ Sinh viên có trách nhiệm chấp hành các quy định về thi và kiểm 
 
 1. Thực hiện đúng lịch kiểm tra và thi của Trường ĐHCT, của đơn vị đào tạo. Phải có mặt đúng giờ, nếu đến trễ 15 phút sau khi mở đề, SV sẽ không được dự thi và xem như vắng thi không lý do, sẽ nhận điểm F cho học phần đó.
 
-2. Phải mang thẻ SV (*hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân như chứng*
+2. Phải mang thẻ SV (hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân như chứng)
 
 ---
 
@@ -686,7 +687,7 @@ Sinh viên có trách nhiệm chấp hành các quy định về thi và kiểm 
 
 <!-- page: 17 -->
 
-minh nhân dân, căn cước công dân, hộ chiếu, giấy phép lái xe,...) khi vào phòng thi. Tuyệt đối chấp hành sự kiểm tra, quản lý và hướng dẫn của cán bộ coi thi (CBCT). Các vật dụng không được sử dụng trong quá trình thi phải để tập trung đúng nơi quy định.
+minh nhân dân, căn cước công dân, hộ chiếu, giấy phép lái xe,...) khi vào phòng thi. Tuyệt đối chấp hành sự kiểm tra, quản lý và hướng dẫn của cán bộ coi thi (*CBCT*). Các vật dụng không được sử dụng trong quá trình thi phải để tập trung đúng nơi quy định.
 
 3. Trong thời gian thi, SV chỉ được ra ngoài phòng thi nếu có lý do chính đáng, được CBCT đồng ý và lập biên bản.
 
@@ -766,7 +767,7 @@ Các trường hợp vi phạm khác tùy mức độ sẽ do Hội đồng kỷ
 
 #### Điều 29. Thông báo kết quả học tập
 
-1. Giảng viên chịu trách nhiệm: thông báo điểm đánh giá thành phần; giải đáp thắc mắc (*nếu có*) của SV về kết quả học tập của học phần; nhập điểm học phần vào hệ thống quản lý trực tuyến và in hai *(02)* bản điểm, ký tên, gửi đơn vị đào tạo quản lý học phần. Đơn vị đào tạo quản lý học phần lưu một *(01)* bản và gửi về Phòng Đào tạo một *(01)* bản chậm nhất là 10 ngày kể từ ngày kết thúc kế hoạch nhập điểm của HK. Trưởng đơn vị đào tạo quản lý học phần ký duyệt bảng điểm và xử lý tất cả khiếu nại liên quan đến kết quả học tập của học phần do đơn vị đào tạo quản lý và chỉ thực hiện trong thời gian 1 tuần kể từ ngày công bố điểm.
+1. Giảng viên chịu trách nhiệm: thông báo điểm đánh giá thành phần; giải đáp thắc mắc (nếu có) của SV về kết quả học tập của học phần; nhập điểm học phần vào hệ thống quản lý trực tuyến và in hai (02) bản điểm, ký tên, gửi đơn vị đào tạo quản lý học phần. Đơn vị đào tạo quản lý học phần lưu một (01) bản và gửi về Phòng Đào tạo một (01) bản chậm nhất là 10 ngày kể từ ngày kết thúc kế hoạch nhập điểm của HK. Trưởng đơn vị đào tạo quản lý học phần ký duyệt bảng điểm và xử lý tất cả khiếu nại liên quan đến kết quả học tập của học phần do đơn vị đào tạo quản lý và chỉ thực hiện trong thời gian 1 tuần kể từ ngày công bố điểm.
 
 2. Đơn vị quản lý học phần lưu giữ các bài thi viết, tiểu luận ít nhất là 05 năm kể từ ngày thi hoặc ngày nộp tiểu luận.
 
@@ -776,7 +777,7 @@ Các trường hợp vi phạm khác tùy mức độ sẽ do Hội đồng kỷ
 
 Xếp trình độ năm học được xác định dựa vào tổng số TC mà SV đã tích lũy, không dựa vào thời gian SV vào Trường. Sau mỗi HK, căn cứ vào khối lượng TC tích lũy, SV được xếp trình độ năm học như sau:
 
-| Xếp trình độ năm học | Số TC đã tích lũy (K.36 đến K.39) | Số TC đã tích lũy (từ K.40 đến K.44) | Số TC đã tích lũy (từ K.45 trở về sau) |
+| Xếp trình độ<br>năm học | Số TC đã tích lũy<br>(K.36 đến K.39) | Số TC đã tích lũy<br>(từ K.40 đến K.44) | Số TC đã tích lũy<br>(từ K.45 trở về sau) |
 | --- | --- | --- | --- |
 | Năm thứ nhất | Dưới 30 | Dưới 36 | Dưới 36 |
 | Năm thứ hai | Từ 30 đến dưới 60 | Từ 36 đến 70 | Từ 36 đến 70 |
@@ -790,17 +791,17 @@ Xếp trình độ năm học được xác định dựa vào tổng số TC m�
 
 <!-- page: 19 -->
 
-### Chương IV
+# Chương IV
 
-### XÉT VÀ CÔNG NHẬN TỐT NGHIỆP
+# XÉT VÀ CÔNG NHẬN TỐT NGHIỆP
 
 #### Điều 31. Luận văn, tiểu luận tốt nghiệp và tích lũy tín chỉ tốt nghiệp
 
 Tùy theo tính chất của ngành đào tạo, SV được hướng dẫn thực hiện một trong ba hình thức sau:
 
-1. Luận văn tốt nghiệp (*LVTN*): sau khi hoàn thành luận văn, SV sẽ bảo vệ trước hội đồng gồm 3 thành viên, trong đó có cán bộ hướng dẫn SV đó. Điểm LVTN của SV là trung bình cộng của 3 thành viên hội đồng (*trọng số bằng nhau*). Hội đồng bảo vệ LVTN do trưởng đơn vị đào tạo quyết định. Trường hợp không thể tổ chức đánh giá tập trung tại Trường, việc tổ chức bảo vệ và đánh giá LVTN được thực hiện trực tuyến (*xem khoản 4 Điều 21 Quy định này*).
+1. Luận văn tốt nghiệp (LVTN): sau khi hoàn thành luận văn, SV sẽ bảo vệ trước hội đồng gồm 3 thành viên, trong đó có cán bộ hướng dẫn SV đó. Điểm LVTN của SV là trung bình cộng của 3 thành viên hội đồng (trọng số bằng nhau). Hội đồng bảo vệ LVTN do trưởng đơn vị đào tạo quyết định. Trường hợp không thể tổ chức đánh giá tập trung tại Trường, việc tổ chức bảo vệ và đánh giá LVTN được thực hiện trực tuyến (xem khoản 4 Điều 21 Quy định này).
 
-2. Tiểu luận tốt nghiệp (*TLTN*): TLTN do cán bộ hướng dẫn và 1 cán bộ khác chấm, không phải bảo vệ trước hội đồng. Cán bộ chấm TLTN do trưởng đơn vị đào tạo quyết định.
+2. Tiểu luận tốt nghiệp (TLTN): TLTN do cán bộ hướng dẫn và 1 cán bộ khác chấm, không phải bảo vệ trước hội đồng. Cán bộ chấm TLTN do trưởng đơn vị đào tạo quyết định.
 
 3. Tích lũy TC tốt nghiệp: SV có thể chọn hình thức không làm LVTN hoặc TLTN. Những SV này phải học thêm các học phần tự chọn để đủ số TC theo yêu cầu của CTĐT.
 
@@ -879,6 +880,6 @@ Bằng tốt nghiệp chỉ cấp một lần. Trường hợp bằng tốt nghi
 
 **HIỆU TRƯỞNG**
 
-Dấu và chữ ký của Hiệu trưởng Trần Trung Tính
+Seal of Can Tho University and signature of Tran Trung Tinh
 
 **Trần Trung Tính**

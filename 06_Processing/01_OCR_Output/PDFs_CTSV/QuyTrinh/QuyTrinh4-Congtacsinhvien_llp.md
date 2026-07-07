@@ -1,18 +1,19 @@
 ---
 document_key: ctu-ctsv-quytrinh4-congtacsinhvien
-version_key: ctu-ctsv-quytrinh4-congtacsinhvien-503e1bbb8b83
+version_key: ctu-ctsv-quytrinh4-congtacsinhvien-98baa49b3463
 title: "LĨNH VỰC CÔNG TÁC SINH VIÊN"
 document_type: quy_trinh
 domain: sinh_vien
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: PCTSV
+issuing_authority: "Đại học Cần Thơ"
+responsible_department: 
+- PCTSV
+- PDT
 signer_name: ""
 audience:
   - student
 code: ""
 issued_date:
 effective_date:
-version_label: ""
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -22,15 +23,13 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/QuyTrinh/QuyTrinh4-Congtacsinhvien.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/QuyTrinh/QuyTrinh4-Congtacsinhvien.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 503e1bbb8b83bca96f934fb306d4dd88
+checksum: 98baa49b3463fd8eaf81041177f63986bca26294127e4533da74fd253192630b
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T01:13:29+07:00"
-updated_at: "2026-07-05T01:13:29+07:00"
+created_at: "2026-07-07T00:13:34+07:00"
+updated_at: "2026-07-07T00:13:34+07:00"
 notes: ""
 ---
 
@@ -40,11 +39,11 @@ notes: ""
 
 # LĨNH VỰC CÔNG TÁC SINH VIÊN
 
-45. QUY TRÌNH CÔNG TÁC ĐÁNH GIÁ ĐIỂM RÈN LUYỆN .................................................................. 2
-46. QUY TRÌNH CÔNG TÁC XÉT KHEN THƯỞNG SINH VIÊN HÀNG NĂM ....................................... 5
-47. CẤP HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP ...................................................................................... 7
-48. QUY TRÌNH CÔNG TÁC XÉT CẤP HỌC BỔNG TÀI TRỢ .................................................................. 9
-49. QUY TRÌNH CỬ SINH VIÊN ĐI ĐÀO TẠO SĨ QUAN DỰ BỊ ............................................................ 11
+### 45. QUY TRÌNH CÔNG TÁC ĐÁNH GIÁ ĐIỂM RÈN LUYỆN .................................................................. 2
+### 46. QUY TRÌNH CÔNG TÁC XÉT KHEN THƯỞNG SINH VIÊN HÀNG NĂM ....................................... 5
+### 47. CẤP HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP ...................................................................................... 7
+### 48. QUY TRÌNH CÔNG TÁC XÉT CẤP HỌC BỔNG TÀI TRỢ .................................................................. 9
+### 49. QUY TRÌNH CỬ SINH VIÊN ĐI ĐÀO TẠO SĨ QUAN DỰ BỊ ............................................................ 11
 
 ---
 
@@ -60,13 +59,13 @@ notes: ""
 
 ### 1. CƠ SỞ THỰC HIỆN
 
-#### 1.1 Mục đích, yêu cầu, phạm vi áp dụng
+1.1 Mục đích, yêu cầu, phạm vi áp dụng
 
 a. Mục đích: Kết quả điểm rèn luyện được dùng để xét học bổng khuyến khích, khen thưởng năm học, khen thưởng tốt nghiệp, ...
 
 b. Yêu cầu: Mỗi học kỳ, sinh viên phải lập phiếu “Bảng đánh giá kết quả rèn luyện”.
 
-c. Phạm vi áp dụng: Sinh viên đang học tại Trường hệ chính quy, dự bị đại học *(theo quy định hiện hành của Bộ Giáo dục và Đào tạo).*
+## c. Phạm vi áp dụng: Sinh viên đang học tại Trường hệ chính quy, dự bị đại học (theo quy định hiện hành của Bộ Giáo dục và Đào tạo).
 
 #### 1.2 Văn bản áp dụng:
 
@@ -118,16 +117,16 @@ c. Phạm vi áp dụng: Sinh viên đang học tại Trường hệ chính quy,
 
 <!-- page: 4 -->
 
-II. LƯU ĐỒ:
+## II. LƯU ĐỒ:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Thông báo triển khai đánh giá | - Phát hành thông báo triển khai đánh giá ĐRL cho SV;<br/>- Phát hành phiếu đánh giá ĐRL, danh sách ghi ĐRL về Khoa. | - Phòng CTSV | HK1: từ 01/12 đến 15/12;<br/>HK2: từ 01/5 đến 15/5 |
-| 2 | SV tự chấm điểm ĐRL | - Chuyển phiếu đánh giá rèn luyện về lớp phát cho từng SV.<br/>- SV tiến hành tự đánh giá. | - Đơn vị quản lý đào tạo.<br/>- SV. | 07 ngày làm việc |
-| 3 | Tập thể lớp, CVHT xem xét đánh giá | Căn cứ phiếu tự chấm điểm và minh chứng kèm theo của từng SV, CVHT tổ chức lớp họp xem xét đánh giá và lập danh sách gửi lên Hội đồng đánh giá ĐRL cấp Khoa. | - CVHT, Ban cán sự lớp, Ban chấp hành chi đoàn. | HK1: từ 16/12 đến 24/12;<br/>HK2: từ 16/5 đến 24/5 |
-| 4 | Hội đồng cấp Khoa xét duyệt (Hồ sơ không đạt -> quay lại bước 3; Hồ sơ đạt -> bước 5) | - Hội đồng cấp Khoa tổng hợp các QĐ khen thưởng, kỷ luật SV từ các đơn vị và danh sách đề nghị của lớp -> Kết quả rèn luyện của Khoa;<br/>- Thông báo cho SV và tiếp nhận, giải đáp phản hồi từ SV. | - Đơn vị quản lý đào tạo. | HK1: từ 16/12 đến 15/01;<br/>HK2: từ 16/5 đến 15/6. |
-| 5 | Trình BGH, xem xét, ra QĐ | - Tổng hợp ý kiến phản hồi của SV; Lập danh sách gửi về Trường (Phòng CTSV).<br/>- Lập QĐ trình BGH ký công nhận. | - Đơn vị quản lý đào tạo.<br/>- Phòng CTSV. | HK1: 15/01 đến 30/01;<br/>HK2: 15/6 đến 30/6. |
-| 6 | Phát hành QĐ công nhận ĐRL | - Phòng Đào tạo đưa dữ liệu vào hệ thống quản lý chung;<br/>- Phòng Kế hoạch Tổng hợp, Phòng CTSV lưu QĐ;<br/>- Các đơn vị phụ trách đào tạo để thông báo cho SV. | - Phòng CTSV. | HK1: 01/02;<br/>HK2: 20/7. |
+| QUY TRÌNH CÔNG TÁC ĐÁNH GIÁ ĐIỂM RÈN LUYỆN / Bước | QUY TRÌNH CÔNG TÁC ĐÁNH GIÁ ĐIỂM RÈN LUYỆN / Lưu đồ | QUY TRÌNH CÔNG TÁC ĐÁNH GIÁ ĐIỂM RÈN LUYỆN / Nội dung công việc | QUY TRÌNH CÔNG TÁC ĐÁNH GIÁ ĐIỂM RÈN LUYỆN / Người thực hiện | QUY TRÌNH CÔNG TÁC ĐÁNH GIÁ ĐIỂM RÈN LUYỆN / Thời gian thực hiện | QUY TRÌNH CÔNG TÁC ĐÁNH GIÁ ĐIỂM RÈN LUYỆN / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Thông báo triển khai đánh giá | - Phát hành thông báo triển khai đánh giá ĐRL cho SV;<br>- Phát hành phiếu đánh giá ĐRL, danh sách ghi ĐRL về Khoa. | - Phòng CTSV | HK1: từ 01/12 đến 15/12;<br>HK2: từ 01/5 đến 15/5 |  |
+| 2 | SV tự chấm điểm ĐRL | - Chuyển phiếu đánh giá rèn luyện về lớp phát cho từng SV.<br>- SV tiến hành tự đánh giá. | - Đơn vị quản lý đào tạo.<br>- SV. | 07 ngày làm việc |  |
+| 3 | Tập thể lớp, CVHT xem xét đánh giá | Căn cứ phiếu tự chấm điểm và minh chứng kèm theo của từng SV, CVHT tổ chức lớp họp xem xét đánh giá và lập danh sách gửi lên Hội đồng đánh giá ĐRL cấp Khoa. | - CVHT, Ban cán sự lớp, Ban chấp hành chi đoàn. | HK1: từ 16/12 đến 24/12;<br>HK2: từ 16/5 đến 24/5 |  |
+| 4 | Hội đồng cấp Khoa xét duyệt<br>(Hồ sơ không đạt ➔ Quay lại bước 3)<br>(Hồ sơ đạt ➔ Bước 5) | - Hội đồng cấp Khoa tổng hợp các QĐ khen thưởng, kỷ luật SV từ các đơn vị và danh sách đề nghị của lớp ➔ Kết quả rèn luyện của Khoa;<br>- Thông báo cho SV và tiếp nhận, giải đáp phản hồi từ SV. | - Đơn vị quản lý đào tạo. | HK1: từ 16/12 đến 15/01;<br>HK2: từ 16/5 đến 15/6. |  |
+| 5 | Trình BGH, xem xét, ra QĐ | - Tổng hợp ý kiến phản hồi của SV; Lập danh sách gửi về Trường (Phòng CTSV).<br>- Lập QĐ trình BGH ký công nhận. | - Đơn vị quản lý đào tạo.<br>- Phòng CTSV. | HK1: 15/01 đến 30/01;<br>HK2: 15/6 đến 30/6. |  |
+| 6 | Phát hành QĐ công nhận ĐRL | - Phòng Đào tạo đưa dữ liệu vào hệ thống quản lý chung;<br>- Phòng Kế hoạch Tổng hợp, Phòng CTSV lưu QĐ;<br>- Các đơn vị phụ trách đào tạo để thông báo cho SV. | - Phòng CTSV. | HK1: 01/02;<br>HK2: 20/7. |  |
 
 ---
 
@@ -181,13 +180,13 @@ b. Phạm vi áp dụng: Quy trình này áp dụng đối với các sinh viên
 
 ## II. LƯU ĐỒ:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Danh sách sinh viên dự kiến khen thưởng | - Chuẩn bị dữ liệu khen thưởng;<br/>- Gửi các đơn vị tham khảo;<br/>- Nhận và phản hồi thông tin. | - Phòng Công tác Sinh viên.<br/><br/>- Đơn vị đào tạo, sinh viên. | 03 ngày làm việc.; Đối với khen thưởng khác thì thực hiện ngay. |
-| 2 | Tiếp nhận và phản hồi thông | - Bổ sung hồ sơ. | Đơn vị đào tạo; sinh viên. | 07 ngày làm việc. |
-| 3 | Kiểm<br/>(Hồ sơ đạt / Hồ sơ không đạt) | - Rà soát, kiểm tra trước, đối chiếu thông tin. | - Phòng Công tác Sinh viên. | 03 ngày làm việc. |
-| 4 | Quyết định khen thưởng | - Tổng hợp danh sách;<br/>- Ban hành Quyết định. | - Phòng Công tác Sinh viên.<br/>- Ban Giám hiệu. | 01 ngày làm việc. |
-| 5 | Thực hiện Quyết định khen thưởng | - Chuyển Quyết định cho Phòng Tài vụ, các đơn vị có liên quan, sinh viên;<br/>- Cấp phát tiền khen thưởng.<br/><br/>- Lưu hồ sơ | - Phòng Công tác Sinh viên;<br/><br/><br/>- Phòng Tài vụ; các đơn vị có liên quan; sinh viên;<br/><br/>- Phòng Kế hoạch Tổng hợp, Phòng Công tác Sinh viên. | 01 buổi.<br/><br/><br/>07 ngày làm việc. |
+| QUY TRÌNH XÉT KHEN THƯỞNG SINH VIÊN HÀNG NĂM / Bước | QUY TRÌNH XÉT KHEN THƯỞNG SINH VIÊN HÀNG NĂM / Lưu đồ | QUY TRÌNH XÉT KHEN THƯỞNG SINH VIÊN HÀNG NĂM / Nội dung công việc | QUY TRÌNH XÉT KHEN THƯỞNG SINH VIÊN HÀNG NĂM / Người thực hiện | QUY TRÌNH XÉT KHEN THƯỞNG SINH VIÊN HÀNG NĂM / Thời gian thực hiện | QUY TRÌNH XÉT KHEN THƯỞNG SINH VIÊN HÀNG NĂM / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Danh sách sinh viên dự kiến khen thưởng | - Chuẩn bị dữ liệu khen thưởng;<br>- Gửi các đơn vị tham khảo;<br>- Nhận và phản hồi thông tin. | - Phòng Công tác Sinh viên.<br><br>- Đơn vị đào tạo, sinh viên. | 03 ngày làm việc. | Đối với khen thưởng khác thì thực hiện ngay. |
+| 2 | Tiếp nhận và phản hồi thông | - Bổ sung hồ sơ. | Đơn vị đào tạo; sinh viên. | 07 ngày làm việc. |  |
+| 3 | Kiểm (Hồ sơ đạt / Hồ sơ không đạt) | - Rà soát, kiểm tra trước, đối chiếu thông tin. | - Phòng Công tác Sinh viên. | 03 ngày làm việc. |  |
+| 4 | Quyết định khen thưởng | - Tổng hợp danh sách;<br>- Ban hành Quyết định. | - Phòng Công tác Sinh viên.<br>- Ban Giám hiệu. | 01 ngày làm việc. |  |
+| 5 | Thực hiện Quyết định khen thưởng | - Chuyển Quyết định cho Phòng Tài vụ, các đơn vị có liên quan, sinh viên;<br>- Cấp phát tiền khen thưởng.<br><br>- Lưu hồ sơ | - Phòng Công tác Sinh viên;<br><br><br>- Phòng Tài vụ; các đơn vị có liên quan; sinh viên;<br><br>- Phòng Kế hoạch Tổng hợp, Phòng Công tác Sinh viên. | 01 buổi.<br><br><br>07 ngày làm việc. |  |
 
 ---
 
@@ -201,7 +200,7 @@ b. Phạm vi áp dụng: Quy trình này áp dụng đối với các sinh viên
 
 ### 1. CƠ SỞ THỰC HIỆN:
 
-**1.1 Phạm vi áp dụng:** SV hệ chính quy đang học tại Trường.
+#### 1.1 Phạm vi áp dụng: SV hệ chính quy đang học tại Trường.
 
 #### 1.2 Văn bản áp dụng:
 
@@ -243,13 +242,13 @@ b. Phạm vi áp dụng: Quy trình này áp dụng đối với các sinh viên
 
 ## II. LƯU ĐỒ:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Phân bổ Quỹ học bổng theo lớp ngành/ chuyên ngành | - Thiết lập mức học bổng theo mức thu học phí của năm học;<br/>- Thiết lập Quỹ học bổng cho từng lớp chuyên ngành;<br/>- Quyết định ban hành mức học bổng, quỹ học bổng lớp. | - Phòng CTSV.<br/><br/>- Phòng CTSV.<br/><br/>- Ban Giám hiệu. | Ngày 30/7. |
-| 2 | Dự kiến danh sách học bổng<br/>(Mũi tên quay lại từ bước 3: Không đạt) | - Lập danh sách dự kiến gửi về các đơn vị cho SV. | - Phòng CTSV.<br/><br/>- SV, cố vấn học tập, đơn vị đào tạo. | HK1: ngày 10/8;<br/>HK2: ngày 30/01 |
-| 3 | Tiếp nhận<br/>(Hình thoi) | - Tiếp nhận ý kiến phản ánh của SV;<br/>- Kiểm tra, xử lý ý kiến của SV;<br/>- Phản hồi thông tin. | - Phòng CTSV. |  |
-| 4 | Hồ sơ đạt<br/>Trình BGH, xem xét, ra Quyết định | - Tổng hợp ý kiến phản hồi của SV, lập tờ trình xin ý kiến BGH;<br/>- Quyết định ban hành danh sách SV nhận học bổng khuyến khích. | - Phòng CTSV.<br/><br/><br/>- Ban Giám hiệu | * Học kỳ 1:<br/>Khóa cũ: ngày 15/9,<br/>Khóa mới: ngày 05/11<br/>* Học kỳ 2: ngày 15/3 |
-| 5 | Ban hành danh sách SV nhận học bổng khuyến khích học | - Gửi Quyết định và danh sách SV nhận học bổng cho Phòng Tài vụ, các đơn vị phụ trách đào tạo để biết và thông báo cho SV có tên.<br/>- Lập kế hoạch chuyển tiền cho SV;<br/>- Lưu Quyết định để biết. | - Phòng CTSV.<br/><br/><br/><br/>- Phòng Tài vụ.<br/><br/>- Phòng Kế hoạch Tổng hợp, Phòng CTSV. | * Học kỳ 1:<br/>Khóa cũ 01/10,<br/>Khóa mới 10/11.<br/>* Học kỳ 2: 30/3. |
+| QUY TRÌNH CẤP HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP / Bước | QUY TRÌNH CẤP HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP / Lưu đồ | QUY TRÌNH CẤP HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP / Nội dung công việc | QUY TRÌNH CẤP HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP / Người thực hiện | QUY TRÌNH CẤP HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP / Thời gian thực hiện | QUY TRÌNH CẤP HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Phân bổ Quỹ học bổng theo lớp ngành/ chuyên ngành | - Thiết lập mức học bổng theo mức thu học phí của năm học;<br>- Thiết lập Quỹ học bổng cho từng lớp chuyên ngành;<br>- Quyết định ban hành mức học bổng, quỹ học bổng lớp. | - Phòng CTSV.<br><br>- Phòng CTSV.<br><br>- Ban Giám hiệu. | Ngày 30/7. |  |
+| 2 | Dự kiến danh sách học bổng | - Lập danh sách dự kiến gửi về các đơn vị cho SV. | - Phòng CTSV.<br><br>- SV, cố vấn học tập, đơn vị đào tạo. | HK1: ngày 10/8;<br>HK2: ngày 30/01 |  |
+| 3 | Tiếp nhận (Không đạt -> quay lại bước 2) | - Tiếp nhận ý kiến phản ánh của SV;<br>- Kiểm tra, xử lý ý kiến của SV;<br>- Phản hồi thông tin. | - Phòng CTSV. |  |  |
+| 4 | Hồ sơ đạt -> Trình BGH, xem xét, ra Quyết định | - Tổng hợp ý kiến phản hồi của SV, lập tờ trình xin ý kiến BGH;<br>- Quyết định ban hành danh sách SV nhận học bổng khuyến khích. | - Phòng CTSV.<br><br>- Ban Giám hiệu | \* Học kỳ 1:<br>Khóa cũ: ngày 15/9,<br>Khóa mới: ngày 05/11<br>\* Học kỳ 2: ngày 15/3 |  |
+| 5 | Ban hành danh sách SV nhận học bổng khuyến khích học | - Gửi Quyết định và danh sách SV nhận học bổng cho Phòng Tài vụ, các đơn vị phụ trách đào tạo để biết và thông báo cho SV có tên.<br>- Lập kế hoạch chuyển tiền cho SV;<br>- Lưu Quyết định để biết. | - Phòng CTSV.<br><br><br>- Phòng Tài vụ.<br><br>- Phòng Kế hoạch Tổng hợp, Phòng CTSV. | \* Học kỳ 1:<br>Khóa cũ 01/10,<br>Khóa mới 10/11.<br>\* Học kỳ 2: 30/3. |  |
 
 ---
 
@@ -287,17 +286,17 @@ b. Phạm vi áp dụng: Quy trình này áp dụng cho các sinh viên hệ ch�
 
 - Căn cứ vào thông tin tài trợ, hỗ trợ học bổng tài trợ hợp pháp của các cơ quan, tổ chức, cá nhân trong và ngoài Trường:
 
-    - Đối tượng được xét cấp học bổng;
+  o Đối tượng được xét cấp học bổng;
 
-    - Tiêu chuẩn xét chọn;
+  o Tiêu chuẩn xét chọn;
 
-    - Số suất học bổng;
+  o Số suất học bổng;
 
-    - Giá trị suất học bổng;
+  o Giá trị suất học bổng;
 
-    - Yêu cầu các loại giấy tờ có liên quan đến hồ sơ xét cấp học bổng;
+  o Yêu cầu các loại giấy tờ có liên quan đến hồ sơ xét cấp học bổng;
 
-    - Thời gian, địa điểm nộp hồ sơ dự tuyển...
+  o Thời gian, địa điểm nộp hồ sơ dự tuyển...
 
 - Tổ chức xét chọn và giới thiệu sinh viên phù hợp theo các tiêu chí của nhà tài trợ;
 
@@ -313,13 +312,13 @@ b. Phạm vi áp dụng: Quy trình này áp dụng cho các sinh viên hệ ch�
 
 ## II. LƯU ĐỒ:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Thông tin học bổng tài trợ | Tiếp nhận thông tin tài trợ học bổng. | Phòng CTSV/**Đơn vị đào tạo**. | Thực hiện ngay.; Tùy thuộc mỗi học bổng khác nhau. |
-| 2 | Thông báo triển khai | - Thông báo triển khai xét chọn học bổng tài trợ;<br/>- Xét chọn, đề cử/ nộp hồ sơ. | - Phòng CTSV/**Đơn vị đào tạo**.<br/>- Các đơn vị đào tạo; sinh viên. | 01 ngày. |
-| 3 | Xét (Hồ sơ đạt / Hồ sơ không đạt) | - Bổ sung hồ sơ;<br/>- Tổng hợp hồ sơ, kiểm tra, phân loại. | - Các đơn vị đào tạo; sinh viên. | 03 ngày.; Sinh viên đăng ký dự tuyển qua online (*) |
-| 4 | Trình Ban Giám hiệu | - Tổ chức xét chọn (*nếu có*) theo số suất học bổng;<br/>- Gửi kết quả xét chọn cho nhà tài trợ hoặc gửi danh sách sinh viên cho nhà tài trợ xét chọn. | Phòng CTSV/**Đơn vị đào tạo**. | 01 ngày. |
-| 5 | Tổ chức hoặc phối hợp tổ chức lễ trao học bổng | - Theo dõi nhận kết quả/ đề xuất phê duyệt, thông báo kết quả.<br/><br/>- Tổ chức lễ phát học bổng.<br/><br/>- Lưu hồ sơ. | - Phòng CTSV thông báo đến các đơn vị đào tạo; sinh viên nhận học bổng.<br/>- Phòng CTSV/**Đơn vị đào tạo** trình BGH phê duyệt/ thông báo các đơn vị đào tạo; sinh viên nhận học bổng.<br/>- Phòng CTSV. | 01 buổi; * *Trường hợp Đơn vị đào tạo thực hiện 05 bước thì gửi Quyết định và danh sách sinh viên được cấp học bổng về Phòng CTSV lưu trữ.* |
+| QUY TRÌNH XÉT CẤP HỌC BỔNG TÀI TRỢ / Bước | QUY TRÌNH XÉT CẤP HỌC BỔNG TÀI TRỢ / Lưu đồ | QUY TRÌNH XÉT CẤP HỌC BỔNG TÀI TRỢ / Nội dung công việc | QUY TRÌNH XÉT CẤP HỌC BỔNG TÀI TRỢ / Người thực hiện | QUY TRÌNH XÉT CẤP HỌC BỔNG TÀI TRỢ / Thời gian thực hiện | QUY TRÌNH XÉT CẤP HỌC BỔNG TÀI TRỢ / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Thông tin học bổng tài trợ | Tiếp nhận thông tin tài trợ học bổng. | Phòng CTSV/**Đơn vị đào tạo**. | Thực hiện ngay. | Tùy thuộc mỗi học bổng khác nhau. |
+| 2 | Thông báo triển khai | - Thông báo triển khai xét chọn học bổng tài trợ;<br>- Xét chọn, đề cử/ nộp hồ sơ. | - Phòng CTSV/**Đơn vị đào tạo**.<br>- Các đơn vị đào tạo; sinh viên. | 01 ngày. |  |
+| 3 | Xét (Hồ sơ đạt / Hồ sơ không đạt) | - Bổ sung hồ sơ;<br>- Tổng hợp hồ sơ, kiểm tra, phân loại. | - Các đơn vị đào tạo; sinh viên. | 03 ngày. | Sinh viên đăng ký dự tuyển qua online (*) |
+| 4 | Trình Ban Giám hiệu | - Tổ chức xét chọn (*nếu có*) theo số suất học bổng;<br>- Gửi kết quả xét chọn cho nhà tài trợ hoặc gửi danh sách sinh viên cho nhà tài trợ xét chọn. | Phòng CTSV/**Đơn vị đào tạo**. | 01 ngày. |  |
+| 5 | Tổ chức hoặc phối hợp tổ chức lễ trao học bổng | - Theo dõi nhận kết quả/ đề xuất phê duyệt, thông báo kết quả.<br><br>- Tổ chức lễ phát học bổng.<br><br><br>- Lưu hồ sơ. | - Phòng CTSV thông báo đến các đơn vị đào tạo; sinh viên nhận học bổng.<br>- Phòng CTSV/**Đơn vị đào tạo** trình BGH phê duyệt/ thông báo các đơn vị đào tạo; sinh viên nhận học bổng.<br>- Phòng CTSV. | 01 buổi | \* *Trường hợp Đơn vị đào tạo thực hiện 05 bước thì gửi Quyết định và danh sách sinh viên được cấp học bổng về Phòng CTSV lưu trữ.* |
 
 *Chú thích: (*) sau khi tiếp nhận đăng ký online dự tuyển học bổng, nếu hồ sơ không đạt thì thông báo lại cho sinh viên qua email hoặc trực tiếp bằng điện thoại.*
 
@@ -345,11 +344,11 @@ b. Phạm vi áp dụng: Những người dự kiến tốt nghiệp đại họ
 
 #### 1.2 Văn bản áp dụng:
 
--Nghị định số 26/2002/NĐ-CP, ngày 21/3/2002 của Chính phủ về sĩ quan dự bị Quân đội nhân dân Việt Nam;
+- Nghị định số 26/2002/NĐ-CP, ngày 21/3/2002 của Chính phủ về sĩ quan dự bị Quân đội nhân dân Việt Nam;
 
 - Thông tư số 14/2003/TT-BQP, ngày 22/02/2003 của Bộ Quốc phòng về Hướng dẫn thi hành Nghị định 26/2002/NĐ-CP, ngày 21/3/2002 của Chính phủ về sĩ quan dự bị Quân đội nhân dân Việt Nam;
 
-- Văn bản của Bộ Giáo dục và Đào tạo – Vụ Giáo dục Quốc phòng về giao nhiệm vụ tuyển chọn Nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị;
+- Văn bản của Bộ Giáo dục và Đào tạo – Vụ Giáo dục Quốc phòng về giao nhiệm vụ tuyển chọn Nam sinh viên tốt nghiệp đại học đi đào tạo Sĩ quan dự bị;
 
 - Và các văn bản có liên quan khác theo quy định của pháp luật.
 
@@ -381,18 +380,18 @@ b. Phạm vi áp dụng: Những người dự kiến tốt nghiệp đại họ
 
 ## II. KHUNG KẾ HOẠCH THỰC HIỆN:
 
-| Bước | Nội dung công việc | Thời gian thực hiện | Đơn vị<br/>Thực hiện | Đơn vị<br/>Phối hợp |
+| Bước | Nội dung công việc | Thời gian thực hiện | Đơn vị / Thực hiện | Đơn vị / Phối hợp |
 | --- | --- | --- | --- | --- |
 |  | Triển khai kế hoạch thực hiện. | Khi có văn bản giao nhiệm vụ. | Phòng CTSV trình BGH. |  |
-| 1 | Phát đơn tình nguyện và bản thẩm tra xác minh lý lịch. | 07 ngày. | - Các đơn vị có liên quan;<br/>- SV. | Phòng CTSV. |
+| 1 | Phát đơn tình nguyện và bản thẩm tra xác minh lý lịch. | 07 ngày. | - Các đơn vị có liên quan;<br>- SV. | Phòng CTSV. |
 | 2 | Tổ chức khám sức khỏe. | 01 ngày. | Phòng CTSV. | Bệnh viện 121. |
 | 3 | Tập hợp hồ sơ SV đăng ký tham gia SQDB. | 03 ngày. | Các đơn vị có liên quan. | Phòng CTSV. |
 | 4 | Tiến hành sơ tuyển. | 03 ngày. | Phòng CTSV. | TTGDQP Cần Thơ. |
 | 5 | Gửi xác minh lý lịch SV. | 10 ngày. | TTGDQP Cần Thơ. | Phòng Cán bộ QK9. |
-| 6 | - Tập hợp danh sách đủ điều kiện (*sau khi xác minh và khám sức khỏe*);<br/>- Đối chiếu, xác minh kết quả tốt nghiệp. | 03 ngày. | - Phòng Cán bộ QK9.<br/>- TTGDQP Cần Thơ.<br/>- Phòng CTSV. | - Các đơn vị có liên quan;<br/>- Phòng Đào tạo. |
+| 6 | - Tập hợp danh sách đủ điều kiện (*sau khi xác minh và khám sức khỏe*);<br>- Đối chiếu, xác minh kết quả tốt nghiệp. | 03 ngày. | - Phòng Cán bộ QK9.<br>- TTGDQP Cần Thơ.<br>- Phòng CTSV. | - Các đơn vị có liên quan;<br>- Phòng Đào tạo. |
 | 7 | Báo cáo danh sách SV tham gia SQDB gửi Bộ. | 01 ngày. | Phòng CTSV trình BGH. | Phòng Cán bộ QK9. |
-| 8 | - Nhận Quyết định lệnh gọi nhập ngũ từ Bộ GD&ĐT;<br/>- Tổ chức đưa SV tham gia học tập tại Sóc Trăng. | Cuối tháng 7, đầu tháng 8. | Phòng CTSV. | - Phòng Cán bộ QK9.<br/>- Phòng KHTH.<br/>- TTGDQP Cần Thơ. |
-| 9 | Tổ chức đón SV tốt nghiệp. | Cuối tháng 12. | Phòng CTSV. | - Phòng KHTH.<br/>- TTGDQP Cần Thơ. |
+| 8 | - Nhận Quyết định lệnh gọi nhập ngũ từ Bộ GD&ĐT;<br>- Tổ chức đưa SV tham gia học tập tại Sóc Trăng. | Cuối tháng 7, đầu tháng 8. | Phòng CTSV. | - Phòng Cán bộ QK9.<br>- Phòng KHTH.<br>- TTGDQP Cần Thơ. |
+| 9 | Tổ chức đón SV tốt nghiệp. | Cuối tháng 12. | Phòng CTSV. | - Phòng KHTH.<br>- TTGDQP Cần Thơ. |
 | 10 | Báo cáo Bộ về công tác tuyển chọn đào tạo SQDB và lưu hồ sơ. | Dự kiến tháng 01. | Phòng CTSV. | Phòng KHTH. |
 
 ---
@@ -403,17 +402,17 @@ b. Phạm vi áp dụng: Những người dự kiến tốt nghiệp đại họ
 
 ## III. LƯU ĐỒ:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Thông báo triển khai | - Tiếp nhận văn bản của Bộ, lập kế hoạch triển khai tuyển chọn đào tạo SQDB.<br/>- Chuẩn bị dữ liệu cần xét chọn, phát hành hồ sơ.<br/>- Triển khai kế hoạch (gửi đơn vị). | - Phòng CTSV trình BGH.<br/><br/><br/>- Các đơn vị và SV có liên quan. | 01 - 02 ngày làm việc; SV không thuộc diện thông báo có nhu cầu thì liên hệ trực tiếp tại Phòng CTSV. |
-| 2 | SV lập hồ sơ | SV thuộc diện đào tạo SQDB tiến hành làm hồ sơ. | Các đơn vị quản lý ngành SV và SV có liên quan. | 07 ngày làm việc. |
-| 3 | Tiếp nhận | - Tiếp nhận hồ sơ đăng ký dự tuyển từ các đơn vị;<br/>- Sơ tuyển hồ sơ xét chọn. | - Phòng CTSV;<br/>- Phòng Cán bộ QK9;<br/>- TTGDQP. | 07 ngày. |
-| 4 | Khám sức | Tổ chức khám sức khỏe cho SV thuộc diện đào tạo SQDB. | - Phòng CTSV;<br/>- Bệnh viện 121. | 01 ngày. |
-| 5 | Thẩm tra | Tổ chức thẩm tra lý lịch cho SV thuộc diện đào tạo SQDB. | - Phòng CTSV;<br/>- Phòng Cán bộ QK9. | 15 ngày. |
-| 6 | Xử (Hồ sơ đạt / Hồ sơ không đạt) | - Tổng hợp hồ sơ (sức khỏe, lý lịch);<br/>- Kiểm tra kết quả tốt nghiệp. | - Phòng CTSV;<br/>- Bệnh viện 121;<br/>- Phòng Cán bộ QK9;<br/>- Phòng Đào tạo. | 03 ngày. |
-| 7 | Báo cáo Bộ | Báo cáo Bộ danh sách SV. | - Phòng CTSV; | Tháng 6. |
-| 8 | Tiếp nhận QĐ- Lệnh | -Theo dõi kết quả;<br/>- Sao y Quyết định cho SV đủ tiêu chuẩn. | - Phòng CTSV;<br/>- Các đơn vị có liên quan. | Tháng 7. |
-| 9 | Báo cáo; | - Tổ chức đưa SV nhập học;<br/>- Tổ chức đón SV hoàn thành nhiệm vụ;<br/>- Báo cáo cho Bộ GD&ĐT;<br/>- Lưu hồ sơ. | - SV được xét chọn;<br/>- TTGDQP. | Tổ chức đưa SV đi và đón về sau thời gian học tập 04 tháng. |
+| QUY TRÌNH XÉT CHỌN ĐÀO TẠO SĨ QUAN DỰ BỊ / Bước | QUY TRÌNH XÉT CHỌN ĐÀO TẠO SĨ QUAN DỰ BỊ / Lưu đồ | QUY TRÌNH XÉT CHỌN ĐÀO TẠO SĨ QUAN DỰ BỊ / Nội dung công việc | QUY TRÌNH XÉT CHỌN ĐÀO TẠO SĨ QUAN DỰ BỊ / Người thực hiện | QUY TRÌNH XÉT CHỌN ĐÀO TẠO SĨ QUAN DỰ BỊ / Thời gian thực hiện | QUY TRÌNH XÉT CHỌN ĐÀO TẠO SĨ QUAN DỰ BỊ / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Thông báo triển khai | - Tiếp nhận văn bản của Bộ, lập kế hoạch triển khai tuyển chọn đào tạo SQDB.<br>- Chuẩn bị dữ liệu cần xét chọn, phát hành hồ sơ.<br>- Triển khai kế hoạch (gửi đơn vị). | - Phòng CTSV trình BGH.<br><br><br><br>- Các đơn vị và SV có liên quan. | 01 - 02 ngày làm việc | SV không thuộc diện thông báo có nhu cầu thì liên hệ trực tiếp tại Phòng CTSV. |
+| 2 | SV lập hồ sơ | SV thuộc diện đào tạo SQDB tiến hành làm hồ sơ. | Các đơn vị quản lý ngành SV và SV có liên quan. | 07 ngày làm việc. |  |
+| 3 | Tiếp nhận | - Tiếp nhận hồ sơ đăng ký dự tuyển từ các đơn vị;<br>- Sơ tuyển hồ sơ xét chọn. | - Phòng CTSV;<br>- Phòng Cán bộ QK9;<br>- TTGDQP. | 07 ngày. |  |
+| 4 | Khám sức | Tổ chức khám sức khỏe cho SV thuộc diện đào tạo SQDB. | - Phòng CTSV;<br>- Bệnh viện 121. | 01 ngày. |  |
+| 5 | Thẩm tra | Tổ chức thẩm tra lý lịch cho SV thuộc diện đào tạo SQDB. | - Phòng CTSV;<br>- Phòng Cán bộ QK9. | 15 ngày. |  |
+| 6 | Xử (Hồ sơ đạt / Hồ sơ không đạt) | - Tổng hợp hồ sơ (sức khỏe, lý lịch);<br>- Kiểm tra kết quả tốt nghiệp. | - Phòng CTSV;<br>- Bệnh viện 121;<br>- Phòng Cán bộ QK9;<br>- Phòng Đào tạo. | 03 ngày. |  |
+| 7 | Báo cáo Bộ | Báo cáo Bộ danh sách SV. | - Phòng CTSV; | Tháng 6. |  |
+| 8 | Tiếp nhận QĐ- Lệnh | - Theo dõi kết quả;<br>- Sao y Quyết định cho SV đủ tiêu chuẩn. | - Phòng CTSV;<br>- Các đơn vị có liên quan. | Tháng 7. |  |
+| 9 | Báo cáo; | - Tổ chức đưa SV nhập học;<br>- Tổ chức đón SV hoàn thành nhiệm vụ;<br>- Báo cáo cho Bộ GD&ĐT;<br>- Lưu hồ sơ. | - SV được xét chọn;<br>- TTGDQP. |  | Tổ chức đưa SV đi và đón về sau thời gian học tập 04 tháng. |
 
 ---
 
@@ -423,10 +422,10 @@ b. Phạm vi áp dụng: Những người dự kiến tốt nghiệp đại họ
 
 # LĨNH VỰC CÔNG TÁC CHÍNH TRỊ
 
-50. QUY TRÌNH CÔNG TÁC THÔNG TIN, TUYÊN TRUYỀN TRONG TRƯỜNG ĐẠI HỌC CẦN THƠ 2
-51. QUY TRÌNH HOẠT ĐỘNG VĂN HÓA VĂN NGHỆ TRONG TRƯỜNG ĐẠI HỌC CẦN THƠ 4
-52. QUY TRÌNH CÔNG TÁC SỬ DỤNG HỘI TRƯỜNG LỚN 6
-53. QUY TRÌNH QUẢN LÝ, SỬ DỤNG LỄ PHỤC TỐT NGHIỆP 8
+### 50. QUY TRÌNH CÔNG TÁC THÔNG TIN, TUYÊN TRUYỀN TRONG TRƯỜNG ĐẠI HỌC CẦN THƠ 2
+### 51. QUY TRÌNH HOẠT ĐỘNG VĂN HÓA VĂN NGHỆ TRONG TRƯỜNG ĐẠI HỌC CẦN THƠ 4
+### 52. QUY TRÌNH CÔNG TÁC SỬ DỤNG HỘI TRƯỜNG LỚN 6
+### 53. QUY TRÌNH QUẢN LÝ, SỬ DỤNG LỄ PHỤC TỐT NGHIỆP 8
 
 ---
 
@@ -464,13 +463,13 @@ Quyết định số 4010/QĐ-ĐHCT do Hiệu trưởng ký ngày 30/9/2013.
 
 ### 2. NỘI DUNG QUY TRÌNH
 
-**1.** Đơn vị/cá nhân có nhu cầu thực hiện các hoạt động thông tin tuyên truyền như: Pano, áp phích, băng rôn, tờ bướm hoặc tổ chức các sự kiện... lập kế hoạch nêu rõ: mục đích, nội dung, thời gian, địa điểm thực hiện.
+### 1. Đơn vị/cá nhân có nhu cầu thực hiện các hoạt động thông tin tuyên truyền như: Pano, áp phích, băng rôn, tờ bướm hoặc tổ chức các sự kiện... lập kế hoạch nêu rõ: mục đích, nội dung, thời gian, địa điểm thực hiện.
 
-**2.** Thực hiện các maket (phông chính, băng rôn, pano, phướn dọc...) để trình chung với kế hoạch nội dung thực hiện công việc.
+### 2. Thực hiện các maket (phông chính, băng rôn, pano, phướn dọc...) để trình chung với kế hoạch nội dung thực hiện công việc.
 
-**3.** Nộp maket và kế hoạch nội dung thực hiện công việc để xin phép Ban Giám hiệu thông qua Phòng Công tác Chính trị (Ban Giám hiệu ủy quyền cho Phòng Công tác Chính trị quản lý chuyên môn về công tác này). Các đơn vị/cá nhân phải gửi maket sản phẩm và kế hoạch công việc cho Phòng Công tác Chính trị trước ngày tổ chức hoạt động 03 ngày.
+### 3. Nộp maket và kế hoạch nội dung thực hiện công việc để xin phép Ban Giám hiệu thông qua Phòng Công tác Chính trị (Ban Giám hiệu ủy quyền cho Phòng Công tác Chính trị quản lý chuyên môn về công tác này). Các đơn vị/cá nhân phải gửi maket sản phẩm và kế hoạch công việc cho Phòng Công tác Chính trị trước ngày tổ chức hoạt động 03 ngày.
 
-**4.** Phòng Công tác Chính trị chịu trách nhiệm duyệt nội dung sản phẩm. Duyệt xong sẽ thông báo lại cho đơn vị/cá nhân có nhu cầu để thực hiện sau 01 ngày nhận hồ sơ. Nếu hồ sơ không đạt phải bổ sung lại từ Bước 2.
+### 4. Phòng Công tác Chính trị chịu trách nhiệm duyệt nội dung sản phẩm. Duyệt xong sẽ thông báo lại cho đơn vị/cá nhân có nhu cầu để thực hiện sau 01 ngày nhận hồ sơ. Nếu hồ sơ không đạt phải bổ sung lại từ Bước 2.
 
 Sau khi thực hiện xong công việc, đơn vị/cá nhân phải thu dọn trả lại hiện trạng ban đầu (chậm nhất là 03 ngày sau khi kết thúc, thực hiện theo Quyết định số 4010/QĐ-ĐHCT do Hiệu trưởng ký ngày 30/9/2013).
 
@@ -482,14 +481,14 @@ Sau khi thực hiện xong công việc, đơn vị/cá nhân phải thu dọn t
 
 ## II. LƯU ĐỒ
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
+| QUY TRÌNH THỰC HIỆN THÔNG TIN, TUYÊN TRUYỀN / Bước | QUY TRÌNH THỰC HIỆN THÔNG TIN, TUYÊN TRUYỀN / Công việc | QUY TRÌNH THỰC HIỆN THÔNG TIN, TUYÊN TRUYỀN / Nội dung công việc | QUY TRÌNH THỰC HIỆN THÔNG TIN, TUYÊN TRUYỀN / Người thực hiện | QUY TRÌNH THỰC HIỆN THÔNG TIN, TUYÊN TRUYỀN / Thời gian |
 | --- | --- | --- | --- | --- |
-| 1 | Dự thảo kế hoạch và nộp hồ sơ | Đơn vị/cá nhân có nhu cầu làm dự thảo kế hoạch và maket thực hiện công việc, nộp cho Phòng Công tác Chính trị. | Đơn vị/cá nhân có nhu cầu. | Thực hiện trước sự kiện xảy ra 03 ngày. |
-| 2 | HS không đúng<br/>Tiếp nhận hồ sơ & kiểm tra sơ bộ | Phòng Công tác Chính trị nhận và kiểm tra hồ sơ, maket. | Phòng Công tác Chính trị. | Sau khi nhận hồ sơ 01 ngày. |
-| 3 | HS không được đồng ý<br/>Nội dung maket chưa đạt | Phòng Công tác Chính trị sẽ trả lời kết quả hồ sơ đạt đến đơn vị/cá nhân có nhu cầu.<br/>Trường hợp chưa đạt thì phản hồi để đơn vị có nhu cầu làm lại hồ sơ (Bước 1). | Phòng Công tác Chính trị và đơn vị có nhu cầu. | Sau khi nhận hồ sơ 01 ngày. |
-| 4 | Trình ký | Hồ sơ đạt đơn vị/cá nhân có nhu cầu tiến hành thực hiện công việc. Phòng Công tác Chính trị theo dõi, hỗ trợ . | Đơn vị/cá nhân có nhu cầu. | Sau khi nộp hồ sơ 02 ngày. |
-| 5 | Thực hiện công việc | Hồ sơ đạt đơn vị/cá nhân có nhu cầu tiến hành thực hiện công việc. Phòng Công tác Chính trị theo dõi, hỗ trợ. | Đơn vị/cá nhân có nhu cầu. | Sau khi nộp hồ sơ 02 ngày. |
-| 6 | Hoàn tất công việc | Đơn vị/cá nhân có nhu cầu tổ chức thu dọn/tháo gỡ các sản phẩm tuyên truyền. Phòng Công tác Chính trị kiểm tra, nhắc nhở. | Đơn vị/cá nhân có nhu cầu và Phòng Công tác Chính trị. | Sau khi kết thúc công việc tối đa 03 ngày. |
+| 1 | (OVAL: Dự thảo kế hoạch và nộp hồ sơ) | Đơn vị/cá nhân có nhu cầu làm dự thảo kế hoạch và maket thực hiện công việc, nộp cho Phòng Công tác Chính trị. | Đơn vị/cá nhân có nhu cầu. | Thực hiện trước sự kiện xảy ra 03 ngày. |
+| 2 | HS không đúng (DIAMOND: Tiếp nhận hồ sơ & kiểm tra sơ bộ) | Phòng Công tác Chính trị nhận và kiểm tra hồ sơ, maket. | Phòng Công tác Chính trị. | Sau khi nhận hồ sơ 01 ngày. |
+| 3 | HS không được đồng ý (DIAMOND: Nội dung maket chưa đạt) | Phòng Công tác Chính trị sẽ trả lời kết quả hồ sơ đạt đến đơn vị/cá nhân có nhu cầu.<br>Trường hợp chưa đạt thì phản hồi để đơn vị có nhu cầu làm lại hồ sơ (Bước 1). | Phòng Công tác Chính trị và đơn vị có nhu cầu. | Sau khi nhận hồ sơ 01 ngày. |
+| 4 | (RECTANGLE: Trình ký) | Hồ sơ đạt đơn vị/cá nhân có nhu cầu tiến hành thực hiện công việc.<br>Phòng Công tác Chính trị theo dõi, hỗ trợ . | Đơn vị/cá nhân có nhu cầu. | Sau khi nộp hồ sơ 02 ngày. |
+| 5 | (RECTANGLE: Thực hiện công việc) | Hồ sơ đạt đơn vị/cá nhân có nhu cầu tiến hành thực hiện công việc.<br>Phòng Công tác Chính trị theo dõi, hỗ trợ. | Đơn vị/cá nhân có nhu cầu. | Sau khi nộp hồ sơ 02 ngày. |
+| 6 | (OVAL: Hoàn tất công việc) | Đơn vị/cá nhân có nhu cầu tổ chức thu dọn/tháo gỡ các sản phẩm tuyên truyền. Phòng Công tác Chính trị kiểm tra, nhắc nhở. | Đơn vị/cá nhân có nhu cầu và Phòng Công tác Chính trị. | Sau khi kết thúc công việc tối đa 03 ngày. |
 
 ---
 
@@ -553,13 +552,13 @@ Căn cứ vào chương trình hoạt động của đơn vị hoặc đoàn th�
 
 ## II. LƯU ĐỒ
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Niêm yết hồ sơ công văn Hội thi, hội diễn, sân chơi cuối tuần và các hoạt động khác cấp Trường | Phòng Công tác Chính trị sẽ gửi công văn đến các đơn vị, các bảng thông báo trong Trường để thông báo đến CBVC và sinh viên biết đến cuộc thi hoặc các hoạt động khác.<br/>**1. Hội diễn văn nghệ truyền thống hàng năm.**<br/>**2. Hội thi Tiếng hát – Tài năng nghệ thuật Đại học Cần Thơ hàng năm.**<br/>**3. Sân chơi cuối tuần.**<br/>**4. Hoạt động khác.** | Phòng Công tác Chính trị tổ chức định kỳ. | Trước một tháng.<br/>Trước một tuần. |
-| 2 | Hoạt động văn nghệ đơn vị ngoài Trường đến biểu diễn tại Hội trường Lớn | Các đơn vị có nhu cầu sử dụng Hội trường Lớn để tổ chức hoạt động văn hóa văn nghệ đề nghị liên hệ với Phòng Công tác Chính trị trước để xác định thời gian và quy mô tổ chức, sau đó làm công văn nêu rõ mục đích, thời gian sử dụng. | Đơn vị, cá nhân có nhu cầu sử dụng hội trường. | Trước một tuần. |
-| 3 | P.CTCT Xin ý kiến BGH | Thông qua Phòng Công tác Chính trị để tùy theo từng nội dung cụ thể mà Phòng Công tác Chính trị đề xuất ý kiến, xin phép Ban Giám hiệu. | Đơn vị, cá nhân có nhu cầu sử dụng. | Trong 03 ngày. |
-| 4 | Đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất và triển khai công việc | Sau khi có ý kiến chấp thuận của Ban Giám hiệu, đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất toàn bộ chi tiết về công tác đơn vị chuẩn bị và tiến hành thực hiện. | Phòng Công tác Chính trị và đơn vị sử dụng. | Trong một tuần. |
-| 5 | Thanh toán KP v kết thúc công việc | Đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất toàn bộ chi phí và thực hiện quyết toán kinh phí. | Phòng Công tác Chính trị và đơn vị sử dụng. | Trong tuần khi thực hiện công việc. |
+| QUY TRÌNH THỰC HIỆN HOẠT ĐỘNG VĂN HÓA VĂN NGHỆ / Bước | QUY TRÌNH THỰC HIỆN HOẠT ĐỘNG VĂN HÓA VĂN NGHỆ / Công việc | QUY TRÌNH THỰC HIỆN HOẠT ĐỘNG VĂN HÓA VĂN NGHỆ / Nội dung công việc | QUY TRÌNH THỰC HIỆN HOẠT ĐỘNG VĂN HÓA VĂN NGHỆ / Người thực hiện | QUY TRÌNH THỰC HIỆN HOẠT ĐỘNG VĂN HÓA VĂN NGHỆ / Thời gian | QUY TRÌNH THỰC HIỆN HOẠT ĐỘNG VĂN HÓA VĂN NGHỆ / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Niêm yết hồ sơ công văn Hội thi, hội diễn, sân chơi cuối tuần và các hoạt động khác cấp Trường | Phòng Công tác Chính trị sẽ gửi công văn đến các đơn vị, các bảng thông báo trong Trường để thông báo đến CBVC và sinh viên biết đến cuộc thi hoặc các hoạt động khác.<br>**1. Hội diễn văn nghệ truyền thống hàng năm.**<br>**2. Hội thi Tiếng hát – Tài năng nghệ thuật Đại học Cần Thơ hàng năm.**<br>**3. Sân chơi cuối tuần.**<br>**4. Hoạt động khác.** | Phòng Công tác Chính trị tổ chức định kỳ. | Trước một tháng.<br>Trước một tuần. |  |
+| 2 | Hoạt động văn nghệ đơn vị ngoài Trường đến biểu diễn tại Hội trường Lớn | Các đơn vị có nhu cầu sử dụng Hội trường Lớn để tổ chức hoạt động văn hóa văn nghệ đề nghị liên hệ với Phòng Công tác Chính trị trước để xác định thời gian và quy mô tổ chức, sau đó làm công văn nêu rõ mục đích, thời gian sử dụng. | Đơn vị, cá nhân có nhu cầu sử dụng hội trường. | Trước một tuần. |  |
+| 3 | P.CTCT Xin ý kiến BGH | Thông qua Phòng Công tác Chính trị để tùy theo từng nội dung cụ thể mà Phòng Công tác Chính trị đề xuất ý kiến, xin phép Ban Giám hiệu. | Đơn vị, cá nhân có nhu cầu sử dụng. | Trong 03 ngày. |  |
+| 4 | Đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất và triển khai công việc | Sau khi có ý kiến chấp thuận của Ban Giám hiệu, đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất toàn bộ chi tiết về công tác đơn vị chuẩn bị và tiến hành thực hiện. | Phòng Công tác Chính trị và đơn vị sử dụng. | Trong một tuần. |  |
+| 5 | Thanh toán KP và kết thúc công việc | Đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất toàn bộ chi phí và thực hiện quyết toán kinh phí. | Phòng Công tác Chính trị và đơn vị sử dụng. | Trong tuần khi thực hiện công việc. |  |
 
 ---
 
@@ -617,13 +616,13 @@ Quyết định số 870/QĐ-ĐHCT, ngày 20/04/2011.
 
 ## II. LƯU ĐỒ
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Liên hệ P.CTCT nộp hồ sơ (Hình oval) | Các đơn vị có nhu cầu sử dụng Hội trường Lớn đề nghị liên hệ với Phòng Công tác Chính trị trước để xác định thời gian và quy mô tổ chức, sau đó làm công văn nêu rõ mục đích, thời gian sử dụng. | Đơn vị, cá nhân có nhu cầu sử dụng hội trường. | Trước một tuần. |
-| 2 | Tiếp nhận xử lý hồ sơ (Hình thoi) | Thông qua Phòng Công tác Chính trị để tùy theo từng nội dung cụ thể mà Phòng Công tác Chính trị đề xuất ý kiến. | Đơn vị, cá nhân có nhu cầu sử dụng hội trường. | Trong 02 ngày. |
-| 3 | Xin ý kiến BGH (Hình thoi) | Trình Ban Giám hiệu phê duyệt. | Phòng Công tác Chính trị thực hiện. | Trong 03 ngày. |
-| 4 | BGH Chấp thuận (Mũi tên xuống)<br/>Trả hồ sơ Liên hệ với P.CTCT để thống nhất và triển khai (Hình chữ nhật) | Sau khi có ý kiến chấp thuận của Ban Giám hiệu, đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất toàn bộ chi tiết về công tác đơn vị chuẩn bị và tiến hành thực hiện. | Phòng Công tác Chính trị và đơn vị sử dụng. | Trong 01 tuần. |
-| 5 | Thanh toán KP và kết thúc công việc (Hình oval) | Đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất toàn bộ chi phí và thực hiện quyết toán kinh phí. | Phòng Công tác Chính trị và đơn vị sử dụng. | Trong tuần khi thực hiện công việc. |
+| QUY TRÌNH CÔNG TÁC SỬ DỤNG HỘI TRƯỜNG LỚN / Bước | QUY TRÌNH CÔNG TÁC SỬ DỤNG HỘI TRƯỜNG LỚN / Công việc | QUY TRÌNH CÔNG TÁC SỬ DỤNG HỘI TRƯỜNG LỚN / Nội dung công việc | QUY TRÌNH CÔNG TÁC SỬ DỤNG HỘI TRƯỜNG LỚN / Người thực hiện | QUY TRÌNH CÔNG TÁC SỬ DỤNG HỘI TRƯỜNG LỚN / Thời gian | QUY TRÌNH CÔNG TÁC SỬ DỤNG HỘI TRƯỜNG LỚN / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Liên hệ P.CTCT nộp hồ sơ | Các đơn vị có nhu cầu sử dụng Hội trường Lớn đề nghị liên hệ với Phòng Công tác Chính trị trước để xác định thời gian và quy mô tổ chức, sau đó làm công văn nêu rõ mục đích, thời gian sử dụng. | Đơn vị, cá nhân có nhu cầu sử dụng hội trường. | Trước một tuần. |  |
+| 2 | Tiếp nhận xử lý hồ sơ | Thông qua Phòng Công tác Chính trị để tùy theo từng nội dung cụ thể mà Phòng Công tác Chính trị đề xuất ý kiến. | Đơn vị, cá nhân có nhu cầu sử dụng hội trường. | Trong 02 ngày. |  |
+| 3 | Xin ý kiến BGH | Trình Ban Giám hiệu phê duyệt. | Phòng Công tác Chính trị thực hiện. | Trong 03 ngày |  |
+| 4 | BGH Chấp thuận<br>Trả hồ sơ Liên hệ với P.CTCT để thống nhất và triển khai | Sau khi có ý kiến chấp thuận của Ban Giám hiệu, đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất toàn bộ chi tiết về công tác đơn vị chuẩn bị và tiến hành thực hiện. | Phòng Công tác Chính trị và đơn vị sử dụng. | Trong 01 tuần. |  |
+| 5 | Thanh toán KP và kết thúc công việc | Đơn vị liên hệ với Phòng Công tác Chính trị để thống nhất toàn bộ chi phí và thực hiện quyết toán kinh phí. | Phòng Công tác Chính trị và đơn vị sử dụng. | Trong tuần khi thực hiện công việc. |  |
 
 ---
 
@@ -651,7 +650,7 @@ Tất cả sinh viên các khoa, các đơn vị đào tạo của trường đ�
 
 Văn bản quy định về việc quản lý, sử dụng lễ phục tốt nghiệp số 177/QĐ-ĐHCT, ngày 14/12/2012.
 
-**1.3 Giải thích từ ngữ, từ viết tắt:** CMND (chứng minh nhân dân).
+#### 1.3 Giải thích từ ngữ, từ viết tắt: CMND (chứng minh nhân dân).
 
 ### 2. NỘI DUNG QUY TRÌNH
 
@@ -673,8 +672,8 @@ Văn bản quy định về việc quản lý, sử dụng lễ phục tốt ngh
 
 ## II. LƯU ĐỒ
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Thông báo thời gian nhận lễ phục | Phòng Công tác Chính trị sẽ gửi công văn đến các khoa để thông báo cho sinh viên ngày giờ đến Phòng Công tác Chính trị nhận lễ phục. | Phòng Công tác Chính trị | Trước Lễ trao bằng 01 tuần. |
-| 2 | Sinh viên làm thủ tục và nhận lễ phục | Sinh viên đến Phòng Công tác Chính trị sẽ nhận 01 giấy mượn lễ phục ghi đầy đủ thông tin như: Họ tên, ngành học, số điện thoại... và ký tên. Sinh viên gửi kèm theo giấy mượn lễ phục giấy CMND (hoặc giấy phép lái xe). Sau đó đóng tiền chụp ảnh, tiền sử dụng lễ phục và nhận lễ phục. | Sinh viên | Trước Lễ trao bằng 01 buổi. |
-| 3 | Thông báo thời gian nhận lễ phục | Sinh viên sẽ trả lễ phục ngay sau khi Lễ trao bằng tốt nghiệp kết thúc và nhận lại giấy mượn lễ phục, giấy CMND. | Sinh viên, Phòng Công tác Chính trị | Ngay sau khi Lễ trao bằng kết thúc. |
+| QUY TRÌNH QUẢN LÝ, SỬ DỤNG LỄ PHỤC TỐT NGHIỆP / Bước | QUY TRÌNH QUẢN LÝ, SỬ DỤNG LỄ PHỤC TỐT NGHIỆP / Công việc | QUY TRÌNH QUẢN LÝ, SỬ DỤNG LỄ PHỤC TỐT NGHIỆP / Nội dung công việc | QUY TRÌNH QUẢN LÝ, SỬ DỤNG LỄ PHỤC TỐT NGHIỆP / Người thực hiện | QUY TRÌNH QUẢN LÝ, SỬ DỤNG LỄ PHỤC TỐT NGHIỆP / Thời gian | QUY TRÌNH QUẢN LÝ, SỬ DỤNG LỄ PHỤC TỐT NGHIỆP / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Thông báo thời gian nhận lễ phục | Phòng Công tác Chính trị sẽ gửi công văn đến các khoa để thông báo cho sinh viên ngày giờ đến Phòng Công tác Chính trị nhận lễ phục. | Phòng Công tác Chính trị | Trước Lễ trao bằng 01 tuần. |  |
+| 2 | Sinh viên làm thủ tục và nhận lễ phục | Sinh viên đến Phòng Công tác Chính trị sẽ nhận 01 giấy mượn lễ phục ghi đầy đủ thông tin như: Họ tên, ngành học, số điện thoại... và ký tên.<br>Sinh viên gửi kèm theo giấy mượn lễ phục giấy CMND (hoặc giấy phép lái xe). Sau đó đóng tiền chụp ảnh, tiền sử dụng lễ phục và nhận lễ phục. | Sinh viên | Trước Lễ trao bằng 01 buổi. |  |
+| 3 | Thông báo thời gian nhận lễ phục | Sinh viên sẽ trả lễ phục ngay sau khi Lễ trao bằng tốt nghiệp kết thúc và nhận lại giấy mượn lễ phục, giấy CMND. | Sinh viên, Phòng Công tác Chính trị | Ngay sau khi Lễ trao bằng kết thúc. |  |

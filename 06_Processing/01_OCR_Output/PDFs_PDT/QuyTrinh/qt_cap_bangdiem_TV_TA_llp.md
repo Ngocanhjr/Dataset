@@ -1,11 +1,11 @@
 ---
 document_key: ctu-pdt-qt-cap-bangdiem-tv-ta
-version_key: ctu-pdt-qt-cap-bangdiem-tv-ta-3743e9bd429d
+version_key: ctu-pdt-qt-cap-bangdiem-tv-ta-1febbd6b77d6
 title: "QUY TRÌNH CẤP BẢNG ĐIỂM TIẾNG VIỆT VÀ TIẾNG ANH"
 document_type: quy_trinh
 domain: sinh_vien
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: 
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
 - PDT
 - DVQLN
 signer_name: ""
@@ -14,7 +14,6 @@ audience:
 code: ""
 issued_date:
 effective_date:
-version_label: ""
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -24,16 +23,14 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/PDT/QuyTrinh/qt_cap_bangdiem_TV_TA.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyTrinh/qt_cap_bangdiem_TV_TA.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 3743e9bd429dd9879a475c56264b93c2
+checksum: 1febbd6b77d67d8e176df1d5363738ecdcfb1ec2cf5e12b099295783b25a6209
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-04T11:46:16+07:00"
-updated_at: "2026-07-04T11:46:16+07:00"
-notes: ""
+created_at: "2026-07-07T09:35:04+07:00"
+updated_at: "2026-07-07T09:35:04+07:00"
+notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ---
 
 1
@@ -74,8 +71,8 @@ notes: ""
 
 ## II. LƯU ĐỒ:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Đăng ký cấp<br>bảng điểm | Đăng ký và nộp phí tại ĐVQLN hoặc PĐT | - Người có nhu cầu<br>- ĐVQLN hoặc PĐT | Giờ hành chánh |
-| 2 | Tiếp nhận<br>và xử lý | Tiếp nhận, kiểm tra, in, trình ký, đóng dấu và phát hành | - ĐVQLN<br>- PĐT | 2 ngày làm việc |
-| 3 | Nhận<br>bảng điểm | Nhận bảng điểm | - Người có nhu cầu<br>- ĐVQLN hoặc PĐT | Giờ hành chánh |
+| Quy trình cấp bảng điểm tiếng Việt và tiếng Anh / Bước | Quy trình cấp bảng điểm tiếng Việt và tiếng Anh / Lưu đồ | Quy trình cấp bảng điểm tiếng Việt và tiếng Anh / Nội dung công việc | Quy trình cấp bảng điểm tiếng Việt và tiếng Anh / Người thực hiện | Quy trình cấp bảng điểm tiếng Việt và tiếng Anh / Thời gian thực hiện | Quy trình cấp bảng điểm tiếng Việt và tiếng Anh / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Đăng ký cấp<br>bảng điểm | Đăng ký và nộp phí tại ĐVQLN hoặc PĐT | - Người có nhu cầu<br>- ĐVQLN hoặc PĐT | Giờ hành chánh |  |
+| 2 | Tiếp nhận<br>và xử lý | Tiếp nhận, kiểm tra, in, trình ký, đóng dấu và phát hành | - ĐVQLN<br>- PĐT | 2 ngày làm việc |  |
+| 3 | Nhận<br>bảng điểm | Nhận bảng điểm | - Người có nhu cầu<br>- ĐVQLN hoặc PĐT | Giờ hành chánh |  |

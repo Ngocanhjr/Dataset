@@ -1,20 +1,18 @@
 ---
 document_key: ctu-pdt-2020-cv1194-dhct-mon-hoc-gdqpan-giang-day-tu-hk1-nam-hoc-2020-2021
-version_key: ctu-pdt-2020-cv1194-dhct-mon-hoc-gdqpan-giang-day-tu-hk1-nam-hoc-2020-2021-47dc4af004eb
+version_key: ctu-pdt-2020-cv1194-dhct-mon-hoc-gdqpan-giang-day-tu-hk1-nam-hoc-2020-2021-14d7fcacaba2
 title: "V/v môn học Giáo dục quốc phòng và an ninh giảng dạy từ học kỳ 1, năm học 2020 - 2021"
 document_type: cong_van
 domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
+issuing_authority: "Đại học Cần Thơ"
 responsible_department: 
-- "PDT"
-- "TTGDQPAN"
-signer_name: "HT Ha Thanh Toan"
+- PDt
+signer_name: "HT Hà Thanh Toàn"
 audience:
   - student
-code: ""
-issued_date: 2020-6-11
-effective_date: 2020-2021
-version_label: ""
+code: "1194 /ĐHCT"
+issued_date: 2020-06-11
+effective_date: 2020-06-11
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -26,26 +24,28 @@ canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyetD
 file_type: pdf
 accessed_date:
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 47dc4af004eb879cc88757baec19be8a
+checksum: 14d7fcacaba20dca8e2f4903cf5aa096c2a5c36f381be4bf7efef0b91e63ff97
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-04T16:20:20+07:00"
-updated_at: "2026-07-04T16:20:20+07:00"
-notes: ""
+created_at: "2026-07-07T00:54:43+07:00"
+updated_at: "2026-07-07T00:54:43+07:00"
+notes: "Áp dụng năm 2020-2021"
 ---
 
 1
 
 <!-- page: 1 -->
 
-**BỘ GIÁO DỤC VÀ ĐÀO TẠO**  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**TRƯỜNG ĐẠI HỌC CẦN THƠ**  **Độc lập - Tự do - Hạnh phúc**
+**BỘ GIÁO DỤC VÀ ĐÀO TẠO**  
+**TRƯỜNG ĐẠI HỌC CẦN THƠ**
 
-Số: 1194 /ĐHCT  *Cần Thơ, ngày 11 tháng 6 năm 2020*
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
+**Độc lập - Tự do - Hạnh phúc**
 
-V/v môn học Giáo dục quốc phòng và an ninh
+Số: 1194 /ĐHCT  
+*Cần Thơ, ngày 11 tháng 6 năm 2020*
+
+V/v môn học Giáo dục quốc phòng và an ninh  
 giảng dạy từ học kỳ 1, năm học 2020 - 2021
 
 Kính gửi:
@@ -68,14 +68,12 @@ Trường ĐHCT thực hiện chương trình, thời gian học, đánh giá, c
 
 Chương trình GDQP&AN gồm có 4 học phần như sau:
 
-#### 1.1. Học phần GDQP&AN 1: Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam (Mã số học phần: QP010; số tín chỉ: 02 tín chỉ)
+1.1. Học phần GDQP&AN 1: Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam (Mã số học phần: QP010; số tín chỉ: 02 tín chỉ)
 
-| T | Nội dung | Thời gian (tiết) / Tổng số tiết | Thời gian (tiết) / Lý thuyết | Thời gian (tiết) / Thảo luận |
+| T<br>T | Nội dung | Thời gian (tiết) / Tổng số tiết | Thời gian (tiết) / Lý thuyết | Thời gian (tiết) / Thảo luận |
 | --- | --- | --- | --- | --- |
 | 1 | Đối tượng, nhiệm vụ, phương pháp nghiên cứu môn học | 2 | 2 |  |
 | 2 | Quan điểm cơ bản của chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh về chiến tranh, quân đội và bảo vệ Tổ quốc | 4 | 2 | 2 |
-
-1
 
 ---
 
@@ -83,7 +81,7 @@ Chương trình GDQP&AN gồm có 4 học phần như sau:
 
 <!-- page: 2 -->
 
-| T | Nội dung | Thời gian (tiết) / Tổng số tiết | Thời gian (tiết) / Lý thuyết | Thời gian (tiết) / Thảo luận |
+| T<br>T | Nội dung | Thời gian (tiết) / Tổng số tiết | Thời gian (tiết) / Lý thuyết | Thời gian (tiết) / Thảo luận |
 | --- | --- | --- | --- | --- |
 | 3 | Xây dựng nền quốc phòng toàn dân, an ninh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa | 4 | 4 |  |
 | 4 | Chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa | 4 | 4 |  |
@@ -94,9 +92,9 @@ Chương trình GDQP&AN gồm có 4 học phần như sau:
 | 9 | Xây dựng lực lượng dân quân tự vệ, lực lượng dự bị động viên và động viên quốc phòng | 6 | 4 | 2 |
 | 10 | Xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc | 4 | 2 | 2 |
 | 11 | Những vấn đề cơ bản về bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội | 3 | 3 |  |
-|  | **Cộng** | **45** | **37** | **8** |
+| **Cộng** | **45** | **37** | **8** |  |
 
-#### 1.2. Học phần GDQP&AN 2: Công tác quốc phòng và an ninh (Mã số học phần: QP011; số tín chỉ: 02 tín chỉ)
+1.2. Học phần GDQP&AN 2: Công tác quốc phòng và an ninh (Mã số học phần: QP011; số tín chỉ: 02 tín chỉ)
 
 | TT | Nội dung | Thời gian (tiết) / Tổng số tiết | Thời gian (tiết) / Lý thuyết | Thời gian (tiết) / Thảo luận |
 | --- | --- | --- | --- | --- |
@@ -118,7 +116,7 @@ Chương trình GDQP&AN gồm có 4 học phần như sau:
 | 7 | An ninh phi truyền thống và các mối đe dọa an ninh phi truyền thống ở Việt Nam | 4 | 2 | 2 |
 | **Cộng** | **30** | **22** | **8** |  |
 
-#### 1.3. Học phần GDQP&AN 3: Quân sự chung (Mã số học phần: QP012; số tín chỉ: 02 tín chỉ)
+1.3. Học phần GDQP&AN 3: Quân sự chung (Mã số học phần: QP012; số tín chỉ: 02 tín chỉ)
 
 | T<br>T | Nội dung | Thời gian (tiết) / Tổng số tiết | Thời gian (tiết) / Lý thuyết | Thời gian (tiết) / Thực hành |
 | --- | --- | --- | --- | --- |
@@ -132,7 +130,7 @@ Chương trình GDQP&AN gồm có 4 học phần như sau:
 | 8 | Ba môn quân sự phối hợp | 6 | 2 | 4 |
 | **Cộng** | **30** | **14** | **16** |  |
 
-#### 1.4. Học phần GDQP&AN 4: Kỹ thuật chiến đấu bộ binh và chiến thuật (Mã số học phần: QP013; số tín chỉ: 02 tín chỉ)
+1.4. Học phần GDQP&AN 4: Kỹ thuật chiến đấu bộ binh và chiến thuật (Mã số học phần: QP013; số tín chỉ: 02 tín chỉ)
 
 | T<br>T | Nội dung | Thời gian (tiết) / Tổng số tiết | Thời gian (tiết) / Lý thuyết | Thời gian (tiết) / Thực hành |
 | --- | --- | --- | --- | --- |
@@ -231,7 +229,7 @@ c) Học sinh, sinh viên là người nước ngoài.
 
 **5.2. Đối tượng được miễn học, miễn thi học phần, nội dung trong chương trình GDQP&AN,** gồm: học sinh, sinh viên có giấy xác nhận kết quả học tập các học phần, nội dung đó đạt từ 5 điểm trở lên theo thang điểm 10.
 
-#### 5.3. Đối tượng được miễn học, các nội dung thực hành kỹ năng quân sự:
+5.3. Đối tượng được miễn học, các nội dung thực hành kỹ năng quân sự:
 
 a) Học sinh, sinh viên là người khuyết tật, có giấy xác nhận khuyết tật theo quy định của pháp luật về người khuyết tật;
 

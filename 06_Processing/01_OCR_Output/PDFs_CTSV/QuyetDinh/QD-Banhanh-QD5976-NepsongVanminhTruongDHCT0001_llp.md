@@ -1,18 +1,18 @@
 ---
 document_key: ctu-ctsv-qd-banhanh-qd5976-nepsongvanminhtruongdhct0001
-version_key: ctu-ctsv-qd-banhanh-qd5976-nepsongvanminhtruongdhct0001-6a2b151b5502
+version_key: ctu-ctsv-qd-banhanh-qd5976-nepsongvanminhtruongdhct0001-0eff4f3290ac
 title: "QUYẾT ĐỊNH Ban hành Quy định về thực hiện nếp sống văn minh trong Trường Đại học Cần Thơ"
 document_type: quyet_dinh
-domain: sinh_vien
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: PTCCB
-signer_name: "HT Ha Thanh Toan"
+domain: ne_nep
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
+- PTCCB
+signer_name: "HT Hà Thanh Toàn"
 audience:
   - student
-code: ""
-issued_date: 2013-12-23
-effective_date: 2013-12-23
-version_label: ""
+code: "5976 /QĐ-ĐHCT"
+issued_date: 2023-12-23
+effective_date: 2023-12-23
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -22,15 +22,13 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/QuyetDinh/QD-Banhanh-QD5976-NepsongVanminhTruongDHCT0001.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/QuyetDinh/QD-Banhanh-QD5976-NepsongVanminhTruongDHCT0001.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 6a2b151b550271e96968f8373a14b8ca
+checksum: 0eff4f3290accee0ce86873011d572c2c7010d91b31419f847aead5190d9612b
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T00:58:34+07:00"
-updated_at: "2026-07-05T00:58:34+07:00"
+created_at: "2026-07-07T00:28:54+07:00"
+updated_at: "2026-07-07T00:28:54+07:00"
 notes: ""
 ---
 
@@ -44,7 +42,7 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập - Tự do - Hạnh phúc**
 
-Số: <u>5976</u> /QĐ-ĐHCT *Cần Thơ, ngày 23 tháng 12 năm 2013*
+Số: 5976 /QĐ-ĐHCT *Cần Thơ, ngày 23 tháng 12 năm 2013*
 
 # QUYẾT ĐỊNH
 
@@ -60,23 +58,21 @@ Căn cứ Quyết định số 50/2007/QĐ-BGDĐT ngày 29/8/2007 của Bộ tr�
 
 Xét đề nghị của Trưởng phòng Tổ chức – Cán bộ,
 
-## QUYẾT ĐỊNH:
+# QUYẾT ĐỊNH:
 
-**Điều 1.** Ban hành kèm theo Quyết định này **“Quy định về thực hiện nếp sống văn minh trong Trường Đại học Cần Thơ”.**
+#### Điều 1. Ban hành kèm theo Quyết định này “Quy định về thực hiện nếp sống văn minh trong Trường Đại học Cần Thơ”.
 
-**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 1811/QĐ-ĐHCT ngày 10 tháng 12 năm 2008 của Hiệu trưởng Trường Đại học Cần Thơ về việc ban hành “Quy định về thực hiện nếp sống văn hóa học đường trong Trường Đại học Cần Thơ”.
+#### Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 1811/QĐ-ĐHCT ngày 10 tháng 12 năm 2008 của Hiệu trưởng Trường Đại học Cần Thơ về việc ban hành “Quy định về thực hiện nếp sống văn hóa học đường trong Trường Đại học Cần Thơ”.
 
-**Điều 3.** Thủ trưởng các đơn vị và toàn thể viên chức và học viên, sinh viên trong Trường chịu trách nhiệm thi hành quyết định này./.
+#### Điều 3. Thủ trưởng các đơn vị và toàn thể viên chức và học viên, sinh viên trong Trường chịu trách nhiệm thi hành quyết định này./.
 
-**Nơi nhận:**
+***Nơi nhận:***
 
 - Các đơn vị trong trường;
 
 - Lưu: VT, P.TCCB.
 
-Dấu mộc và chữ ký của Hiệu trưởng Hà Thanh Toàn
-**HIỆU TRƯỞNG**
-**Hà Thanh Toàn**
+Seal and signature of Hiệu trưởng Hà Thanh Toàn
 
 ---
 
@@ -84,17 +80,12 @@ Dấu mộc và chữ ký của Hiệu trưởng Hà Thanh Toàn
 
 <!-- page: 2 -->
 
-BỘ GIÁO DỤC VÀ ĐÀO TẠO
-**TRƯỜNG ĐẠI HỌC CẦN THƠ**
-
-**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**Độc lập - Tự do - Hạnh phúc**
-
 # QUY ĐỊNH
 
 **Về thực hiện nếp sống văn minh trong Trường Đại học Cần Thơ**
 
-*(Ban hành kèm theo Quyết định số 5976/QĐ-ĐHCT ngày 23/12/2013 của Hiệu trưởng Trường Đại học Cần Thơ)*
+*(Ban hành kèm theo Quyết định số <u>5976</u> /QĐ-ĐHCT ngày <u>23</u> / 12 /2013*
+*của Hiệu trưởng Trường Đại học Cần Thơ)*
 
 ## Chương I
 ## QUY ĐỊNH CHUNG
@@ -127,8 +118,6 @@ Văn bản này quy định về trang phục, giao tiếp, ứng xử, bảo v�
 #### Điều 4. Về giao tiếp và ứng xử
 
 1. Phải có thái độ lịch sự, nhã nhặn, tôn trọng lẫn nhau. Ngôn ngữ giao tiếp phải rõ ràng, mạch lạc, không nói tục, nói tiếng lóng; không sử dụng điện thoại di động gây ảnh hưởng đến người khác khi lên lớp, dự họp.
-
-1
 
 ---
 
@@ -175,8 +164,6 @@ Văn bản này quy định về trang phục, giao tiếp, ứng xử, bảo v�
 #### Điều 6. Giữ gìn an ninh trật tự
 
 1. Nghiêm chỉnh chấp hành các nội quy, quy định của Trường và đơn vị nơi đến làm việc, học tập, nghiên cứu.
-
-2
 
 ---
 
@@ -271,23 +258,23 @@ Văn bản này quy định về trang phục, giao tiếp, ứng xử, bảo v�
 
 3. Hình thức và trách nhiệm xử lý vi phạm:
 
-| Lần vi phạm(Trong năm học: từ ngày01/8 đến ngày 31/7) | Hình thức xử lý | Trách nhiệm xử lý | Cách thức thực hiện |
+| Lần vi phạm<br>(Trong năm học: từ ngày<br>01/8 đến ngày 31/7) | Hình thức xử lý | Trách nhiệm<br>xử lý | Cách thức thực hiện |
 | --- | --- | --- | --- |
 | **a) Vi phạm quy định tại Điều 3, Điều 4 (trừ khoản 3, 4 và 5 điều 4) Quy định này** |  |  |  |
-| - Đối với viên chức |  |  |  |
+| - Đối với viên chức | - Đối với viên chức | - Đối với viên chức | - Đối với viên chức |
 | Lần thứ nhất | Nhắc nhở | Thủ trưởng đơn vị | Gửi văn bản hoặc e-mail cho cá nhân |
 | Lần thứ hai | Phê bình trước toàn đơn vị | Hiệu trưởng | Thủ trưởng đơn vị trình Hiệu trưởng ban hành văn bản phê bình |
 | Lần thứ ba | Kỷ luật Khiển trách | Hội đồng kỷ luật | Thực hiện theo trình tự, thủ tục xử lý kỷ luật viên chức |
-| - Đối với sinh viên |  |  |  |
+| - Đối với sinh viên | - Đối với sinh viên | - Đối với sinh viên | - Đối với sinh viên |
 | Lần thứ nhất | Nhắc nhở | Cố vấn học tập hoặc Trợ lý công tác sinh viên của đơn vị | Gửi văn bản hoặc e-mail cho cá nhân đồng thời báo cáo cho Thủ trưởng đơn vị |
 | Lần thứ hai | Trừ điểm rèn luyện | Thủ trưởng đơn vị | Cố vấn học tập hoặc Trợ lý công tác sinh viên của đơn vị trình Thủ trưởng đơn vị quyết định |
 | Lần thứ ba | Kỷ luật Khiển trách | Hội đồng kỷ luật | Thực hiện theo trình tự, thủ tục xử lý kỷ luật sinh viên |
 | **b) Vi phạm quy định tại các khoản 3, 4, 5 Điều 4, Điều 5, Điều 6, Điều 7 và Điều 8 Quy định này** |  |  |  |
-| - Đối với viên chức |  |  |  |
+| - Đối với viên chức | - Đối với viên chức | - Đối với viên chức | - Đối với viên chức |
 | Lần thứ nhất | Phê bình trước toàn đơn vị | Hiệu trưởng | Thủ trưởng đơn vị trình Hiệu trưởng ban hành văn bản phê bình |
 | Lần thứ hai | Kỷ luật Khiển trách | Hội đồng kỷ luật | Thực hiện theo trình tự, thủ tục xử lý kỷ luật viên chức |
 | Lần thứ ba | Kỷ luật Cảnh cáo | Hội đồng kỷ luật | Thực hiện theo trình tự, thủ tục xử lý kỷ luật viên chức |
-| - Đối với sinh viên |  |  |  |
+| - Đối với sinh viên | - Đối với sinh viên | - Đối với sinh viên | - Đối với sinh viên |
 | Lần thứ nhất | Trừ điểm rèn luyện | Thủ trưởng đơn vị | Cố vấn học tập Trợ lý công tác sinh viên của đơn vị trình Thủ trưởng đơn vị quyết định |
 | Lần thứ hai | Kỷ luật Khiển trách | Hội đồng kỷ luật | Thực hiện theo trình tự, thủ tục xử lý kỷ luật sinh viên |
 | Lần thứ ba | Kỷ luật Cảnh cáo | Hội đồng kỷ luật | Thực hiện theo trình tự, thủ tục xử lý kỷ luật sinh viên |
@@ -306,7 +293,8 @@ Số lần vi phạm được tính trong một năm học đối với cùng m�
 
 6. Riêng đối với người bên ngoài, tùy theo mức độ vi phạm, hậu quả do hành vi vi phạm gây ra, xử lý bằng các hình thức: nhắc nhở, mời ra khỏi khu vực cơ quan hoặc đề nghị cơ quan chức năng xử lý theo quy định của pháp luật.
 
-**Điều 12.** Trong quá trình thực hiện, nếu có vấn đề vướng mắc, phát sinh các đơn vị, cá nhân kịp thời phản ánh về Trường để tiến hành điều chỉnh, bổ sung cho phù hợp với quy định của Nhà nước và tình hình thực tế tại Trường./.
+#### Điều 12. Trong quá trình thực hiện, nếu có vấn đề vướng mắc, phát sinh các đơn vị, cá nhân kịp thời phản ánh về Trường để tiến hành điều chỉnh, bổ sung cho phù hợp với quy định của Nhà nước và tình hình thực tế tại Trường./.
 
 **HIỆU TRƯỞNG**
-Dấu và chữ ký của Hiệu trưởng Hà Thanh Toàn
+
+Seal of Can Tho University with signature of Ha Thanh Toan

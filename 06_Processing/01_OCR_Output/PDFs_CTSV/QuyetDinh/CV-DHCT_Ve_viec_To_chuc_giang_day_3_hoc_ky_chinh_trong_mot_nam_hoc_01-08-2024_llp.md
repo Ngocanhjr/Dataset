@@ -1,24 +1,23 @@
 ---
 document_key: ctu-ctsv-cv-dhct-ve-viec-to-chuc-giang-day-3-hoc-ky-chinh-trong-mot-nam-hoc-01-08-2024
-version_key: ctu-ctsv-cv-dhct-ve-viec-to-chuc-giang-day-3-hoc-ky-chinh-trong-mot-nam-hoc-01-08-2024-73d559aeb379
+version_key: ctu-ctsv-cv-dhct-ve-viec-to-chuc-giang-day-3-hoc-ky-chinh-trong-mot-nam-hoc-01-08-2024-33dd83224118
 title: "V/v triển khai giảng dạy và học tập 03 học kỳ chính trong một năm học"
 document_type: cong_van
 domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: 
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
 - PDT
 - PCTSV
 - KSDH
 - TTLKDT
 - PTC
 - TTTTQTM
-signer_name: "HT Tran Trung Tinh"
+signer_name: "HT Trần Trung Tính"
 audience:
   - student
-code: ""
-issued_date: 2024-7-31
-effective_date: 
-version_label: ""
+code: "2753/ĐHCT-VPT"
+issued_date: 2024-07-31
+effective_date: 2024-07-31
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -28,15 +27,13 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/QuyetDinh/CV-DHCT_Ve_viec_To_chuc_giang_day_3_hoc_ky_chinh_trong_mot_nam_hoc_01-08-2024.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/QuyetDinh/CV-DHCT_Ve_viec_To_chuc_giang_day_3_hoc_ky_chinh_trong_mot_nam_hoc_01-08-2024.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 73d559aeb379d94a07cdb2efd70d4a2b
+checksum: 33dd832241189659a94d644be1ad2237dea103565fbeb2ed73f7c63cb7c1a19f
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T00:56:14+07:00"
-updated_at: "2026-07-05T00:56:14+07:00"
+created_at: "2026-07-07T00:28:26+07:00"
+updated_at: "2026-07-07T00:28:26+07:00"
 notes: ""
 ---
 
@@ -51,7 +48,6 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 **Độc lập - Tự do - Hạnh phúc**
 
 Số: 2753/ĐHCT-VPT
-
 *Cần Thơ, ngày 31 tháng 7 năm 2024*
 
 V/v triển khai giảng dạy và học tập
@@ -63,7 +59,7 @@ Nhằm giúp người học có thể rút ngắn thời gian học tập, hỗ 
 
 Để chuẩn bị cho công tác triển khai giảng dạy và học tập 03 học kỳ chính trong một năm học, Hiệu trưởng Trường ĐHCT thông báo đến tất cả các đơn vị, viên chức và người lao động (VC-NLĐ) và người học trong toàn Trường về kế hoạch giảng dạy và học tập từ Học kỳ 2 năm học 2024 – 2025 như sau:
 
-1. Kế hoạch giảng dạy và học tập từ Học kỳ 2 năm học 2024 - 2025:
+### 1. Kế hoạch giảng dạy và học tập từ Học kỳ 2 năm học 2024 - 2025:
 
 a) Một năm học được tổ chức thành 03 học kỳ chính gọi là Học kỳ 1, Học kỳ 2, Học kỳ 3. Việc tổ chức một năm học gồm 03 học kỳ chính được thực hiện thống nhất cho tất cả các trình độ đào tạo và hình thức đào tạo của Trường Đại học Cần Thơ (ngoại trừ đào tạo tại Trường THPT Thực hành Sư phạm và Khoa Dự bị Dân tộc).
 
@@ -73,7 +69,7 @@ c) Học kỳ 1 bắt đầu từ tuần thứ 37 đến tuần thứ 51 của n
 
 *(Phụ lục phương án bố trí 3 học kỳ chính trong một năm học được đính kèm)*
 
-2. Triển khai thực hiện
+### 2. Triển khai thực hiện
 
 - Các phòng, ban chức năng khẩn trưởng triển khai rà soát, điều chỉnh sửa đổi, bổ sung các quy định, quy chế, quy trình công tác liên quan đến việc giảng
 
@@ -111,19 +107,24 @@ Chữ ký của Trần Trung Tính
 
 <!-- page: 3 -->
 
+# Phụ lục
+
+
 # PHƯƠNG ÁN BỐ TRÍ 3 HỌC KỲ CHÍNH TRONG MỘT NĂM HỌC
+
 
 (Kèm theo Công văn số     /ĐHCT-VPT ngày      tháng 7 năm 2024 của Hiệu trưởng Trường Đại học Cần Thơ)
 
+
 ### 1. NĂM HỌC CÓ 3 HỌC KỲ CHÍNH
 
-Học kỳ có 15 tuần (11 tuần dạy và học + 01 tuần dự trữ và thi HP thi riêng + 01 tuần thi HP thi riêng còn lại 01 tuần thi HP thi chung và 01 tuần xử lý kết quả)
+**Học kỳ có 15 tuần (11 tuần dạy và học + 01 tuần dự trữ và thi HP thi riêng + 01 tuần thi HP thi riêng còn lại 01 tuần thi HP thi chung và 01 tuần xử lý kết quả)**
 
-| Năm | HK2 | HK3 | HK1 |
-| --- | --- | --- | --- |
-| Năm 2025 | HK2, năm học 2024-2025<br/>(từ 30/12/2024 đến 27/04/2025) | HK3, năm học 2024-2025<br/>(từ 12/05 đến 24/08/2025) | HK1, năm học 2025-2026<br/>(từ 08/09 đến 21/12/2025) |
-| Năm 2026 | HK2, năm học 2025-2026<br/>(29/12/2025 - 26/04/2026) | HK3, năm học 2025-2026<br/>(từ 11/05 đến 23/08/2026) | HK1, năm học 2026-2027<br/>(từ 07/09 đến 20/12/2026) |
-| Năm 2027 | HK2, năm học 2026-2027<br/>(từ 04/01 đến 02/05/2027) | HK3, năm học 2026-2027<br/>(từ 17/05 đến 29/08/2027) | HK1, năm học 2027-2028<br/>(từ 13/09 đến 26/12/2027) |
-| Năm 2028 | HK2, năm học 2027-2028<br/>(từ 03/01 đến 30/04/2028) | HK3, năm học 2027-2028<br/>(từ 15/05 đến 27/08/2028) | HK1, năm học 2028-2029<br/>(từ 11/09 đến 24/12/2028) |
-| Năm 2029 | HK2, năm học 2028-2029<br/>(từ 01/01 đến 29/04/2029) | HK3, năm học 2028-2029<br/>(từ 14/05 đến 26/08/2029) | HK1, năm học 2029-2030<br/>(từ 10/09 đến 23/12/2029) |
-| Năm 2030 | HK2, năm học 2029-2030<br/>(từ 31/12/2029 đến 28/04/2030) | HK3, năm học 2029-2030<br/>(từ 13/05 đến 25/08/2030) | HK1, năm học 2030-2031<br/>(từ 09/09 đến 22/12/2030) |
+| Tuần | 52 | 53 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 | 51 | 52 | 53 | 1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Năm 2025 |  |  | HK2, năm học 2024-2025<br>(từ 30/12/2024 đến 27/04/2025) |  |  | HK3, năm học 2024-2025<br>(từ 12/05 đến 24/08/2025) |  |  | HK1, năm học 2025-2026<br>(từ 08/09 đến 21/12/2025) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Năm 2026 |  |  | HK2, năm học 2025-2026<br>(29/12/2025 - 26/04/2026) |  |  | HK3, năm học 2025-2026<br>(từ 11/05 đến 23/08/2026) |  |  | HK1, năm học 2026-2027<br>(từ 07/09 đến 20/12/2026) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Năm 2027 | HK2, năm học 2026-2027<br>(từ 04/01 đến 02/05/2027) |  |  | HK3, năm học 2026-2027<br>(từ 17/05 đến 29/08/2027) |  |  | HK1, năm học 2027-2028<br>(từ 13/09 đến 26/12/2027) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Năm 2028 |  |  | HK2, năm học 2027-2028<br>(từ 03/01 đến 30/04/2028) |  |  | HK3, năm học 2027-2028<br>(từ 15/05 đến 27/08/2028) |  |  | HK1, năm học 2028-2029<br>(từ 11/09 đến 24/12/2028) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Năm 2029 |  | HK2, năm học 2028-2029<br>(từ 01/01 đến 29/04/2029) |  |  | HK3, năm học 2028-2029<br>(từ 14/05 đến 26/08/2029) |  |  | HK1, năm học 2029-2030<br>(từ 10/09 đến 23/12/2029) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Năm 2030 |  | HK2, năm học 2029-2030<br>(từ 31/12/2029 đến 28/04/2030) |  |  | HK3, năm học 2029-2030<br>(từ 13/05 đến 25/08/2030) |  |  | HK1, năm học 2030-2031<br>(từ 09/09 đến 22/12/2030) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

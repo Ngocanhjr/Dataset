@@ -1,23 +1,17 @@
 ---
 document_key: ctu-ctsv-q-29-stem-288-chinh-sach-vay-von
-version_key: ctu-ctsv-q-29-stem-288-chinh-sach-vay-von-819ab9315f46
+version_key: ctu-ctsv-q-29-stem-288-chinh-sach-vay-von-a7959c781200
 title: "QUYẾT ĐỊNH Về tín dụng đối với học sinh, sinh viên, học viên thạc sĩ, nghiên cứu sinh học các ngành khoa học, công nghệ, kỹ thuật và toán"
 document_type: quyet_dinh
-domain: sinh_vien
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: 
-- BO
-- CQNB
-- CQCP
-- UBND-TT
-- NHCSXH
-signer_name: "PTT Hà Đức Phớc "
+domain: hoc_phi
+issuing_authority: "Thủ tướng Chính phủ"
+responsible_department: []
+signer_name: "PTT Hà Đức Phớc"
 audience:
   - student
-code: ""
-issued_date: 2025-8-28
-effective_date:
-version_label: ""
+code: "29/2025/QĐ-TTg"
+issued_date: 2025-08-28
+effective_date: 2025-08-28
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -27,16 +21,14 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/QuyetDinh/Q_29_STEM_288_Chinh_Sach_Vay_Von.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/QuyetDinh/Q_29_STEM_288_Chinh_Sach_Vay_Von.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 819ab9315f46cd4aefbdc3dc0361c392
+checksum: a7959c78120084969e9d9589553489428cee7e51df82ea389d29cc5d98f7cd81
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T00:57:10+07:00"
-updated_at: "2026-07-05T00:57:10+07:00"
-notes: ""
+created_at: "2026-07-07T00:28:35+07:00"
+updated_at: "2026-07-07T00:28:35+07:00"
+notes: "Bộ phận chịu trách nhiệm thuộc các bộ, vụ của nhà nước "
 ---
 
 1
@@ -286,7 +278,7 @@ d) Phối hợp với Ngân hàng Chính sách xã hội thực hiện việc ki
 
 4. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, Chủ tịch Hội đồng quản trị và Tổng Giám đốc Ngân hàng Chính sách xã hội chịu trách nhiệm thi hành Quyết định này.
 
-**Nơi nhận:**
+*Nơi nhận:*
 
 - Ban Bí thư Trung ương Đảng;
 
@@ -329,15 +321,13 @@ Dấu đỏ của Chính phủ Việt Nam
 
 **Hồ Đức Phớc**
 
-Scanned with CamScanner logo
-
 ---
 
 9
 
 <!-- page: 9 -->
 
-Dấu giáp lai của Thủ tướng Chính phủ
+Seal of the Prime Minister of Vietnam
 
 # Phụ lục I
 # MẪU TỜ KHAI THÔNG TIN TẠI THỜI ĐIỂM ĐỀ NGHỊ NGÂN HÀNG CHÍNH SÁCH XÃ HỘI CHO VAY VỐN
@@ -347,53 +337,51 @@ Dấu giáp lai của Thủ tướng Chính phủ
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập - Tự do - Hạnh phúc**
 
----
-
 # TỜ KHAI THÔNG TIN TẠI THỜI ĐIỂM ĐỀ NGHỊ NGÂN HÀNG CHÍNH SÁCH XÃ HỘI CHO VAY VỐN
 
 ### 1. Đối tượng vay vốn<sup>1</sup>
 
-* **Họ và tên học sinh sinh viên/Học viên thạc sỹ/nghiên cứu sinh**:
+* **Họ và tên học sinh sinh viên/Học viên thạc sỹ/nghiên cứu sinh**:     
 
-* **Ngày sinh**:     /    /     **Giới tính**: Nam [ ] Nữ [ ]
+* **Ngày sinh**:     /    /    
+* **Giới tính**:
+    - Nam [ ]
+    - Nữ [ ]
 
-* **CCCD số**:      **ngày cấp**     /    /     **Nơi cấp**:
+* **CCCD số**:      **ngày cấp**     /    /     **Nơi cấp**:     
 
-* **Tên cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp đang theo học**:
+* **Tên cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp đang theo học**:     
 
-* **Hệ đào tạo (Cao đẳng, Đại học, Thạc sĩ, Tiến sĩ...)**:
+* **Hệ đào tạo (Cao đẳng, Đại học, Thạc sĩ, Tiến sĩ...)**:     
 
 * **Ngành, lĩnh vực đào tạo**:
+    - [ ] Khoa học sự sống 
 
-    - [ ] Khoa học sự sống
+    - [ ] Khoa học tự nhiên 
 
-    - [ ] Khoa học tự nhiên
+    - [ ] Máy tính và công nghệ thông tin 
 
-    - [ ] Máy tính và công nghệ thông tin
+    - [ ] Công nghệ kỹ thuật 
 
-    - [ ] Công nghệ kỹ thuật
+    - [ ] Kỹ thuật 
 
-    - [ ] Kỹ thuật
+    - [ ] Kiến trúc và xây dựng 
 
-    - [ ] Kiến trúc và xây dựng
+    - [ ] Sản xuất và chế biến 
 
-    - [ ] Sản xuất và chế biến
+    - [ ] Toán và thống kê 
 
-    - [ ] Toán và thống kê
+    - [ ] Công nghệ tài chính 
 
-    - [ ] Công nghệ tài chính
+    - [ ] Các ngành đào tạo công nghệ then chốt khác theo quy định của pháp luật 
 
-    - [ ] Các ngành đào tạo công nghệ then chốt khác theo quy định của pháp luật
+* **Mã ngành**:     
 
-* **Mã ngành**:
-
-* **Loại hình đào tạo**:
-
----
+* **Loại hình đào tạo**:     
 
 <sup>1</sup> Căn cứ vào từng đối tượng cụ thể để điền thông tin cho phù hợp
 
-Scanned with CamScanner
+Scanned with CamScanner logo
 
 ---
 
@@ -401,55 +389,51 @@ Scanned with CamScanner
 
 <!-- page: 10 -->
 
-**Họ và tên học sinh sinh viên/Học viên thạc sỹ/nghiên cứu sinh:** [__________________________________________________________________]
+**Họ và tên học sinh sinh viên/Học viên thạc sỹ/nghiên cứu sinh**:     
 
-**Ngày nhập học (tháng/năm):** [_____/_____]
+**Ngày nhập học (tháng/năm)**: ...../...... **Đang học năm thứ**:     
 
-**Đang học năm thứ:** [__________________]
+**Thời gian dự kiến ra trường (tháng/năm)**: ....../.......
 
-**Thời gian dự kiến ra trường (tháng/năm):** [_____/______]
+**Thời gian học tại trường**: ............. tháng.
 
-**Thời gian học tại trường:** [_________________] tháng.
+**Đơn vị công tác (nếu có)**:     
 
-**Đơn vị công tác (nếu có):** [__________________________________________________________________]
-
-**2. Điều kiện vay vốn**
+### 2. Điều kiện vay vốn
 
 a) Đối với HSSV năm nhất:
 
-**- Xếp loại học lực của 03 năm học THPT:**
+- Xếp loại học lực của 03 năm học THPT:
 
-**Lớp 10:** [_____________] **Lớp 11:** [_____________] **Lớp 12:** [_____________]
+Lớp 10:      Lớp 11:      Lớp 12:     
 
-**- Điểm trung bình năm lớp 12 THPT của các môn:**
+- Điểm trung bình năm lớp 12 THPT của các môn:
 
-**Toán:** [_____________] **Vật lí:** [_____________] **Hóa học:** [_____________] **Sinh học:** [_____________]
+Toán:      Vật lí:      Hóa học:      Sinh học:     
 
 b) Đối với HSSV từ năm hai trở đi:
 
-**- Điểm trung bình các môn của năm học liền kề trước:** [__________________________________________________________________]
+- Điểm trung bình các môn của năm học liền kề trước:     
 
-**- Xếp loại năm học liền kề trước:** [__________________________________________________________________]
+- Xếp loại năm học liền kề trước:     
 
-3. Học phí và các khoản hỗ trợ tại trường
+### 3. Học phí và các khoản hỗ trợ tại trường
 
-**- Số tiền học phí trong thời gian còn lại của khoá học theo quy định:** [__________________________________________________________________] đồng/tháng.
+- Số tiền học phí trong thời gian còn lại của khoá học theo quy định:      đồng/tháng.
 
-**- Số tiền hỗ trợ tài chính của nhà trường (nếu có):** [__________________________________________________________________] đồng/tháng.
+- Số tiền hỗ trợ tài chính của nhà trường (nếu có):      đồng/tháng.
 
-**- Số tiền học bổng (nếu có):** [__________________________________________________________________] đồng/tháng.
+- Số tiền học bổng (nếu có):      đồng/tháng.
 
-**- Số tiền miễn giảm khác (nếu có):** [__________________________________________________________________] đồng/tháng.
+- Số tiền miễn giảm khác (nếu có):      đồng/tháng.
 
-**- Số tiền học phí còn phải đóng (sau khi trừ các khoản học bổng và hỗ trợ tài chính khác của nhà trường):** [__________________________________________________________________] đồng/tháng.
+- Số tiền học phí còn phải đóng (*sau khi trừ các khoản học bổng và hỗ trợ tài chính khác của nhà trường*):      đồng/tháng.
 
-[__________________], ngày [____] tháng [____] năm [__________] [__________________], ngày [____] tháng [____] năm [__________]
+............, ngày .... tháng ..... năm ............. ..........., ngày .... tháng ..... năm .............
 
-**NGƯỜI HỌC**                                     **XÁC NHẬN CỦA CƠ SỞ GIÁO DỤC**
+**NGƯỜI HỌC** **XÁC NHẬN CỦA CƠ SỞ GIÁO DỤC**
 
-*(Ký, ghi rõ họ tên)*                  *(Ký, ghi rõ họ tên, chức danh và đóng dấu)*
-
-Scanned with CS CamScanner
+*(Ký, ghi rõ họ tên)* *(Ký, ghi rõ họ tên, chức danh và đóng dấu)*
 
 ---
 
@@ -457,42 +441,53 @@ Scanned with CS CamScanner
 
 <!-- page: 11 -->
 
+Red circular seal with text and star
+
 Phụ lục II
-**THÔNG TIN HẰNG NĂM CỦA NGƯỜI HỌC**
+# THÔNG TIN HẰNG NĂM CỦA NGƯỜI HỌC
 
-*(Kèm theo Quyết định số 29/2025/QĐ-TTg ngày 08 tháng 8 năm 2025 của Thủ tướng Chính phủ)*
+(Kèm theo Quyết định số 29/2025/QĐ-TTg ngày 18 tháng 8 năm 2025 của Thủ tướng Chính phủ)
 
-Dấu giáp lai Trường Đại học Cần Thơ
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập - Tự do - Hạnh phúc**
 
 # TỜ KHAI THÔNG TIN HẰNG NĂM
 
-1. **Thông tin người học**
-**Họ và tên**:
-**Ngày sinh**: ....../....../...... **Giới tính**: Nam [ ] Nữ [ ]
-**CCCD số**:      ngày cấp ....../....../......... **Nơi cấp**:
-**Tên cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp đang theo học**:
-**Có thay đổi ngành, lĩnh vực đào tạo so với năm trước không?** [ ] Có [ ] Không
-**Nếu có, ngành, lĩnh vực đào tạo thay đổi có thuộc một trong các ngành, lĩnh vực đào tạo STEM<sup>1</sup> hay không?** [ ] Có [ ] Không
-**Nêu rõ ngành và mã ngành**:
-**Thời gian đã học tại trường**: ............ tháng. **Thời gian được trường cho phép nghỉ học tạm thời và được bảo lưu kết quả học tập**: ............tháng (nếu có).
-**Đơn vị công tác (nếu có)**:
+### 1. Thông tin người học
+- **Họ và tên**:     
+- **Ngày sinh**:     /    /    
+- **Giới tính**:
+  - Nam [ ]
+  - Nữ [ ]
+- **CCCD số**:      **ngày cấp**:     /    /     **Nơi cấp**:     
+- **Tên cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp đang theo học**:     
+- **Có thay đổi ngành, lĩnh vực đào tạo so với năm trước không?**:
+  - Có [ ]
+  - Không [ ]
+- **Nếu có, ngành, lĩnh vực đào tạo thay đổi có thuộc một trong các ngành, lĩnh vực đào tạo STEM<sup>1</sup> hay không?**:
+  - Có [ ]
+  - Không [ ]
+- **Nêu rõ ngành và mã ngành**:     
+- **Thời gian đã học tại trường**:      tháng.
+- **Thời gian được trường cho phép nghỉ học tạm thời và được bảo lưu kết quả học tập**:      tháng (nếu có).
+- **Đơn vị công tác (nếu có)**:     
 
-2. **Học phí và các khoản hỗ trợ tại trường**
-- **Số tiền học phí trong thời gian còn lại của khoá học theo quy định**: ....................................đồng/tháng.
-- **Số tiền hỗ trợ tài chính của nhà trường**: ....................................đồng/tháng.
-- **Số tiền học bổng**: ........................................................................đồng/tháng.
-- **Số tiền miễn giảm khác**: ............................................................đồng/tháng.
-- **Số tiền học phí còn phải đóng** *(sau khi trừ các khoản học bổng và hỗ trợ tài chính khác của nhà trường)*: ....................................đồng/tháng.
+### 2. Học phí và các khoản hỗ trợ tại trường
+- **Số tiền học phí trong thời gian còn lại của khoá học theo quy định**:      đồng/tháng.
+- **Số tiền hỗ trợ tài chính của nhà trường**:      đồng/tháng.
+- **Số tiền học bổng**:      đồng/tháng.
+- **Số tiền miễn giảm khác**:      đồng/tháng.
+- **Số tiền học phí còn phải đóng** (*sau khi trừ các khoản học bổng và hỗ trợ tài chính khác của nhà trường*):      đồng/tháng.
 
-... ... ....., ngày .... tháng ..... năm ... ...      ... ... ....., ngày .... tháng ..... năm ... ...
-
+    , ngày      tháng      năm     
 **NGƯỜI HỌC**
 *(Ký, ghi rõ họ tên)*
 
+    , ngày      tháng      năm     
 **XÁC NHẬN CỦA CƠ SỞ GIÁO DỤC**
 *(Ký, ghi rõ họ tên, chức danh và đóng dấu)*
+
+---
 
 <sup>1</sup> Một trong các ngành, lĩnh vực đào tạo sau: Khoa học sự sống; Khoa học tự nhiên; Máy tính và công nghệ thông tin; Công nghệ kỹ thuật; Kỹ thuật; Kiến trúc và xây dựng; Sản xuất và chế biến; Toán và thống kê; Công nghệ tài chính; Các ngành đào tạo công nghệ then chốt khác theo quy định của pháp luật.
 
@@ -504,13 +499,14 @@ Scanned with CamScanner logo
 
 <!-- page: 12 -->
 
-Dấu giáp lai của Thủ tướng Chính phủ
+Seal of the Prime Minister of Vietnam
 
-**Phụ lục III**
-**MẪU BÁO CÁO ĐỊNH KỲ HẰNG NĂM KẾT QUẢ THỰC HIỆN CHO VAY CHƯƠNG TRÌNH**
-*(Kèm theo Quyết định số 29/2025/QĐ-TTg ngày 28 tháng 8 năm 2025 của Thủ tướng Chính phủ)*
+# Phụ lục III
+# MẪU BÁO CÁO ĐỊNH KỲ HÀNG NĂM KẾT QUẢ THỰC HIỆN CHO VAY CHƯƠNG TRÌNH
 
-| TT1 | Phân loại2 | Doanh số cho vay<br/>Trong kỳ báo cáo<br/>3 | Doanh số cho vay<br/>Lũy kế từ khi thực hiện chương trình<br/>4 | Doanh số thu nợ<br/>Trong kỳ báo cáo<br/>5 | Doanh số thu nợ<br/>Lũy kế từ khi thực hiện chương trình<br/>6 | Doanh số xóa nợ<br/>Trong kỳ báo cáo<br/>7 | Doanh số xóa nợ<br/>Lũy kế từ khi thực hiện chương trình<br/>8 | Dư nợ<br/>Tổng dư nợ<br/>9 | Dư nợ<br/>Nợ trong hạn<br/>10 | Dư nợ<br/>Nợ quá hạn<br/>11 | Dư nợ<br/>Nợ khoanh<br/>12 | Khách hàng<br/>Số khách hàng còn dư nợ<br/>13 | Khách hàng<br/>Số lượt khách hàng vay vốn trong kỳ báo cáo<br/>14 | Khách hàng<br/>Lũy kế số lượt khách hàng vay vốn từ khi thực hiện chương trình<br/>15 |
+(Kèm theo Quyết định số 29/2025/QĐ-TTg ngày 28 tháng 8 năm 2025 của Thủ tướng Chính phủ)
+
+| TT / 1 | Phân loại / 2 | Doanh số cho vay / Trong kỳ báo cáo / 3 | Doanh số cho vay / Lũy kế từ khi thực hiện chương trình / 4 | Doanh số thu nợ / Trong kỳ báo cáo / 5 | Doanh số thu nợ / Lũy kế từ khi thực hiện chương trình / 6 | Doanh số xóa nợ / Trong kỳ báo cáo / 7 | Doanh số xóa nợ / Lũy kế từ khi thực hiện chương trình / 8 | Dư nợ / Tổng dư nợ / 9 | Dư nợ / Nợ trong hạn / 10 | Dư nợ / Nợ quá hạn / 11 | Dư nợ / Nợ khoanh / 12 | Khách hàng / Số khách hàng còn dư nợ / 13 | Khách hàng / Số lượt khách hàng vay vốn trong kỳ báo cáo / 14 | Khách hàng / Lũy kế số lượt khách hàng vay vốn từ khi thực hiện chương trình / 15 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I | PHÂN LOẠI THEO KHỐI NGÀNH HỌC |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 | Khoa học sự sống |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -528,15 +524,16 @@ Dấu giáp lai của Thủ tướng Chính phủ
 
 <!-- page: 13 -->
 
-| TT1 | Phân loại2 | Doanh số cho vay<br/>Trong kỳ báo cáo<br/>3 | Doanh số cho vay<br/>Lũy kế từ khi thực hiện chương trình<br/>4 | Doanh số thu nợ<br/>Trong kỳ báo cáo<br/>5 | Doanh số thu nợ<br/>Lũy kế từ khi thực hiện chương trình<br/>6 | Doanh số xóa nợ<br/>Trong kỳ báo cáo<br/>7 | Doanh số xóa nợ<br/>Lũy kế từ khi thực hiện chương trình<br/>8 | Dư nợ<br/>Tổng dư nợ<br/>9 | Dư nợ<br/>Nợ trong hạn<br/>10 | Dư nợ<br/>Nợ quá hạn<br/>11 | Dư nợ<br/>Nợ khoanh<br/>12 | Khách hàng<br/>Số khách hàng còn dư nợ<br/>13 | Khách hàng<br/>Số lượt khách hàng vay vốn trong kỳ báo cáo<br/>14 | Khách hàng<br/>Lũy kế số lượt khách hàng vay vốn từ khi thực hiện chương trình<br/>15 |
+| TT / 1 | Phân loại / 2 | Doanh số cho vay / Trong kỳ báo cáo / 3 | Doanh số cho vay / Lũy kế từ khi thực hiện chương trình / 4 | Doanh số thu nợ / Trong kỳ báo cáo / 5 | Doanh số thu nợ / Lũy kế từ khi thực hiện chương trình / 6 | Doanh số xóa nợ / Trong kỳ báo cáo / 7 | Doanh số xóa nợ / Lũy kế từ khi thực hiện chương trình / 8 | Dư nợ / Tổng dư nợ / 9 | Dư nợ / Nợ trong hạn / 10 | Dư nợ / Nợ quá hạn / 11 | Dư nợ / Nợ khoanh / 12 | Khách hàng / Số khách hàng còn dư nợ / 13 | Khách hàng / Số lượt khách hàng vay vốn trong kỳ báo cáo / 14 | Khách hàng / Lũy kế số lượt khách hàng vay vốn từ khi thực hiện chương trình / 15 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9 | Công nghệ tài chính |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 10 | Các ngành đào tạo công nghệ then chốt khác theo quy định của pháp luật |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Tổng cộng |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| II PHÂN LOẠI THEO CẤP HỌC |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng |
+| II | PHÂN LOẠI THEO CẤP HỌC |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 | Tiến sĩ |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 2 | Thạc sĩ |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 3 | Đại học |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 4 | Cao đẳng |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 5 | Trung cấp |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 6 | Giáo dục nghề nghiệp khác |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Tổng cộng |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng | Tổng cộng |

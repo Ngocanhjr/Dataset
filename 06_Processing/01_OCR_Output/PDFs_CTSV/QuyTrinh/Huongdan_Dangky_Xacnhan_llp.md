@@ -1,18 +1,18 @@
 ---
 document_key: ctu-ctsv-huongdan-dangky-xacnhan
-version_key: ctu-ctsv-huongdan-dangky-xacnhan-28ddb3f602ff
+version_key: ctu-ctsv-huongdan-dangky-xacnhan-6a3ebe378075
 title: "HƯỚNG DẪN SINH VIÊN ĐĂNG KÝ MẪU XÁC NHẬN"
 document_type: quy_trinh
 domain: sinh_vien
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: PCTSV
+issuing_authority: "Đại học Cần Thơ"
+responsible_department: 
+- PCTSV
 signer_name: ""
 audience:
   - student
 code: ""
 issued_date:
 effective_date:
-version_label: ""
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -22,15 +22,13 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/QuyTrinh/Huongdan_Dangky_Xacnhan.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/QuyTrinh/Huongdan_Dangky_Xacnhan.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 28ddb3f602ffa05790fdddb8ce9e0d64
+checksum: 6a3ebe378075c14ca7b88421e1d0fe333f98417a0cc9a1f011c63227d9619d71
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T01:12:55+07:00"
-updated_at: "2026-07-05T01:12:55+07:00"
+created_at: "2026-07-07T00:13:28+07:00"
+updated_at: "2026-07-07T00:13:28+07:00"
 notes: ""
 ---
 
@@ -40,19 +38,19 @@ notes: ""
 
 # HƯỚNG DẪN SINH VIÊN ĐĂNG KÝ MẪU XÁC NHẬN
 
-1. Đăng ký in mẫu đơn xác nhận:
+### 1. Đăng ký in mẫu đơn xác nhận:
 
 Sau khi đăng nhập thành công vào hệ thống, sinh viên vào **“Kết quả học tập”**
 
-Giao diện các chức năng hệ thống với mục Kết quả học tập được khoanh đỏ
+Screenshot of the student portal menu showing icons for Kế hoạch học tập, Đăng ký học phần, Kết quả học tập (highlighted), Kết quả tốt nghiệp, Nghiên cứu khoa học, Ký túc xá, Hệ thống lấy ý kiến trực tuyến, Hoạt động ngoại khóa, Đoàn viên, Đăng ký ngành 2, Đánh giá rèn luyện, and Phòng học.
 
 Sau đó vào **“Yêu cầu xác nhận”**
 
-Thanh menu chức năng với mục Yêu cầu xác nhận được khoanh đỏ
+Screenshot of the submenu showing options: Xem kết quả học tập, In bảng điểm cá nhân, Xác nhận thông tin học bổng, and Yêu cầu xác nhận (highlighted).
 
 Danh sách hiển thị các mẫu xác nhận sinh viên đã đăng ký. Chọn **“Đăng ký”**
 
-Giao diện Danh sách các yêu cầu xác nhận với nút Đăng ký được khoanh đỏ
+Screenshot of the "Danh sách các yêu cầu xác nhận" interface with filters for "Tên mẫu xác nhận" and "Trạng thái", and an empty table with a "Đăng ký" button at the bottom.
 
 ---
 
@@ -60,16 +58,16 @@ Giao diện Danh sách các yêu cầu xác nhận với nút Đăng ký đượ
 
 <!-- page: 2 -->
 
-Tiếp theo, sinh viên chọn mẫu đơn cần đăng ký và chọn **“Thêm”**, khi đó sinh viên đã đăng ký thành công.
+Tiếp theo, sinh viên chọn mẫu đơn cần đăng ký và chọn Thêm, khi đó sinh viên đã đăng ký thành công.
 
-Giao diện đăng ký xác nhận
+Screenshot of registration interface showing "Đăng ký xác nhận" with a dropdown for "Tên mẫu xác nhận" and buttons "Thêm", "Trở về"
 
 Danh sách sẽ hiển thị các mẫu đơn sinh viên đã đăng ký, trạng thái in và số ngày nhận mẫu đơn theo quy định từ Phòng Công tác Sinh viên.
 
-Danh sách các yêu cầu xác nhận
+Screenshot of "Danh sách các yêu cầu xác nhận" table showing a registered request for "Đơn yêu cầu xác nhận vay vốn" dated 08-09-2021
 
-2. Xóa mẫu đơn xác nhận đã đăng ký:
+### 2. Xóa mẫu đơn xác nhận đã đăng ký:
 
 Đối với các mẫu đơn chưa in sinh viên có thể xóa đăng ký bằng cách chọn ở cột bên phải và click Xóa.
 
-Hướng dẫn xóa mẫu đơn xác nhận
+Screenshot of "Danh sách các yêu cầu xác nhận" table highlighting the selection checkbox and the "Xóa" button

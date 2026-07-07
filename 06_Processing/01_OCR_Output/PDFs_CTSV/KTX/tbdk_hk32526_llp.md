@@ -1,20 +1,19 @@
 ---
 document_key: ctu-ctsv-tbdk-hk32526
-version_key: ctu-ctsv-tbdk-hk32526-6e89178927ae
-title: "THÔNG BÁO Đăng ký ở Ký túc xá học kỳ 3 năm học 2025-2026**"
+version_key: ctu-ctsv-tbdk-hk32526-a42b92f1401a
+title: "THÔNG BÁO Đăng ký ở Ký túc xá học kỳ 3 năm học 2025-2026"
 document_type: thong_bao
 domain: ktx
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: 
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
 - PKHTC
 - PCTSV
-signer_name: "TP Nguyen Thanh Tuong"
+signer_name: "TP Nguyễn Thanh Tường"
 audience:
   - student
-code: ""
-issued_date: 2026-3-26
-effective_date: 2025-2026
-version_label: ""
+code: "88 /TB-CTSV"
+issued_date: 2026-03-26
+effective_date: 2025-01-01
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -24,15 +23,13 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/KTX/tbdk_hk32526.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/KTX/tbdk_hk32526.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 6e89178927ae4a145237971733907900
+checksum: a42b92f1401a28f702e8c9d849508375fe7391b09ab3016e5d0a8031ff2c2e4f
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T00:41:05+07:00"
-updated_at: "2026-07-05T00:41:05+07:00"
+created_at: "2026-07-06T23:22:35+07:00"
+updated_at: "2026-07-06T23:22:35+07:00"
 notes: ""
 ---
 
@@ -40,15 +37,7 @@ notes: ""
 
 <!-- page: 1 -->
 
-ĐẠI HỌC CẦN THƠ
-**PHÒNG CÔNG TÁC SINH VIÊN**
-
-**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**Độc lập - Tự do - Hạnh phúc**
-
-Số: 88 /TB-CTSV
-
-*Cần Thơ, ngày 26 tháng 3 năm 2026*
+Số: 88 /TB-CTSV Cần Thơ, ngày 26 tháng 3 năm 2026
 
 # THÔNG BÁO
 
@@ -76,7 +65,7 @@ Thời gian ở KTX của học kỳ 3 năm học 2025-2026 là **3,5 tháng**, 
 
     + Tên người thụ hưởng *(nội dung tương tự)*: **Đại học Cần Thơ.**
 
-<u>**Lưu ý:**</u> Sinh viên **chuyển đúng số tài khoản thu phí KTX** *(chuyển nhầm SV tự đề nghị ngân hàng xử lý)*. Kiểm tra chính xác cú pháp *(mã số SV, số điện thoại)* trước khi thực hiện thao tác gửi. Nếu **sau 2 ngày làm việc, hệ thống chưa cập nhật trạng thái đã đóng phí** thì chụp biên lai đã chuyển khoản thành công gửi về Phòng Kế hoạch và Tài chính qua email: ptc@ctu.edu.vn để được cập nhật trạng thái đã đóng phí.
+<u>**Lưu ý:**</u> Sinh viên **chuyển đúng số tài khoản thu phí KTX** *(chuyển nhầm SV tự đề nghị ngân hàng xử lý)*. Kiểm tra chính xác cú pháp *(mã số SV, số điện thoại)* trước khi thực hiện thao tác gửi. Nếu **sau 2 ngày làm việc**, hệ thống chưa cập nhật trạng thái **đã đóng phí** thì chụp biên lai đã chuyển khoản thành công gửi về Phòng Kế hoạch và Tài chính qua email: ptc@ctu.edu.vn để được cập nhật trạng thái đã đóng phí.
 
 - **Nộp qua mã QRCODE:** SV đăng nhập vào Hệ thống Quản lý KTX, xem số tiền, chọn đóng phí qua QRCode và thực hiện chuyển khoản nộp phí *(giữ nguyên mặc định nội dung chuyển khoản không cần hiệu chỉnh)*;
 
@@ -92,7 +81,7 @@ Thời gian ở KTX của học kỳ 3 năm học 2025-2026 là **3,5 tháng**, 
 
 ### 4. Đăng ký ở KTX
 
-- Sinh viên đăng ký ở KTX tập trung đầu kỳ *(kể cả SV đang ở KTX)* qua **Hệ thống Quản lý KTX** của Trường bằng tài khoản SV **từ ngày phát hành thông báo đến ngày 10/4/2026.** Sau thời gian trên SV đăng ký qua Hệ thống quản lý hoặc gửi email đăng ký đến email ktx@ctu.edu.vn hoặc trực tiếp tại Văn phòng Trung tâm Phục vụ Sinh
+- Sinh viên đăng ký ở KTX tập trung đầu kỳ *(kể cả SV đang ở KTX)* qua **Hệ thống Quản lý KTX** của Trường bằng tài khoản SV từ ngày phát hành thông báo đến **ngày 10/4/2026.** Sau thời gian trên SV đăng ký qua Hệ thống quản lý hoặc gửi email đăng ký đến email ktx@ctu.edu.vn hoặc trực tiếp tại Văn phòng Trung tâm Phục vụ Sinh
 
 ---
 
@@ -110,13 +99,13 @@ viên (TT.PVSV), TT.PVSV sẽ phản hồi kết quả sắp chỗ qua email SV 
 
 - Sinh viên thuộc Cơ sở Sóc Trăng chỉ bố trí chỗ ở tại khu II cho SV năm thứ tư.
 
-- Sinh viên thuộc Trung tâm Công nghệ phần mềm, chậm tiến độ (*từ năm thứ 5*), ngành 2, hệ VLVH đăng ký trực tuyến không được thì đăng ký bằng cách quét mã QR (*điền mẫu*) sẽ được bố trí tập trung theo sự sắp xếp của TT. PVSV. QR code
+- Sinh viên thuộc Trung tâm Công nghệ phần mềm, chậm tiến độ (*từ năm thứ 5*), ngành 2, hệ VLVH đăng ký trực tuyến không được thì đăng ký bằng cách quét mã QR (*điền mẫu*) sẽ được bố trí tập trung theo sự sắp xếp của TT. PVSV. QR code for registration
 
 - Sinh viên học hết chương trình đào tạo, chuẩn bị xét tốt nghiệp **không phải đăng ký ở tiếp**, chủ động tìm chỗ ở thích hợp khác để ở, nhường chỗ cho SV khác còn đang theo học tại Trường. SV còn ở KTX Hệ thống sẽ báo nợ dẫn đến việc chậm nhận được quyết định tốt nghiệp và không được nhận hoàn phí trả chỗ trước hạn.
 
 ### 5. Chuyển đổi, trả chỗ ở KTX
 
-- Sau khi có **kết quả sắp chỗ từ 23/4/2026**. SV có thể xin chuyển đổi chỗ nếu chỗ ở chưa thích hợp. SV quét mã QR và điền thông tin chuyển đổi chỗ vào mẫu. Kết quả sẽ được phản hồi trước này 04/5/2026. QR code
+- Sau khi có **kết quả sắp chỗ từ 23/4/2026**. SV có thể xin chuyển đổi chỗ nếu chỗ ở chưa thích hợp. SV quét mã QR và điền thông tin chuyển đổi chỗ vào mẫu. Kết quả sẽ được phản hồi trước này 04/5/2026. QR code for room change
 
 - Sinh viên trả chỗ trước hạn **sẽ không được hoàn trả phí ở**. Chỉ hoàn trả phí cho trường hợp SV trả chỗ ở trong vòng 07 ngày kể từ ngày duyệt chỗ ở qua Hệ thống Quản lý KTX (*phải có lý do chính đáng*);
 
@@ -132,12 +121,12 @@ viên (TT.PVSV), TT.PVSV sẽ phản hồi kết quả sắp chỗ qua email SV 
 Email: ktx@ctu.edu.vn.
 Điện thoại: Khu A: (02923) 872 178; Khu B: (02923) 872 275.
 
-**Nơi nhận:**
+**Nơi nhận:** **TRƯỞNG PHÒNG**
+
 - Sinh viên nội trú;
+
 - Lưu: VT, KHTC, CTSV.
 
-**TRƯỞNG PHÒNG**
-
-signature: Nguyễn Thanh Tường
+signature: Vlanl
 
 **Nguyễn Thanh Tường**

@@ -1,23 +1,22 @@
 ---
 document_key: ctu-pdt-qd25-quy-dinh-dao-tao-truc-tuyen-cua-truong-dhct
-version_key: ctu-pdt-qd25-quy-dinh-dao-tao-truc-tuyen-cua-truong-dhct-5056c375f3bd
+version_key: ctu-pdt-qd25-quy-dinh-dao-tao-truc-tuyen-cua-truong-dhct-8a94c762d719
 title: "QUYẾT ĐỊNH Ban hành Quy định đào tạo trực tuyến của Trường Đại học Cần Thơ"
 document_type: quyet_dinh
 domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
+issuing_authority: "Đại học Cần Thơ"
 responsible_department: 
 - PDT
 - KSDH
 - TTLKDT
 - TTTTQTM
 - TTHL
-signer_name: "HT Ha Thanh Toan"
+signer_name: "HT Hà Thanh Toàn"
 audience:
   - student
-code: ""
+code: "25 /QĐ-ĐHCT"
 issued_date: 2022-01-10
 effective_date: 2022-01-10
-version_label: ""
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -27,15 +26,13 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/PDT/QuyetDinh/QD25_Quy-dinh-dao-tao-truc-tuyen-cua-Truong-DHCT.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyetDinh/QD25_Quy-dinh-dao-tao-truc-tuyen-cua-Truong-DHCT.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 5056c375f3bd92cf735a274a47e92d31
+checksum: 8a94c762d719cb9ddbdff7fff1b1d771324f231f9123d4ca398114d470166fb0
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T00:05:40+07:00"
-updated_at: "2026-07-05T00:05:40+07:00"
+created_at: "2026-07-07T01:11:17+07:00"
+updated_at: "2026-07-07T01:11:17+07:00"
 notes: ""
 ---
 
@@ -43,7 +40,7 @@ notes: ""
 
 <!-- page: 1 -->
 
-BỘ GIÁO DỤC VÀ ĐÀO TẠO
+B GIÁO DỤC VÀ ĐÀO TẠO
 **TRƯỜNG ĐẠI HỌC CẦN THƠ**
 
 **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
@@ -56,7 +53,7 @@ Số: 25 /QĐ-ĐHCT
 
 ## Ban hành Quy định đào tạo trực tuyến của Trường Đại học Cần Thơ
 
-### HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC CẦN THƠ
+## HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC CẦN THƠ
 
 *Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018;*
 
@@ -76,23 +73,24 @@ Số: 25 /QĐ-ĐHCT
 
 *Theo đề nghị của Trưởng phòng Đào tạo, Trưởng khoa Sau đại học, Giám đốc Trung tâm Liên kết Đào tạo, Giám đốc Trung tâm Thông tin và Quản trị mạng, Giám đốc Trung tâm Học liệu.*
 
-### QUYẾT ĐỊNH:
+# QUYẾT ĐỊNH:
 
-**Điều 1.** Ban hành kèm theo Quyết định này Quy định đào tạo trực tuyến của Trường Đại học Cần Thơ.
+#### Điều 1. Ban hành kèm theo Quyết định này Quy định đào tạo trực tuyến của Trường Đại học Cần Thơ.
 
-**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký.
+#### Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
 
-**Điều 3.** Trưởng phòng Đào tạo, Trưởng khoa Sau đại học, Giám đốc Trung tâm Liên kết Đào tạo, Giám đốc Trung tâm Thông tin và Quản trị mạng, Giám đốc Trung tâm Học liệu, Trưởng các đơn vị, viên chức và sinh viên chịu trách nhiệm thi hành quyết định này./.
+#### Điều 3. Trưởng phòng Đào tạo, Trưởng khoa Sau đại học, Giám đốc Trung tâm Liên kết Đào tạo, Giám đốc Trung tâm Thông tin và Quản trị mạng, Giám đốc Trung tâm Học liệu, Trưởng các đơn vị, viên chức và sinh viên chịu trách nhiệm thi hành quyết định này./.
 
 **Nơi nhận:**
+
 - Ban Giám hiệu (để biết);
+
 - Như Điều 3 (để thực hiện);
+
 - Lưu VT.
 
 **HIỆU TRƯỞNG**
-
-Dấu đỏ Trường Đại học Cần Thơ và chữ ký của Hà Thanh Toàn
-
+Seal of Can Tho University and signature of Ha Thanh Toan
 **Hà Thanh Toàn**
 
 ---
@@ -100,12 +98,6 @@ Dấu đỏ Trường Đại học Cần Thơ và chữ ký của Hà Thanh Toà
 2
 
 <!-- page: 2 -->
-
-**BỘ GIÁO DỤC VÀ ĐÀO TẠO**
-**TRƯỜNG ĐẠI HỌC CẦN THƠ**
-
-**CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**Độc lập - Tự do - Hạnh phúc**
 
 # QUY ĐỊNH
 
@@ -119,17 +111,17 @@ ngày 10 tháng 01 năm 2022 của Hiệu trưởng Trường Đại học Cần
 
 #### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-1. Văn bản này quy định về đào tạo trực tuyến (*ĐTTT*) của Trường Đại học Cần Thơ bao gồm: những quy định chung; điều kiện để tổ chức ĐTTT; tổ chức và quản lý đào tạo; quyền và trách nhiệm của các bên liên quan; thanh tra, kiểm tra và báo cáo; xử lý vi phạm và tổ chức thực hiện.
+1. Văn bản này quy định về đào tạo trực tuyến (ĐTTT) của Trường Đại học Cần Thơ bao gồm: những quy định chung; điều kiện để tổ chức ĐTTT; tổ chức và quản lý đào tạo; quyền và trách nhiệm của các bên liên quan; thanh tra, kiểm tra và báo cáo; xử lý vi phạm và tổ chức thực hiện.
 
 2. Quy định này áp dụng đối với các đơn vị và cá nhân có liên quan đến hoạt động ĐTTT.
 
 #### Điều 2. Đào tạo trực tuyến và đào tạo kết hợp
 
-1. *Đào tạo trực tuyến (E-Learning)* là phương thức đào tạo thông qua phần mềm ứng dụng trên môi trường mạng để thực hiện việc giảng dạy và học tập, qua đó *(1)* người học có thể tự học mọi lúc, học mọi nơi thông qua các học liệu điện tử đa phương tiện (lời giảng, lời thuyết minh, âm thanh, hình ảnh, video, đồ họa,...); *(2)* người học có thể trao đổi trực tiếp với nhau và với giảng viên.
+1. Đào tạo trực tuyến (E-Learning) là phương thức đào tạo thông qua phần mềm ứng dụng trên môi trường mạng để thực hiện việc giảng dạy và học tập, qua đó (1) người học có thể tự học mọi lúc, học mọi nơi thông qua các học liệu điện tử đa phương tiện (lời giảng, lời thuyết minh, âm thanh, hình ảnh, video, đồ họa,...); (2) người học có thể trao đổi trực tiếp với nhau và với giảng viên.
 
-2. *Đào tạo kết hợp (Blended Learning)* là kết hợp phương thức dạy và học trực tuyến với phương thức dạy và học trực tiếp (*giảng viên và người học cùng có mặt*) nhằm nâng cao hiệu quả công tác đào tạo và chất lượng giáo dục.
+2. Đào tạo kết hợp (Blended Learning) là kết hợp phương thức dạy và học trực tuyến với phương thức dạy và học trực tiếp (giảng viên và người học cùng có mặt) nhằm nâng cao hiệu quả công tác đào tạo và chất lượng giáo dục.
 
-3. Tùy theo đặc thù chuyên môn của học phần, chương trình đào tạo (*CTĐT*) và hình thức đào tạo, Hiệu trưởng quyết định sử dụng phương thức ĐTTT, kết hợp hoặc trực tiếp theo đề xuất của các đơn vị quản lý học phần.
+3. Tùy theo đặc thù chuyên môn của học phần, chương trình đào tạo (CTĐT) và hình thức đào tạo, Hiệu trưởng quyết định sử dụng phương thức ĐTTT, kết hợp hoặc trực tiếp theo đề xuất của các đơn vị quản lý học phần.
 
 #### Điều 3. Mục đích của đào tạo trực tuyến
 
@@ -147,13 +139,13 @@ truyền thống do các nguyên nhân khách quan như thiên tai, dịch bện
 
 #### Điều 4. Khối lượng kiến thức được tổ chức ĐTTT
 
-1. Khối lượng kiến thức được tổ chức ĐTTT do Hiệu trưởng quyết định trên cơ sở đề xuất của các đơn vị quản lý CTĐT, nhưng không được vượt quá 30% tổng số tín chỉ của CTĐT của mỗi ngành (*trừ hình thức đào tạo từ xa*).
+1. Khối lượng kiến thức được tổ chức ĐTTT do Hiệu trưởng quyết định trên cơ sở đề xuất của các đơn vị quản lý CTĐT, nhưng không được vượt quá 30% tổng số tín chỉ của CTĐT của mỗi ngành (trừ hình thức đào tạo từ xa).
 
 2. Một tiết giảng dạy theo phương thức ĐTTT của giảng viên được tính tương đương với một tiết học trong CTĐT đã được phê duyệt.
 
 3. Việc quy đổi giờ giảng dạy ra giờ chuẩn theo phương thức ĐTTT hoặc theo phương thức đào tạo kết hợp được thực hiện theo quy định của Quy chế Chi tiêu nội bộ hiện hành của Trường.
 
-## Chương II
+# Chương II
 
 # ĐIỀU KIỆN ĐỂ TỔ CHỨC ĐÀO TẠO TRỰC TUYẾN
 
@@ -217,7 +209,7 @@ Hệ thống máy chủ và hạ tầng kết nối mạng phải có đủ băn
 
 #### Điều 8. Hệ thống quản lý học tập
 
-1. Hệ thống quản lý học tập (*LMS - Learning Management System*) là hệ thống phần mềm cho phép tổ chức, quản lý và triển khai các hoạt động ĐTTT; giúp Nhà trường theo dõi và quản lý quá trình học tập của người học; tạo ra môi trường dạy và học ảo; giúp giảng viên giao tiếp với người học trong việc giao bài tập, trợ giúp, giải đáp; giúp người học có thể theo dõi được tiến trình học tập, tham gia các nội dung học trực tuyến, kết nối với giảng viên và các người học khác để trao đổi bài.
+1. Hệ thống quản lý học tập (LMS - Learning Management System) là hệ thống phần mềm cho phép tổ chức, quản lý và triển khai các hoạt động ĐTTT; giúp Nhà trường theo dõi và quản lý quá trình học tập của người học; tạo ra môi trường dạy và học ảo; giúp giảng viên giao tiếp với người học trong việc giao bài tập, trợ giúp, giải đáp; giúp người học có thể theo dõi được tiến trình học tập, tham gia các nội dung học trực tuyến, kết nối với giảng viên và các người học khác để trao đổi bài.
 
 2. Phần mềm phục vụ ĐTTT
 
@@ -225,7 +217,7 @@ Tùy điều kiện và thời điểm cụ thể, phần mềm phục vụ ĐTT
 
 #### Điều 9. Hệ thống quản lý nội dung học tập
 
-1. Hệ thống quản lý nội dung học tập (*LCMS - Learning Content Management System*) là hệ thống phần mềm quản lý kho nội dung học tập qua mạng, cho phép tổ chức lưu trữ và cung cấp các nội dung học tập tới người học. Hệ thống quản lý nội dung học tập có sự phối hợp chặt chẽ với hệ thống quản lý học tập (*để truyền tải nội dung học tập tới người học*) và phần mềm công cụ soạn bài giảng (*để tạo ra các nội dung học tập*).
+1. Hệ thống quản lý nội dung học tập (LCMS - Learning Content Management System) là hệ thống phần mềm quản lý kho nội dung học tập qua mạng, cho phép tổ chức lưu trữ và cung cấp các nội dung học tập tới người học. Hệ thống quản lý nội dung học tập có sự phối hợp chặt chẽ với hệ thống quản lý học tập (để truyền tải nội dung học tập tới người học) và phần mềm công cụ soạn bài giảng (để tạo ra các nội dung học tập).
 
 2. Các yêu cầu đối với hệ thống quản lý học tập
 
@@ -280,7 +272,7 @@ c) Các thiết bị lưu trữ để người học có thể chủ động h�
 
 1. Các học phần tổ chức ĐTTT được xác định trong CTĐT của từng ngành/chuyên ngành trên cơ sở đề xuất của các đơn vị quản lý CTĐT và các đơn vị liên quan khác, được Hiệu trưởng xem xét và phê duyệt.
 
-2. Hình thức ĐTTT của mỗi học phần là toàn phần (100%) hoặc từng phần (*cần ghi rõ tỉ lệ % trong đề cương chi tiết học phần hoặc trong CTĐT*). Ngoại trừ hình thức đào tạo từ xa, tổng số tín chỉ ĐTTT không được vượt 30% tổng số tín chỉ của CTĐT trong điều kiện bình thường.
+2. Hình thức ĐTTT của mỗi học phần là toàn phần (100%) hoặc từng phần (cần ghi rõ tỉ lệ % trong đề cương chi tiết học phần hoặc trong CTĐT). Ngoài trừ hình thức đào tạo từ xa, tổng số tín chỉ ĐTTT không được vượt 30% tổng số tín chỉ của CTĐT trong điều kiện bình thường.
 
 ---
 
@@ -308,11 +300,11 @@ c) Các thiết bị lưu trữ để người học có thể chủ động h�
 
 Tổ chức ĐTTT bao gồm các công việc chính như sau:
 
-1. Trước khi bắt đầu giảng dạy, Khoa Sau đại học (*đối với ĐTTT trình độ sau đại học*), Phòng Đào tạo (*đối với ĐTTT trình độ đại học hình thức chính quy*), Trung tâm Liên kết Đào tạo (*đối với ĐTTT trình độ đại học hình thức đào tạo từ xa và vừa làm vừa học*), các Trung tâm bồi dưỡng (*đối với các chứng chỉ bồi dưỡng ngắn hạn*) chủ trì và phối hợp với các đơn vị liên quan kiểm tra các điều kiện để ĐTTT được quy định tại Điều 5 của Quy định này; làm việc với các bên liên quan để khắc phục sự cố (*nếu có*) trước khi học phần ĐTTT sớm nhất bắt đầu; thông báo cho người học của các lớp học phần ĐTTT biết về kế hoạch ĐTTT.
+1. Trước khi bắt đầu giảng dạy, Khoa Sau đại học (đối với ĐTTT trình độ sau đại học), Phòng Đào tạo (đối với ĐTTT trình độ đại học hình thức chính quy), Trung tâm Liên kết Đào tạo (đối với ĐTTT trình độ đại học hình thức đào tạo từ xa và vừa làm vừa học), các Trung tâm bồi dưỡng (đối với các chứng chỉ bồi dưỡng ngắn hạn) chủ trì và phối hợp với các đơn vị liên quan kiểm tra các điều kiện để ĐTTT được quy định tại Điều 5 của Quy định này; làm việc với các bên liên quan để khắc phục sự cố (nếu có) trước khi học phần ĐTTT sớm nhất bắt đầu; thông báo cho người học của các lớp học phần ĐTTT biết về kế hoạch ĐTTT.
 
-2. Trung tâm Thông tin và Quản trị mạng thông báo cho người học cách thức để tham gia lớp học trực tuyến; cung cấp các giải pháp tạo lớp học phần (*tài khoản*) cho đơn vị quản lý học phần và giảng viên; cung cấp email group từng lớp học phần cho giảng viên phụ trách lớp học phần để phục vụ công tác tổ chức lớp học phần ĐTTT.
+2. Trung tâm Thông tin và Quản trị mạng thông báo cho người học cách thức để tham gia lớp học trực tuyến; cung cấp các giải pháp tạo lớp học phần (tài khoản) cho đơn vị quản lý học phần và giảng viên; cung cấp email group từng lớp học phần cho giảng viên phụ trách lớp học phần để phục vụ công tác tổ chức lớp học phần ĐTTT.
 
-3. Giảng viên phụ trách lớp học phần ĐTTT chịu trách nhiệm tạo lớp học phần và thực hiện công tác giảng dạy, quản lý lớp theo Quy định này và theo các hướng dẫn được cung cấp kèm theo (*phần mềm hoặc bản mô tả quy trình hướng dẫn nếu có*).
+3. Giảng viên phụ trách lớp học phần ĐTTT chịu trách nhiệm tạo lớp học phần và thực hiện công tác giảng dạy, quản lý lớp theo Quy định này và theo các hướng dẫn được cung cấp kèm theo (phần mềm hoặc bản mô tả quy trình hướng dẫn nếu có).
 
 4. Sau khi hoàn thành giảng dạy và đánh giá học phần, giảng viên phải bàn giao lại tài khoản cho đơn vị quản lý học phần và đơn vị quản lý học phần bàn giao tài khoản cho Trung tâm thông tin và quản trị mạng (nếu có nhận trước khi giảng dạy).
 
@@ -324,11 +316,11 @@ Tổ chức ĐTTT bao gồm các công việc chính như sau:
 
 #### Điều 17. Phương thức ĐTTT
 
-1. Giảng viên sử dụng hình thức hội họp trực tuyến (*video conferencing*) để giảng dạy, tương tác trực tiếp với người học.
+1. Giảng viên sử dụng hình thức hội họp trực tuyến (video conferencing) để giảng dạy, tương tác trực tiếp với người học.
 
-2. Sau mỗi nội dung giảng trực tuyến, người học có thể đặt câu hỏi trực tiếp hoặc gián tiếp (*qua diễn đàn*) và giảng viên trả lời hoặc trao đổi theo chủ đề do giảng viên đặt ra.
+2. Sau mỗi nội dung giảng trực tuyến, người học có thể đặt câu hỏi trực tiếp hoặc gián tiếp (qua diễn đàn) và giảng viên trả lời hoặc trao đổi theo chủ đề do giảng viên đặt ra.
 
-3. Giảng viên tạo các video, các bài giảng (*presentation*) lưu trữ để người học có thể xem hoặc tải về phục vụ học tập và nghiên cứu tại nhà; tăng cường giao các bài tiểu luận, bài tập, chuyên đề cho người học tự nghiên cứu để đánh giá kết quả theo tiến độ.
+3. Giảng viên tạo các video, các bài giảng (presentation) lưu trữ để người học có thể xem hoặc tải về phục vụ học tập và nghiên cứu tại nhà; tăng cường giao các bài tiểu luận, bài tập, chuyên đề cho người học tự nghiên cứu để đánh giá kết quả theo tiến độ.
 
 4. Kết thúc mỗi buổi học, cần có đánh giá khả năng tiếp thu, tương tác của người học thông qua các câu hỏi, bài tập,... là điều kiện để người học được tiếp tục tham gia các buổi học tiếp theo.
 
@@ -336,7 +328,7 @@ Tổ chức ĐTTT bao gồm các công việc chính như sau:
 
 1. Đối với người học là học viên sau đại học, đánh giá kết quả học tập được thực hiện theo Quy định đào tạo trình độ thạc sĩ, tiến sĩ hiện hành của Trường.
 
-2. Đối với người học là sinh viên, việc đánh giá kết quả học tập được thực hiện theo Quy chế đào tạo (*Quy định công tác học vụ*) chính quy, vừa làm vừa học hoặc đào tạo từ xa hiện hành của Trường.
+2. Đối với người học là sinh viên, việc đánh giá kết quả học tập được thực hiện theo Quy chế đào tạo (Quy định công tác học vụ) chính quy, vừa làm vừa học hoặc đào tạo từ xa hiện hành của Trường.
 
 3. Đối với người học là học viên các Trung tâm bồi dưỡng, việc đánh giá học phần ĐTTT và đánh giá kết quả học tập được thực hiện theo quy định của Trung tâm.
 
@@ -348,7 +340,7 @@ b) Giảng viên phụ trách lớp học phần có trách nhiệm gửi cho đ
 
 c) Đối với hình thức đánh giá trực tiếp, việc lưu trữ hồ sơ thi bằng giấy được thực hiện theo hướng dẫn của Trường về việc tổ chức thi kết thúc học phần, các văn bản hướng dẫn và các Quy chế đào tạo hiện hành. Đối với hình thức đánh giá trực tuyến, hồ sơ thi của lớp học phần là các tập tin điện tử được đơn vị quản lý học phần lưu trữ (*sử dụng CD, USB, ổ đĩa cứng, ... để lưu trữ*) trong từng thư mục dành riêng cho mỗi lớp học phần (được quản lý theo học kỳ và năm học) với mật khẩu và phân quyền được truy cập vào thư mục khi có yêu cầu do trưởng đơn vị quản lý học phần quy định; riêng bảng điểm tổng hợp của lớp học phần được lưu trữ thêm bản giấy theo Quy chế đào tạo hiện hành.
 
-5. Đối với đánh giá bằng hình thức trực tuyến, kiểm diện (*điểm danh*) sinh viên/học viên dự thi bằng tập tin điện tử có hình ảnh sinh viên/học viên cùng với thẻ sinh viên/học viên (*hoặc giấy tờ khác có có dán ảnh và thông tin cá nhân do cơ quan*)
+5. Đối với đánh giá bằng hình thức trực tuyến, kiểm diện (điểm danh) sinh viên/học viên dự thi bằng tập tin điện tử có hình ảnh sinh viên/học viên cùng với thẻ sinh viên/học viên (hoặc giấy tờ khác có có dán ảnh và thông tin cá nhân do cơ quan)
 
 ---
 
@@ -359,11 +351,12 @@ c) Đối với hình thức đánh giá trực tiếp, việc lưu trữ hồ s
 có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân như chứng minh nhân dân, căn cước công dân, hộ chiếu, giấy phép lái xe, ...) để thay thế cho danh sách có chữ ký của sinh viên/học viên dự thi lớp học phần.
 
 # Chương IV
+
 # QUYỀN VÀ TRÁCH NHIỆM CỦA CÁC BÊN LIÊN QUAN
 
 #### Điều 19. Quyền hạn và trách nhiệm của đơn vị đào tạo
 
-1. Xác định các yêu cầu của từng học phần ĐTTT, các chương trình ĐTTT (*đối với đào tạo từ xa*) và các học kỳ phù hợp với nhiệm vụ của đơn vị đào tạo.
+1. Xác định các yêu cầu của từng học phần ĐTTT, các chương trình ĐTTT (đối với đào tạo từ xa) và các học kỳ phù hợp với nhiệm vụ của đơn vị đào tạo.
 
 2. Công bố công khai các yêu cầu, quy định liên quan đến ĐTTT (hạ tầng công nghệ thông tin, đường truyền mạng, thiết bị điện tử phục vụ dạy và học trực tuyến, ...), văn bản hướng dẫn giảng viên, người học sử dụng các công cụ giảng dạy và học tập trực tuyến, hình thức kiểm tra, đánh giá công nhận kết quả học tập thông qua đề cương chi tiết của học phần.
 
@@ -373,7 +366,7 @@ có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nh
 
 #### Điều 20. Quyền và trách nhiệm của giảng viên
 
-1. Giảng viên được hỗ trợ kinh phí xây dựng bài giảng điện tử (*E-Learning*) và các sản phẩm khác theo quy chế Chi tiêu nội bộ của Trường.
+1. Giảng viên được hỗ trợ kinh phí xây dựng bài giảng điện tử (E-Learning) và các sản phẩm khác theo quy chế Chi tiêu nội bộ của Trường.
 
 2. Giảng viên được bồi dưỡng nâng cao năng lực biên soạn bài giảng điện tử; kỹ năng dạy học, tổ chức thi, kiểm tra đánh giá học phần qua mạng; kỹ năng quản lý, theo dõi, định hướng, hướng dẫn và giải đáp người học qua mạng; kỹ năng sử dụng thành thạo hệ thống quản lý học tập qua mạng và các phương tiện công nghệ thông tin phục vụ cho giảng dạy; khảo thí và đo lường chất lượng giáo dục hiện đại.
 
@@ -381,7 +374,7 @@ có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nh
 
 4. Giảng viên phải thực hiện đúng các quy định về dạy học trực tuyến, thực hiện và đảm bảo hoạt động kiểm tra đánh giá người học theo các văn bản hướng dẫn hiện hành của Trường.
 
-5. Giảng viên phải tham gia xây dựng đề cương chi tiết học phần; xây dựng bài giảng điện tử; có thể tham gia quy trình sản xuất học liệu điện tử (*ghi hình, thu âm*) tại phòng thu hoặc ứng dụng các công cụ, công nghệ thông tin phục vụ giảng dạy qua mạng trong quá trình xây dựng bài giảng; thiết kế các bài tập tình huống (*case study*); thiết kế hệ thống câu hỏi trắc nghiệm, ngân hàng câu hỏi kiểm tra, đánh giá.
+5. Giảng viên phải tham gia xây dựng đề cương chi tiết học phần; xây dựng bài giảng điện tử; có thể tham gia quy trình sản xuất học liệu điện tử (ghi hình, thu âm) tại phòng thu hoặc ứng dụng các công cụ, công nghệ thông tin phục vụ giảng dạy qua mạng trong quá trình xây dựng bài giảng; thiết kế các bài tập tình huống (case study); thiết kế hệ thống câu hỏi trắc nghiệm, ngân hàng câu hỏi kiểm tra, đánh giá.
 
 ---
 
@@ -405,7 +398,7 @@ có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nh
 
 4. Thực hiện nghiêm túc, đầy đủ các quy chế, quy định của đơn vị đào tạo, các hướng dẫn đảm bảo chất lượng đào tạo hiện hành của Trường.
 
-5. Tự bảo vệ tài khoản cá nhân và chịu trách nhiệm về các thông tin đưa lên hệ thống (*nội dung, kiến thức, bản quyền, ...*).
+5. Tự bảo vệ tài khoản cá nhân và chịu trách nhiệm về các thông tin đưa lên hệ thống (nội dung, kiến thức, bản quyền, ...).
 
 6. Hỗ trợ giảng viên thực hiện các nhiệm vụ giảng dạy: hỗ trợ tư vấn cho người học, cung cấp các thông tin liên quan đến lớp học, giải đáp thắc mắc của người học liên quan đến vấn đề kỹ thuật, nhắc nhở người học các thời hạn hoàn thành nhiệm vụ và kiểm soát các thông tin người học đưa lên hệ thống ĐTTT.
 
@@ -415,7 +408,7 @@ có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nh
 
 1. Người học được cung cấp, tiếp cận các nguồn tài liệu học tập của học phần, được giải đáp thắc mắc trong quá trình tham gia học tập hoặc tại các diễn đàn trao đổi thảo luận.
 
-2. Mỗi thành viên có quyền bổ sung các thông tin khác trong hồ sơ cá nhân như: hình đại diện và chữ ký thuộc quyền sở hữu riêng của thành viên (*nếu có*). Hình ảnh đại diện phải nghiêm túc, có văn hóa. Nghiêm cấm sử dụng hình ảnh không phù hợp với thuần phong mỹ tục của dân tộc.
+2. Mỗi thành viên có quyền bổ sung các thông tin khác trong hồ sơ cá nhân như: hình đại diện và chữ ký thuộc quyền sở hữu riêng của thành viên (nếu có). Hình ảnh đại diện phải nghiêm túc, có văn hóa. Nghiêm cấm sử dụng hình ảnh không phù hợp với thuần phong mỹ tục của dân tộc.
 
 3. Người học phải tự bảo vệ tài khoản của mình, phải tự chịu trách nhiệm về các thông tin đưa lên hệ thống và phải chịu trách nhiệm về việc để người khác sử dụng tài khoản của mình sai mục đích, không đúng với quy định.
 
@@ -521,8 +514,10 @@ Trưởng đơn vị đào tạo tổ chức thanh tra, kiểm tra, giám sát v
 
 1. Lãnh đạo các đơn vị và cá nhân có liên quan chịu trách nhiệm tổ chức thực hiện Quy định này.
 
-2. Trong quá trình thực hiện Quy định này, nếu có vấn đề mới phát sinh, hoặc phải cập nhật các văn bản mới của cấp trên, lãnh đạo đơn vị và cá nhân liên quan có trách nhiệm báo cáo và đề xuất Ban Giám hiệu để xem xét, sửa đổi, bổ sung cho phù hợp thực tế./.
+2. Trong quá trình thực hiện Quy định này, nếu có vấn đề mới phát sinh, hoặc phải cập nhật các văn bản mới của cấp trên, lãnh đạo đơn vị và cá nhân liên quan có trách nhiệm báo cáo và đề xuất Ban Giám hiệu để xem xét, sửa đổi, bổ sung cho phù hợp thực tế./. <u>N</u>
 
 **HIỆU TRƯỞNG**
 
-Dấu và chữ ký của Hiệu trưởng Hà Thanh Toàn
+Seal of Can Tho University with signature of Hà Thanh Toàn
+
+**Hà Thanh Toàn**

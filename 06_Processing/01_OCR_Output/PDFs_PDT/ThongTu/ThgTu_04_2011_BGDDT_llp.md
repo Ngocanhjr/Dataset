@@ -1,38 +1,36 @@
 ---
 document_key: ctu-pdt-thgtu-04-2011-bgddt
-version_key: ctu-pdt-thgtu-04-2011-bgddt-7f89a7bad605
+version_key: ctu-pdt-thgtu-04-2011-bgddt-0e586c05aaa3
 title: "THÔNG TƯ Ban hành Quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng giáo trình giáo dục đại học"
 document_type: thong_tu
 domain: dao_tao
-issuing_authority: ""
-responsible_department: 
-- BGDDT
-signer_name: "TT Bui Van Ga"
+issuing_authority: "BGDDT"
+responsible_department:
+- VP
+- VGDDH
+signer_name: "TT Bùi Văn Ga"
 audience:
   - student
-code: ""
-issued_date: 2011-1-18
-effective_date: 2011-3-15
-version_label: ""
+code: "04 /2011/TT-BGDĐT"
+issued_date: 2011-01-28
+effective_date: 2011-03-15
 is_latest: true
 ocr_status: done
-review_status: not_reviewed
+review_status: approved
 rag_status: not_indexed
 status_note: ""
 source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/PDT/ThongTu/ThgTu_04_2011_BGDDT.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/ThongTu/ThgTu_04_2011_BGDDT.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 7f89a7bad60570dd6c72a0310b1b771c
+checksum: 0e586c05aaa30f2a861bc8c4226ca5556dd6d2dd0d3d91c5a4a0029d4335d5d2
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T00:32:23+07:00"
-updated_at: "2026-07-05T00:32:23+07:00"
-notes: ""
+created_at: "2026-07-07T09:47:05+07:00"
+updated_at: "2026-07-07T09:47:05+07:00"
+notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ---
 
 1
@@ -44,45 +42,42 @@ notes: ""
 **Độc lập - Tự do - Hạnh phúc**
 
 Số: 04 /2011/TT-BGDĐT
-*Hà Nội, ngày 28 tháng 1 năm 2011*
+Hà Nội, ngày 28 tháng 1 năm 2011
 
 # THÔNG TƯ
 
 ## Ban hành Quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng giáo trình giáo dục đại học
 
-***
-
 Căn cứ Nghị định số 178/2007/NĐ-CP ngày 03 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ;
-
 Căn cứ Nghị định số 32/2008/NĐ- CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;
-
 Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;
-
 Theo đề nghị của Vụ trưởng Vụ Giáo dục Đại học;
-
 Bộ trưởng Bộ Giáo dục và Đào tạo quyết định:
+#### Điều 1. Ban hành kèm theo Thông tư này Quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng giáo trình giáo dục đại học
+#### Điều 2. Thông tư này có hiệu lực kể từ ngày 15 tháng 3 năm 2011.
+#### Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Giám đốc các đại học, học viện, Hiệu trưởng các trường đại học, cao đẳng chịu trách nhiệm thi hành Thông tư này.
 
-**Điều 1.** Ban hành kèm theo Thông tư này Quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng giáo trình giáo dục đại học
+***Nơi nhận:***
+- Văn phòng Chính phủ;
+- Văn phòng Chủ tịch nước;
+- UBVHGDTTN, NĐ của Quốc hội;
+- Ban Tuyên giáo TW;
+- Kiểm toán Nhà nước;
+- Bộ trưởng Phạm Vũ Luận;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- Như điều 3;
+- Bộ Tư pháp (Cục K.tr.VBQPPL);
+- Công báo;
+- Website Chính phủ;
+- Website Bộ GD&ĐT;
+- Lưu VT, Vụ PC, Vụ GDĐH.
 
-**Điều 2.** Thông tư này có hiệu lực kể từ ngày 15 tháng 3 năm 2011.
+**KT. BỘ TRƯỞNG**
+**THỨ TRƯỞNG**
 
-**Điều 3.** Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Giám đốc các đại học, học viện, Hiệu trưởng các trường đại học, cao đẳng chịu trách nhiệm thi hành Thông tư này.
+Đã ký
 
-| *Nơi nhận:* | **KT. BỘ TRƯỞNG** |
-| --- | --- |
-| - Văn phòng Chính phủ; | **THỨ TRƯỞNG** |
-| - Văn phòng Chủ tịch nước; |  |
-| - UBVHGDTTN, NĐ của Quốc hội; |  |
-| - Ban Tuyên giáo TW; |  |
-| - Kiểm toán Nhà nước; |  |
-| - Bộ trưởng Phạm Vũ Luận; | Đã ký |
-| - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; |  |
-| - Như điều 3; |  |
-| - Bộ Tư pháp (Cục K.tr.VBQPPL); |  |
-| - Công báo; |  |
-| - Website Chính phủ; |  |
-| - Website Bộ GD&ĐT; |  |
-| - Lưu VT, Vụ PC, Vụ GDĐH. | **Bùi Văn Ga** |
+**Bùi Văn Ga**
 
 ---
 
@@ -90,8 +85,9 @@ Bộ trưởng Bộ Giáo dục và Đào tạo quyết định:
 
 <!-- page: 2 -->
 
-BỘ GIÁO DỤC VÀ ĐÀO TẠO   **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-                 **Độc lập - Tự do - Hạnh phúc**
+**BỘ GIÁO DỤC VÀ ĐÀO TẠO**
+**CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập - Tự do - Hạnh phúc**
 
 # QUY ĐỊNH
 
@@ -99,9 +95,9 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO   **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT N
 
 *(Ban hành kèm theo Thông tư số 04 /2011/TT-BGDĐT ngày 28 tháng 1 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo)*
 
-***
+_______________________________
 
-### Chương I - QUY ĐỊNH CHUNG
+## Chương I - QUY ĐỊNH CHUNG
 
 #### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
@@ -208,7 +204,7 @@ b) Các thành viên tham gia Ban biên soạn giáo trình phải có chuyên m
 
 a) Tác giả chịu trách nhiệm về nội dung khoa học của giáo trình, chịu sự chỉ đạo về mặt chuyên môn của chủ biên hoặc đồng chủ biên và Hội đồng Khoa học-Đào tạo Khoa trong quá trình biên soạn giáo trình và về bản quyền tác giả theo quy định hiện hành của Nhà nước;
 
-b) Tác giả có nghĩa vụ tuân thủ các phân công công việc của chủ biên, đảm bảo trung thực và làm việc khoa học đối với phần được phân công viết, đảm bảo thực hiện đúng tiến độ thời gian, sử dụng ngôn ngữ, văn phong,... thống nhất chung của toàn bộ giáo trình, thực hiện biểu quyết theo đa số.
+b) Tác giả có nghĩa vụ tuân thủ các phân công công việc của chủ biên, đảm bảo trung thực và làm việc khoa học đối với phần được phân công viết, đảm bảo thực hiện đúng tiến độ thời gian, sử dụng ngôn ngữ, văn phong,… thống nhất chung của toàn bộ giáo trình, thực hiện biểu quyết theo đa số.
 
 2. Quyền lợi:
 
@@ -236,7 +232,7 @@ c) Tác giả được quyền góp ý về cấu trúc, nội dung của các p
 
 <!-- page: 5 -->
 
-## Chương III - LỰA CHỌN VÀ DUYỆT GIÁO TRÌNH
+# Chương III - LỰA CHỌN VÀ DUYỆT GIÁO TRÌNH
 
 #### Điều 12. Tổ chức lựa chọn, duyệt giáo trình
 
@@ -254,7 +250,7 @@ Các cơ sở giáo dục đại học không đủ điều kiện tổ chức b
 
 5. Hiệu trưởng quy định số lượng thành viên hội đồng và tổ chức hoạt động của Hội đồng lựa chọn giáo trình bằng văn bản.
 
-## Chương IV - KIỂM TRA, KHEN THƯỞNG, XỬ LÝ VI PHẠM
+# Chương IV - KIỂM TRA, KHEN THƯỞNG, XỬ LÝ VI PHẠM
 
 #### Điều 14. Kiểm tra
 

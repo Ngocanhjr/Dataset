@@ -1,18 +1,18 @@
 ---
 document_key: ctu-pdt-qt-hoc-2-ctdt
-version_key: ctu-pdt-qt-hoc-2-ctdt-0b95f23e0e83
+version_key: ctu-pdt-qt-hoc-2-ctdt-68dc0b1528f3
 title: "QUY TRÌNH HỌC CÙNG LÚC 2 CHƯƠNG TRÌNH ĐÀO TẠO"
 document_type: quy_trinh
 domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: PDT
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
+- PDT
 signer_name: ""
 audience:
   - student
 code: ""
-issued_date: 
+issued_date:
 effective_date:
-version_label: ""
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -22,16 +22,14 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/PDT/QuyTrinh/qt_hoc_2_CTDT.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyTrinh/qt_hoc_2_CTDT.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 0b95f23e0e8359ac3ae5c108e53b5019
+checksum: 68dc0b1528f3ee012ac3bff9ea79c344f499698cbb77b1082214834ccbb56026
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-04T11:23:58+07:00"
-updated_at: "2026-07-04T11:23:58+07:00"
-notes: ""
+created_at: "2026-07-07T09:35:41+07:00"
+updated_at: "2026-07-07T09:35:41+07:00"
+notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ---
 
 1

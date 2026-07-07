@@ -1,24 +1,23 @@
 ---
 document_key: ctu-pdt-2015-777-qd-dhct
-version_key: ctu-pdt-2015-777-qd-dhct-e4e05ac91fb1
+version_key: ctu-pdt-2015-777-qd-dhct-0ca00b9175df
 title: "QUYẾT ĐỊNH Về việc ban hành Quy định tiếp nhận và đào tạo sinh viên nước ngoài đến học tập, nghiên cứu tại Trường Đại học Cần Thơ"
 document_type: quyet_dinh
 domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: 
-- "PCTSV"
-- "PKHTH"
-- "KSDH"
-- "PDT"
-- "PHTQT"
-- "PTV"
-signer_name: "HT Ha Thanh Toan"
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
+- PHTQT
+- PDT
+- PKHTH
+- KSDH
+- PCTSV
+- PTV
+signer_name: "HT Hà Thanh Toàn"
 audience:
   - student
-code: ""
-issued_date: 2015-3-26
-effective_date: 2015-3-26
-version_label: ""
+code: "777/QĐ-ĐHCT"
+issued_date: 2015-03-26
+effective_date: 2015-03-26
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -28,30 +27,26 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/PDT/QuyetDinh/2015_777_QD_DHCT.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyetDinh/2015_777_QD_DHCT.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: e4e05ac91fb1a524c166049a62e0399e
+checksum: 0ca00b9175dfcfc3ab514a6de8b1bc26bf99d9afeb9dd60cb11147d91e1114a1
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-04T16:10:46+07:00"
-updated_at: "2026-07-04T16:10:46+07:00"
-notes: ""
+created_at: "2026-07-07T00:53:09+07:00"
+updated_at: "2026-07-07T00:53:09+07:00"
+notes: "Không có ngày áp dụng cụ thể"
 ---
 
 1
 
 <!-- page: 1 -->
 
-BỘ GIÁO DỤC VÀ ĐÀO TẠO
-**TRƯỜNG ĐẠI HỌC CẦN THƠ**
-
-**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+BỘ GIÁO DỤC VÀ ĐÀO TẠO  
+**TRƯỜNG ĐẠI HỌC CẦN THƠ**  
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
 **Độc lập - Tự do - Hạnh phúc**
 
-Số: 777/QĐ-ĐHCT
-
+Số: 777/QĐ-ĐHCT  
 *Cần Thơ, ngày 26 tháng 3 năm 2015*
 
 # QUYẾT ĐỊNH
@@ -74,22 +69,20 @@ Số: 777/QĐ-ĐHCT
 
 # QUYẾT ĐỊNH:
 
-**Điều 1.** Ban hành Quy định tiếp nhận và đào tạo sinh viên nước ngoài đến học tập, nghiên cứu tại Trường Đại học Cần Thơ.
+#### Điều 1. Ban hành Quy định tiếp nhận và đào tạo sinh viên nước ngoài đến học tập, nghiên cứu tại Trường Đại học Cần Thơ.
 
-**Điều 2.** Quy định này áp dụng với sinh viên là người nước ngoài đến học tập ngắn hạn, thực hiện nghiên cứu khoa học, học chương trình đào tạo đại học, thạc sĩ và tiến sĩ tại Trường Đại học Cần Thơ.
+#### Điều 2. Quy định này áp dụng với sinh viên là người nước ngoài đến học tập ngắn hạn, thực hiện nghiên cứu khoa học, học chương trình đào tạo đại học, thạc sĩ và tiến sĩ tại Trường Đại học Cần Thơ.
 
-**Điều 3.** Các ông (bà) Trưởng phòng Hợp tác Quốc tế, Trưởng phòng Đào tạo, Trưởng khoa Sau đại học, Trưởng phòng Công tác Sinh viên, Trưởng phòng Kế hoạch Tổng hợp, Trưởng phòng Tài vụ, thủ trưởng các đơn vị đào tạo và các đơn vị có liên quan chịu trách nhiệm thi hành quyết định này kể từ ngày ký.
+#### Điều 3. Các ông (bà) Trưởng phòng Hợp tác Quốc tế, Trưởng phòng Đào tạo, Trưởng khoa Sau đại học, Trưởng phòng Công tác Sinh viên, Trưởng phòng Kế hoạch Tổng hợp, Trưởng phòng Tài vụ, thủ trưởng các đơn vị đào tạo và các đơn vị có liên quan chịu trách nhiệm thi hành quyết định này kể từ ngày ký.
 
 **HIỆU TRƯỞNG**
-Dấu mộc Trường Đại học Cần Thơ và chữ ký của Hà Thanh Toàn
-**Hà Thanh Toàn**
+Seal and signature of Ha Thanh Toan
 
-***Nơi nhận:***
+**Nơi nhận:**
 
 - Như Điều 3;
 
-- Lưu: VT, P.KHTH, K.SDH,
-P.ĐT, P.HTQT, P.CTSV.
+- Lưu: VT, P.KHTH, K.SDH, P.ĐT, P.HTQT, P.CTSV.
 
 ---
 
@@ -117,7 +110,7 @@ a. Sinh viên được phía cơ quan/tổ chức/cá nhân Việt Nam cấp h�
 
 b. Sinh viên được tiếp nhận theo các chương trình trao đổi sinh viên giữa Trường ĐHCT và trường/viện gửi sinh viên, gọi chung sinh viên trao đổi.
 
-c. Sinh viên được tiếp nhận theo hợp đồng giữa Trường ĐHCT với các tổ chức, cá nhân nước ngoài, người Việt Nam định cư ở nước ngoài, hay trong khuôn khổ các dự án hợp tác quốc tế, gọi chung là sinh viên tự túc.
+## c. Sinh viên được tiếp nhận theo hợp đồng giữa Trường ĐHCT với các tổ chức, cá nhân nước ngoài, người Việt Nam định cư ở nước ngoài, hay trong khuôn khổ các dự án hợp tác quốc tế, gọi chung là sinh viên tự túc.
 
 #### Điều 3. Ngôn ngữ dùng trong học tập
 
@@ -155,9 +148,9 @@ Ngoài ra, sinh viên phải đủ các điều kiện và tiêu chuẩn đã th
 
 1. Sinh viên thuộc diện học lấy bằng phải có đầy đủ hồ sơ bằng tiếng Việt hoặc tiếng Anh, gồm các giấy tờ sau:
 
-* a. Đơn đăng ký học (theo mẫu);
+a. Đơn đăng ký học (theo mẫu);
 
-* b. Lý lịch khoa học (theo mẫu);
+b. Lý lịch khoa học (theo mẫu);
 
 ---
 
@@ -165,9 +158,9 @@ Ngoài ra, sinh viên phải đủ các điều kiện và tiêu chuẩn đã th
 
 <!-- page: 4 -->
 
-c. Bản sao các văn bằng theo quy định tương ứng đối với từng trình độ đào tạo (có công chứng hoặc xác nhận của cơ quan có thẩm quyền của nước gửi đào tạo);
+## c. Bản sao các văn bằng theo quy định tương ứng đối với từng trình độ đào tạo (có công chứng hoặc xác nhận của cơ quan có thẩm quyền của nước gửi đào tạo);
 
-d. Bản kết quả học tập;
+## d. Bản kết quả học tập;
 
 đ. Giấy chứng nhận sức khoẻ (do cơ quan y tế có thẩm quyền của nước gửi đào tạo cấp trước khi đến với Việt Nam không quá 6 tháng);
 
@@ -177,23 +170,23 @@ g. Bốn (04) ảnh cỡ 4x6 (chụp không quá 6 tháng tính đến ngày n�
 
 h. Bản minh chứng tài chính của toàn khóa học hay bản sao giấy tờ minh chứng về học bổng được cấp (đối với sinh viên học bổng) hoặc giấy tờ chứng minh khả năng tài chính của cá nhân tự đảm bảo cho học tập, nghiên cứu, sinh hoạt tại Việt Nam (đối với sinh viên tự túc);
 
-i. Chứng chỉ hoặc minh chứng về khả năng tiếng Việt (nếu học bằng Việt) hoặc ngoại ngữ đăng ký học;
+## i. Chứng chỉ hoặc minh chứng về khả năng tiếng Việt (nếu học bằng Việt) hoặc ngoại ngữ đăng ký học;
 
 k. Giấy giới thiệu của đơn vị, tổ chức hoặc cá nhân gửi sinh viên (nếu có);
 
-l. Bản sao hộ chiếu còn hạn sử dụng ít nhất 06 tháng kể từ ngày dự kiến đến Việt Nam nhập học;
+## l. Bản sao hộ chiếu còn hạn sử dụng ít nhất 06 tháng kể từ ngày dự kiến đến Việt Nam nhập học;
 
-m. Các giấy tờ liên quan khác theo yêu cầu của từng chương trình đào tạo (nếu có yêu cầu).
+## m. Các giấy tờ liên quan khác theo yêu cầu của từng chương trình đào tạo (nếu có yêu cầu).
 
-2. Sinh viên diện bồi dưỡng chuyên môn phải có hồ sơ gồm:
+### 2. Sinh viên diện bồi dưỡng chuyên môn phải có hồ sơ gồm:
 
 a. Phiếu đăng ký học (theo mẫu);
 
 b. Đề cương hoặc bản mô tả nội dung sẽ học tập và nghiên cứu tại Trường ĐHCT;
 
-c. Bản minh chứng tài chính của toàn khóa học do tổ chức hoặc cá nhân gửi sinh viên xác nhận;
+## c. Bản minh chứng tài chính của toàn khóa học do tổ chức hoặc cá nhân gửi sinh viên xác nhận;
 
-d. Các minh chứng khác theo chương trình đào tạo cụ thể (nếu có yêu cầu).
+## d. Các minh chứng khác theo chương trình đào tạo cụ thể (nếu có yêu cầu).
 
 #### Điều 7. Thủ tục tiếp nhận
 
@@ -255,9 +248,9 @@ a. Học dự bị (bổ sung kiến thức cho sinh viên chưa đủ điều k
 
 b. Xét tuyển học chương trình chính thức: sinh viên có đủ trình độ tiếng Việt hoặc ngoại ngữ theo yêu cầu của chương trình đào tạo, được xét tuyển học chương trình chính thức đại học, cao học, nghiên cứu sinh theo qui định tại Điều 3 và có đủ điều kiện về văn bằng, sức khoẻ và tuổi theo quy định tại Điều 4 và Điều 5 của quy định này sẽ được xét vào học thẳng chính khóa.
 
-c. Học bổ túc tiếng Việt, ngoại ngữ: sinh viên chưa đạt yêu cầu về trình độ tiếng Việt/ngoại ngữ theo quy định của chương trình đào tạo, tùy từng trường hợp cụ thể sẽ được Trường ĐHCT xét cho học bổ sung tiếng Việt/ngoại ngữ trước hoặc trong thời gian học chính khóa.
+## c. Học bổ túc tiếng Việt, ngoại ngữ: sinh viên chưa đạt yêu cầu về trình độ tiếng Việt/ngoại ngữ theo quy định của chương trình đào tạo, tùy từng trường hợp cụ thể sẽ được Trường ĐHCT xét cho học bổ sung tiếng Việt/ngoại ngữ trước hoặc trong thời gian học chính khóa.
 
-2. Sinh viên bồi dưỡng chuyên môn: sinh viên sẽ được xét tiếp nhận qua hồ sơ đăng ký trong đó có ghi trình độ ngoại ngữ. Sinh viên không bắt buộc phải biết tiếng Việt, có thể dùng các ngoại ngữ khác (tiếng Anh, tiếng Pháp,...) theo từng khóa học hoặc học phần/tín chỉ của chuyên ngành đào tạo. Trong thời gian học tập tại Trường ĐHCT, sinh viên có thể tham gia học thêm tiếng Việt nếu có nhu cầu và tuân theo quy định của Trường.
+### 2. Sinh viên bồi dưỡng chuyên môn: sinh viên sẽ được xét tiếp nhận qua hồ sơ đăng ký trong đó có ghi trình độ ngoại ngữ. Sinh viên không bắt buộc phải biết tiếng Việt, có thể dùng các ngoại ngữ khác (tiếng Anh, tiếng Pháp,...) theo từng khóa học hoặc học phần/tín chỉ của chuyên ngành đào tạo. Trong thời gian học tập tại Trường ĐHCT, sinh viên có thể tham gia học thêm tiếng Việt nếu có nhu cầu và tuân theo quy định của Trường.
 
 #### Điều 12. Thời gian đào tạo
 
@@ -283,7 +276,7 @@ b. Sinh viên học bổng Hiệp định không được tự ý kéo dài th�
 
 Đối với sinh viên học tự túc, việc kéo dài thời gian học tập được thực hiện theo thỏa thuận giữa sinh viên với Trường ĐHCT.
 
-**4. Tạm dừng học**
+4. Tạm dừng học
 
 a. Sinh viên học bổng Hiệp định được tạm dừng học tập tối đa 01 năm học (không nhận học bổng) nếu có lý do chính đáng được phía gửi đào tạo, Trường ĐHCT đồng ý và được Bộ GDĐT cho phép.
 
@@ -316,23 +309,23 @@ Sinh viên theo học chương trình đại học, thạc sĩ, tiến sĩ khôn
 
 #### Điều 16. Trách nhiệm của Trường ĐHCT về tiếp nhận và đào tạo sinh viên
 
-**1. Chương trình đào tạo dự bị: bổ sung kiến thức cho sinh viên chưa đủ điều kiện trước khi vào học chương trình đào tạo chính thức:** Trường chịu trách nhiệm về những vấn đề sau:
+1. Chương trình đào tạo dự bị: bổ sung kiến thức cho sinh viên chưa đủ điều kiện trước khi vào học chương trình đào tạo chính thức: Trường chịu trách nhiệm về những vấn đề sau:
 
 a. Chương trình, kế hoạch, giáo trình giảng dạy, học tập dự bị theo các nhóm ngành đào tạo, bậc học và đối tượng sinh viên;
 
 b. Tổ chức kiểm tra trình độ và cấp chứng chỉ/chứng nhận tiếng Việt/ngoại ngữ khi kết thúc chương trình đào tạo dự bị;
 
-c. Báo cáo Bộ GDĐT về tình hình và kết quả học tập của sinh viên sau khi hoàn thành chương trình đào tạo dự bị.
+## c. Báo cáo Bộ GDĐT về tình hình và kết quả học tập của sinh viên sau khi hoàn thành chương trình đào tạo dự bị.
 
-2. Sinh viên vào học chương trình đào tạo chính thức:
+### 2. Sinh viên vào học chương trình đào tạo chính thức:
 
 a. Trường chịu trách nhiệm về *(i)* chương trình, kế hoạch và chất lượng chuyên môn trong đào tạo sinh viên cũng như như bố trí nơi ở, lớp học, giảng viên hướng dẫn; *(ii)* theo dõi, quản lý việc học tập, nghiên cứu; *(iii)* cấp phát văn bằng tốt nghiệp hoặc chứng chỉ theo thẩm quyền; *(iv)* báo cáo tình hình học tập và kết quả học tập của sinh viên sau mỗi năm học và toàn khoá học cho Bộ GDĐT theo qui định;
 
 b. Trường tổ chức kiểm tra trình độ tiếng Việt/ngoại ngữ (nếu cần) trước khi tiếp nhận sinh viên vào học chính khoá;
 
-c. Trường phối hợp với cơ quan có trách nhiệm để giải quyết các vấn đề liên quan đến sinh viên trong toàn khoá học.
+## c. Trường phối hợp với cơ quan có trách nhiệm để giải quyết các vấn đề liên quan đến sinh viên trong toàn khoá học.
 
-**3. Sinh viên tự túc:**
+### 3. Sinh viên tự túc:
 
 Ngoài các nội dung được qui định ở Khoản 2 Điều này, các nội dung sau được thực hiện khi tiếp nhận sinh viên tự túc đến học tập, nghiên cứu tại Trường:
 
@@ -340,9 +333,9 @@ a. Trường tổ chức tiếp nhận sinh viên tự túc với những ngành
 
 b. Trường soạn thảo hợp đồng đào tạo và phê duyệt trước khi ký kết với các tổ chức gửi sinh viên hoặc cá nhân sinh viên;
 
-c. Trường làm thủ tục cần thiết với các cơ quan có trách nhiệm liên quan đến việc tiếp nhận sinh viên học tự túc;
+## c. Trường làm thủ tục cần thiết với các cơ quan có trách nhiệm liên quan đến việc tiếp nhận sinh viên học tự túc;
 
-d. Trường chịu trách nhiệm đào tạo theo các điều khoản đã ký kết trong hợp đồng đào tạo;
+## d. Trường chịu trách nhiệm đào tạo theo các điều khoản đã ký kết trong hợp đồng đào tạo;
 
 đ. Thực hiện việc quản lý thu, chi học phí của sinh viên theo chế độ tài chính hiện hành;
 
@@ -360,15 +353,15 @@ g. Lập hồ sơ, danh sách lưu học sinh tự túc theo các Hợp đồng 
 
 Các Phòng/Ban, Trung tâm, Khoa/Viện phối hợp tiếp nhận, quản lý, tổ chức các hoạt động và chịu trách nhiệm về đời sống vật chất, sinh hoạt, học tập của sinh viên thuộc phạm vi đơn vị quản lý, cụ thể:
 
-### 1. Phòng Hợp tác Quốc tế
+1. Phòng Hợp tác Quốc tế
 
 a. Làm đầu mối tiếp nhận hồ sơ, chuyển hồ sơ và thông báo đến các đơn vị có liên quan, tiếp nhận và tiễn sinh viên; bàn giao hồ sơ cho sinh viên sau khi hoàn thành khóa học đối với sinh viên diện Hiệp định.
 
 b. Tổng hợp hồ sơ để theo dõi quá trình học tập và lưu trú của sinh viên diện Hiệp định báo cáo Bộ GDĐT.
 
-c. Tư vấn với các đơn vị có liên quan soạn thảo các hợp đồng.
+## c. Tư vấn với các đơn vị có liên quan soạn thảo các hợp đồng.
 
-d. Tiếp nhận và hỗ trợ thực hiện các thủ tục khai báo tạm trú, gia hạn thị thực theo quy định của pháp luật.
+## d. Tiếp nhận và hỗ trợ thực hiện các thủ tục khai báo tạm trú, gia hạn thị thực theo quy định của pháp luật.
 
 đ. Chủ trì tổ chức các buổi họp mặt toàn thể sinh viên để phổ biến các quy định, quy chế, nội quy của Bộ, Trường; tổ chức giao lưu văn hoá, tham quan du lịch, các ngày tết, ngày lễ, lễ tiếp nhận sinh viên mới và bàn giao sinh viên tốt nghiệp.
 
@@ -380,9 +373,9 @@ a. Phối hợp với Phòng HTQT tiếp nhận hồ sơ đầu vào sinh viên,
 
 b. Quản lý và cung cấp thông tin về quá trình học tập từng học kỳ và cả năm học của sinh viên bậc đại học cho Phòng HTQT để tổng hợp báo cáo với các Bộ GDĐT theo yêu cầu. Hoàn thành hồ sơ tốt nghiệp khóa học và bàn giao cho Phòng HTQT ngay sau khi sinh viên kết thúc khoá học.
 
-c. Cùng với Phòng CTSV, Phòng HTQT, đơn vị quản lý ngành/chuyên ngành đào tạo và cố vấn học tập tư vấn và hỗ trợ sinh viên bậc đại học các quy định về công tác học vụ trong quá trình học tập.
+## c. Cùng với Phòng CTSV, Phòng HTQT, đơn vị quản lý ngành/chuyên ngành đào tạo và cố vấn học tập tư vấn và hỗ trợ sinh viên bậc đại học các quy định về công tác học vụ trong quá trình học tập.
 
-d. Tổ chức xét tốt nghiệp cho sinh viên đại học.
+## d. Tổ chức xét tốt nghiệp cho sinh viên đại học.
 
 ### 3. Khoa Sau đại học
 
@@ -390,7 +383,7 @@ a. Tham gia tiếp nhận hồ sơ đầu vào sinh viên, hoàn tất thủ t�
 
 b. Quản lý và cung cấp thông tin về quá trình học tập từng học kỳ và cả năm học của sinh viên bậc sau đại học cho Phòng HTQT để tổng hợp báo cáo với các Bộ GDĐT theo yêu cầu. Hoàn thành hồ sơ khóa học và bàn giao cho Phòng HTQT ngay sau khi sinh viên kết thúc khoá học.
 
-c. Tư vấn và hỗ trợ sinh viên bậc sau đại học về quy chế trong quá trình học tập.
+## c. Tư vấn và hỗ trợ sinh viên bậc sau đại học về quy chế trong quá trình học tập.
 
 ### 4. Các Khoa/Viện đào tạo
 
@@ -404,9 +397,9 @@ a. Bố trí giảng viên giảng dạy, hướng dẫn thực tập, tổ ch�
 
 b. Các đơn vị đào tạo thông báo với Phòng HTQT, Phòng ĐT và Khoa SĐH về tình hình học tập của sinh viên theo định kỳ hoặc yêu cầu đột xuất.
 
-c. Phối hợp với Phòng HTQT, Phòng ĐT, Khoa SĐH và Phòng TV soạn thảo hợp đồng đào tạo cho các sinh viên.
+## c. Phối hợp với Phòng HTQT, Phòng ĐT, Khoa SĐH và Phòng TV soạn thảo hợp đồng đào tạo cho các sinh viên.
 
-d. Tiếp nhận và hỗ trợ giải quyết các đề nghị chuyển ngành học, đề tài nghiên cứu, đề cương thực tập, chuyển trường, nghỉ hè, nghỉ phép, nghỉ việc riêng theo quy định.
+## d. Tiếp nhận và hỗ trợ giải quyết các đề nghị chuyển ngành học, đề tài nghiên cứu, đề cương thực tập, chuyển trường, nghỉ hè, nghỉ phép, nghỉ việc riêng theo quy định.
 
 đ. Cùng với Phòng HTQT, Phòng ĐT, Khoa SĐH, Phòng CTSV tư vấn và hỗ trợ sinh viên các quy định về công tác học vụ trong quá trình học tập.
 
@@ -418,9 +411,9 @@ a. Phối hợp với Phòng HTQT tham gia tổ chức các hoạt động giao 
 
 b. Phối hợp với Phòng HTQT tham gia tổ chức cho sinh viên tham dự các ngày lễ, tết, lễ tiếp nhận sinh viên mới và bàn giao sinh viên tốt nghiệp.
 
-c. Cùng với Phòng ĐT, Phòng HTQT, đơn vị quản lý ngành/chuyên ngành đào tạo và cố vấn học tập tư vấn và hỗ trợ sinh viên bậc đại học về quy chế trong quá trình học tập.
+## c. Cùng với Phòng ĐT, Phòng HTQT, đơn vị quản lý ngành/chuyên ngành đào tạo và cố vấn học tập tư vấn và hỗ trợ sinh viên bậc đại học về quy chế trong quá trình học tập.
 
-d. Phối hợp với Phòng ĐT tổ chức quản lý hồ sơ sinh viên học các học phần và chương trình đào tạo bậc đại học.
+## d. Phối hợp với Phòng ĐT tổ chức quản lý hồ sơ sinh viên học các học phần và chương trình đào tạo bậc đại học.
 
 đ. Làm đầu mối hỗ trợ công tác chăm sóc sức khỏe sinh viên trong thời gian học tập và nghiên cứu tại Trường như tổ chức khám sức khỏe, bảo hiểm y tế, bảo hiểm tai nạn.
 
@@ -518,7 +511,7 @@ b. Hiệu trưởng quy định khung chi tiêu cho các đơn vị, cá nhân t
 3. Quy định này có hiệu lực kể từ ngày ký.
 
 **HIỆU TRƯỞNG**
-Seal and signature of Hà Thanh Toàn, Rector of Can Tho University
+Seal of Can Tho University with signature of Hà Thanh Toàn
 **Hà Thanh Toàn**
 
 ---
@@ -533,19 +526,19 @@ Seal and signature of Hà Thanh Toàn, Rector of Can Tho University
 
 *(Ban hành kèm theo Quyết định số 777/QĐ-ĐHCT, ngày 26 tháng 3 năm 2015 của Hiệu trưởng Trường Đại học Cần Thơ)*
 
-**1. Sinh viên theo Hiệp định** *(sinh viên theo Hiệp định là sinh viên được phía cơ quan/tổ chức/cá nhân Việt Nam cấp học bổng trực tiếp hoặc thông qua Hiệp định ký kết giữa hai Chính phủ)*
+### 1. Sinh viên theo Hiệp định (sinh viên theo Hiệp định là sinh viên được phía cơ quan/tổ chức/cá nhân Việt Nam cấp học bổng trực tiếp hoặc thông qua Hiệp định ký kết giữa hai Chính phủ)
 
 **Phí đăng ký và học phí:**
 
-- Phí đăng ký: 1.000.000 đồng (=50 USD)/sinh viên.
+- Phí đăng ký: 1.000.000 đồng (≈50 USD)/sinh viên.
 
 - Học phí học tập thực hiện theo hiệp định do hai Chính phủ ký. Nếu chưa được quy định trong hiệp định do hai chính phủ ký thì học phí được tính theo Khoản 3 của Phụ lục này.
 
 **Sinh hoạt phí:**
 
-- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (=300 USD) /tháng (bao gồm phí nhà ở, ăn uống,...).
+- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (≈300 USD) /tháng (bao gồm phí nhà ở, ăn uống,...).
 
-**2. Sinh viên trao đổi** *(sinh viên trao đổi là sinh viên tiếp nhận theo các chương trình trao đổi sinh viên giữa Trường ĐHCT và Trường/Viện gửi sinh viên)*
+### 2. Sinh viên trao đổi (sinh viên trao đổi là sinh viên tiếp nhận theo các chương trình trao đổi sinh viên giữa Trường ĐHCT và Trường/Viện gửi sinh viên)
 
 **Phí đăng ký và học phí:**
 
@@ -553,19 +546,19 @@ Seal and signature of Hà Thanh Toàn, Rector of Can Tho University
 
 **Sinh hoạt phí:**
 
-- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (=300 USD)/tháng (bao gồm phí nhà ở, ăn uống,...).
+- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (≈300 USD)/tháng (bao gồm phí nhà ở, ăn uống,...).
 
-**3. Sinh viên tự túc** *(sinh viên tự túc là sinh viên được tiếp nhận theo hợp đồng giữa Trường ĐHCT với các tổ chức, cá nhân nước ngoài, người Việt Nam định cư ở nước ngoài, hay trong khuôn khổ các dự án hợp tác quốc tế)*
+### 3. Sinh viên tự túc (sinh viên tự túc là sinh viên được tiếp nhận theo hợp đồng giữa Trường ĐHCT với các tổ chức, cá nhân nước ngoài, người Việt Nam định cư ở nước ngoài, hay trong khuôn khổ các dự án hợp tác quốc tế)
 
 a. Sinh viên đến thực tập tốt nghiệp (làm luận văn/luận án tốt nghiệp) hay thực hiện một số nghiên cứu
 
 **Phí đăng ký và học phí:**
 
-- Phí đăng ký: 1.000.000 đồng (=50 USD)/sinh viên.
+- Phí đăng ký: 1.000.000 đồng (≈50 USD)/sinh viên.
 
-- Học phí: 3.000.000 đồng (=150 USD)/tháng tính theo số tháng thực tập.
+- Học phí: 3.000.000 đồng (≈150 USD)/tháng tính theo số tháng thực tập.
 
-- Nếu sinh viên thực tập dưới 01 tháng thì học phí được tính theo tuần: 700.000 đồng (=35 USD)/tuần.
+- Nếu sinh viên thực tập dưới 01 tháng thì học phí được tính theo tuần: 700.000 đồng (≈35 USD)/tuần.
 
 ---
 
@@ -577,41 +570,41 @@ a. Sinh viên đến thực tập tốt nghiệp (làm luận văn/luận án t�
 
 **Sinh hoạt phí:**
 
-- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (=300 USD)/tháng (bao gồm phí nhà ở, ăn uống,...).
+- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (≈300 USD)/tháng (bao gồm phí nhà ở, ăn uống,...).
 
 b. Sinh viên đến thực tập hay học tập một số học phần
 
 **Phí đăng ký và học phí:**
 
-- Phí đăng ký: 1.000.000 đồng (=50 USD)/sinh viên.
+- Phí đăng ký: 1.000.000 đồng (≈50 USD)/sinh viên.
 
-- Học phí: 3.000.000 đồng (=150 USD)/tháng tính theo số tháng thực tập.
+- Học phí: 3.000.000 đồng (≈150 USD)/tháng tính theo số tháng thực tập.
 
-- Hoặc học phí: 700.000 đồng (=35 USD)/TC.
+- Hoặc học phí: 700.000 đồng (≈35 USD)/TC.
 
-- Nếu sinh viên thực tập dưới 01 tháng thì học phí được tính theo tuần: 700.000 đồng (=35 USD)/tuần.
+- Nếu sinh viên thực tập dưới 01 tháng thì học phí được tính theo tuần: 700.000 đồng (≈35 USD)/tuần.
 
 - Phí thực hành, thực tập, thực hiện nghiên cứu được căn cứ vào thỏa thuận giữa đơn vị đào tạo (Khoa/Viện) trực tiếp tiếp nhận và hướng dẫn sinh viên thông qua thỏa thuận tài chính với sinh viên.
 
 **Sinh hoạt phí:**
 
-- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (=300 USD) /tháng (bao gồm phí nhà ở, ăn uống,...).
+- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (≈300 USD) /tháng (bao gồm phí nhà ở, ăn uống,...).
 
-c. Sinh viên đến học tập lấy bằng đại học
+## c. Sinh viên đến học tập lấy bằng đại học
 
 **Phí đăng ký và học phí:**
 
-- Phí đăng ký: 1.000.000 đồng (=50 USD)/sinh viên.
+- Phí đăng ký: 1.000.000 đồng (≈50 USD)/sinh viên.
 
-- Học phí: 24.000.000 đồng (=1.200 USD)/năm (tính cho 4 năm).
+- Học phí: 24.000.000 đồng (≈1.200 USD)/năm (tính cho 4 năm).
 
-- Nếu sinh viên đăng ký học lại hoặc học thêm học phần ngoài chương trình đào tạo: 600.000 đồng (=30 USD)/TC.
+- Nếu sinh viên đăng ký học lại hoặc học thêm học phần ngoài chương trình đào tạo: 600.000 đồng (≈30 USD)/TC.
 
-- Sinh viên gia hạn phải đóng bổ sung: 1.200.000 đồng (=60 USD)/tháng tính cho số tháng trễ hạn ngoài thời gian quy định của chương trình đào tạo theo từng chuyên ngành.
+- Sinh viên gia hạn phải đóng bổ sung: 1.200.000 đồng (≈60 USD)/tháng tính cho số tháng trễ hạn ngoài thời gian quy định của chương trình đào tạo theo từng chuyên ngành.
 
 **Sinh hoạt phí:**
 
-- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (=300 USD)/tháng (bao gồm phí nhà ở, ăn uống,...).
+- Sinh hoạt phí tùy theo tổ chức/cá nhân cấp nhưng không dưới 6.000.000 đồng (≈300 USD)/tháng (bao gồm phí nhà ở, ăn uống,...).
 
 ---
 

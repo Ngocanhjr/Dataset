@@ -1,22 +1,17 @@
 ---
 document_key: ctu-pdt-2017-770-sv-hocnuocngoai
-version_key: ctu-pdt-2017-770-sv-hocnuocngoai-0eca58dbb09e
-title: "QUYẾT ĐỊNH Ban hành Quy chế cử sinh viên đi học tập ở nước ngoài"
-document_type: quyet_dinh
-domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: 
-- "PKHTH"
-- "PCTSV"
-- "PDT"
-- "PTV"
-signer_name: "PHT Tran Thi Thanh Hien"
+version_key: ctu-pdt-2017-770-sv-hocnuocngoai-3526cbe53c86
+title: ""
+document_type: unknown
+domain: ""
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
+signer_name: "HT Hà Thanh Toàn"
 audience:
   - student
 code: ""
-issued_date: 2017-3-15
-effective_date: 2017-3-15
-version_label: ""
+issued_date:
+effective_date:
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -28,13 +23,11 @@ canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyetD
 file_type: pdf
 accessed_date:
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 0eca58dbb09e3a54585fb5f80f02de57
+checksum: 3526cbe53c86858422bbc6deea0459aa0c314f165591a6a2747183b1df3545d3
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-04T16:19:24+07:00"
-updated_at: "2026-07-04T16:19:24+07:00"
+created_at: "2026-07-07T00:53:49+07:00"
+updated_at: "2026-07-07T00:53:49+07:00"
 notes: ""
 ---
 
@@ -46,7 +39,7 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 **TRƯỜNG ĐẠI HỌC CẦN THƠ**
 
 **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**Độc lập- Tự do – Hạnh phúc**
+**Độc lập - Tự do - Hạnh phúc**
 
 Số: 710 /QĐ-ĐHCT
 *Cần Thơ, ngày 15 tháng 3 năm 2017*
@@ -63,26 +56,25 @@ Căn cứ nhu cầu công tác của Trường và kết luận trong phiên h�
 
 Xét đề nghị của ông Trưởng phòng Công tác Sinh viên,
 
-## QUYẾT ĐỊNH:
+# QUYẾT ĐỊNH:
 
-**Điều 1.** Ban hành kèm theo quyết định này là Quy chế cử sinh viên đi học tập ở nước ngoài:
+#### Điều 1. Ban hành kèm theo quyết định này là Quy chế cử sinh viên đi học tập ở nước ngoài:
 
 *(Quy chế kèm theo)*
 
-**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký. Các ông (bà) Trưởng phòng: Kế hoạch – Tổng hợp, Công tác Sinh viên, Đào tạo, Tài vụ, Thủ trưởng các đơn vị có liên quan và sinh viên căn cứ quyết định thi hành./.
+#### Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Các ông (ba) Trưởng phòng: Kế hoạch – Tổng hợp, Công tác Sinh viên, Đào tạo, Tài vụ, Thủ trưởng các đơn vị có liên quan và sinh viên căn cứ quyết định thi hành./.
 
-**KT.HIỆU TRƯỞNG**
+Partial seal
+
+**KT. HIỆU TRƯỞNG**
 **PHÓ HIỆU TRƯỞNG**
-Seal and signature of Tran Thi Thanh Hien
+Seal and signature of Trần Thị Thanh Hiền
 **Trần Thị Thanh Hiền**
 
-**Nơi nhận:**
+***Nơi nhận:***
 
 - Như Điều 2;
-
 - Lưu: VT, PCTSV.
-
-Partial seal on the right margin
 
 ---
 
@@ -98,7 +90,7 @@ ngày 15 tháng 3 năm 2017 của Hiệu trưởng)*
 
 #### Điều 1. Phạm vi và đối tượng áp dụng
 
-1. Văn bản này áp dụng cho sinh viên (SV) đại học hệ chính quy còn trong thời gian thiết kế của chương trình đào tạo của Trường Đại học Cần Thơ (ĐHCT) và chưa có quyết định tốt nghiệp được Khoa/Viện/Bộ môn trực thuộc Trường (*sau đây gọi là Khoa*) cử đi học tập ở Trường/Viện/Khoa ở nước ngoài (*sau đây gọi là phía đối tác nước ngoài*).
+1. Văn bản này áp dụng cho sinh viên (SV) đại học hệ chính quy còn trong thời gian thiết kế của chương trình đào tạo của Trường Đại học Cần Thơ (ĐHCT) và chưa có quyết định tốt nghiệp được Khoa/Viện/Bộ môn trực thuộc Trường (sau đây gọi là Khoa) cử đi học tập ở Trường/Viện/Khoa ở nước ngoài (sau đây gọi là phía đối tác nước ngoài).
 
 2. SV được nhận học bổng khuyến khích học tập (HBKKHT), SV được nhận HBKKHT và được tài trợ hoặc tự túc một phần kinh phí, SV được tài trợ hoặc tự túc hoàn toàn kinh phí, tự nguyện đăng ký và thỏa điều kiện được cử đi học tập ở nước ngoài.
 
@@ -196,13 +188,13 @@ d) SV được tài trợ hoặc SV tự túc hoàn toàn kinh phí phục vụ 
 
 Kinh phí tổ chức thực hiện có thể từ các nguồn: kinh phí được Trường cấp với định mức học bổng để SV đi học nước ngoài; kinh phí hỗ trợ của phía đối tác nước ngoài; kinh phí hỗ trợ của các đơn vị, cá nhân trong và ngoài nước; kinh phí đóng góp của SV tham gia. Khoa có trách nhiệm ghi rõ nguồn chi, định mức và thực hiện theo thông báo nguồn phân giao của Trường, trường hợp đặc biệt do Hiệu trưởng quyết định.
 
-#### Điều 8. Quy trình thực hiện (*đính kèm theo*)
+#### Điều 8. Quy trình thực hiện (đính kèm theo)
 
-1. Đối với SV được cấp HBKKHT thì thực hiện quy trình theo **<u>Lưu đồ 1</u>**.
+1. Đối với SV được cấp HBKKHT thì thực hiện quy trình theo <u>Lưu đồ 1</u>.
 
-2. Đối với SV được cấp HBKKHT và được tài trợ hoặc tự túc hoàn toàn kinh phí thực hiện quy trình theo **<u>Lưu đồ 2</u>**.
+2. Đối với SV được cấp HBKKHT và được tài trợ hoặc tự túc hoàn toàn kinh phí thực hiện quy trình theo <u>Lưu đồ 2</u>.
 
-3. Đối với SV là ứng viên được tài trợ hoặc tự túc hoàn toàn kinh phí thực hiện quy trình theo **<u>Lưu đồ 3</u>**.
+3. Đối với SV là ứng viên được tài trợ hoặc tự túc hoàn toàn kinh phí thực hiện quy trình theo <u>Lưu đồ 3</u>.
 
 #### Điều 9. Khen thưởng và kỷ luật
 
@@ -214,14 +206,16 @@ Quy định này được áp dụng kể từ ngày ký ban hành và triển k
 
 **KT. HIỆU TRƯỞNG**
 **PHÓ HIỆU TRƯỞNG**
-Seal of Can Tho University and signature of Tran Thi Thanh Hien
-**Trần Thị Thanh Hiền**
+
+Dấu mộc và chữ ký của Phó Hiệu trưởng Trần Thị Thanh Hiền
 
 **Nơi nhận:**
 
 - Như trên;
 
 - Lưu: VT, PCTSV, P.Tài vụ.
+
+3
 
 ---
 
@@ -231,7 +225,7 @@ Seal of Can Tho University and signature of Tran Thi Thanh Hien
 
 # QUY TRÌNH CỬ SINH VIÊN ĐI HỌC TẬP Ở NƯỚC NGOÀI
 
-*(Ban hành kèm theo Quyết định số: 770 /QĐ-ĐHCT, ngày 15 tháng 3 năm 2017 của Hiệu trưởng)*
+(Ban hành kèm theo Quyết định số: 770 /QĐ-ĐHCT, ngày 15 tháng 3 năm 2017 của Hiệu trưởng)
 
 ## I. QUY TRÌNH CÔNG TÁC
 
@@ -241,7 +235,7 @@ Seal of Can Tho University and signature of Tran Thi Thanh Hien
 
 - Căn cứ Quy định về công tác học vụ dành cho sinh viên (SV) bậc đại học và cao đẳng hệ chính quy của Trường Đại học Cần Thơ;
 
-- Căn cứ Quỹ học bổng khuyến khích học tập dành cho SV hệ chính quy được phân bổ về các đơn vị hàng năm;
+- Căn cứ Quỹ học bổng khuyến khích học tập dành cho sSV hệ chính quy được phân bổ về các đơn vị hàng năm;
 
 - Đối tượng áp dụng: SV hệ chính quy đang học tại Trường.
 
@@ -269,26 +263,27 @@ Seal of Can Tho University and signature of Tran Thi Thanh Hien
 
 <!-- page: 6 -->
 
-# LƯU ĐỒ 1:
+## LƯU ĐỒ 1:
 
 ### 1. Đối với sinh viên được Trường cấp HBKKHT
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Phân bổ Quỹ học bổng cử sinh viên đi học nước ngoài | Thiết lập Quỹ phân bổ cho từng đơn vị; định mức tối đa cấp cho SV | P.CTSV tham mưu | Phân bổ vào đầu năm tài chính |
-|  | Phân bổ Quỹ học bổng cử sinh viên đi học nước ngoài | QĐ ban hành và định mức cấp | BGH phê duyệt | Phân bổ vào đầu năm tài chính |
-| 2 | Kế hoạch thực hiện (dự kiến) | Cung cấp quyết định phân bổ và danh sách SV được nhận học bổng gửi về các đơn vị; | P.CTSV | Đầu mỗi học kỳ |
-|  | Kế hoạch thực hiện (dự kiến) | Khoa lập kế hoạch dự kiến trình BGH (qua PCTSV) | Khoa | Đầu mỗi học kỳ |
-| 3 | Thông báo triển khai thực hiện | - Khoa chủ động liên hệ đối tác nước ngoài;<br>- Thông báo triển khai cho SV đăng ký | - Khoa<br>- Sinh viên | Chậm nhất 15 ngày sau khi Trường thông báo |
-| 4 | Tổ chức xét chọn<br>(Hồ sơ không đạt ➔ Quay lại bước 3) | - Tiếp nhận hồ sơ SV đăng ký tham gia;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Tiếp nhận, giải đáp ý kiến và phản hồi thông tin cho SV; | Khoa |  |
-| 5 | Tiếp nhận đề cử sinh viên<br>(Hồ sơ đạt từ bước 4) | Tập hợp hồ sơ, công văn đề cử SV tham gia, trong đó ghi rõ nguồn kinh phí, định mức thực hiện gửi về PCTSV | Khoa | Tối đa 03 ngày làm việc |
-|  | Tiếp nhận đề cử sinh viên<br>(Hồ sơ đạt từ bước 4) | - Kiểm tra, lập hồ sơ, trình QĐ<br>- Phê duyệt | - P.CTSV<br>- BGH | Tối đa 03 ngày làm việc |
-| 6 | Thông báo kết quả xét chọn | Nhận Quyết định, gửi hồ sơ cho đối tác; đồng thời thông báo cho SV; | - Khoa | Tối đa 03 ngày làm việc |
-|  | Thông báo kết quả xét chọn | Nhận kinh phí từ PTV và tổ chức thực hiện theo Quyết định | - PTV | Tối đa 03 ngày làm việc |
-| 7 | Báo cáo kết quả học tập | - Báo cáo tóm tắt, kèm theo các kết quả báo cáo của SV gửi về Trường (qua PCTSV);<br>- Công văn đề nghị tiếp nhận SV | Khoa | Tối đa 10 ngày làm việc sau khi kết thúc đợt học tập ở nước ngoài |
-| 8 | Quyết định thu nhận SV trở lại học tập | Trình QĐ thu nhận SV | PCTSV | Tối đa 03 ngày làm việc |
-|  | Quyết định thu nhận SV trở lại học tập | Phê duyệt QĐ thu nhận SV | BGH | Tối đa 03 ngày làm việc |
-|  | Quyết định thu nhận SV trở lại học tập | Xét miễn, công nhận điểm học phần | - Khoa<br>- PĐT | Tối đa 10 ngày làm việc sau khi có QĐ thu nhận |
+| Bước | Lưu đồ | Nội dung công việc | Người thực hiện | Thời gian thực hiện | Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Phân bổ Quỹ học bổng cử sinh viên đi học nước ngoài | Thiết lập Quỹ phân bổ cho từng đơn vị; định mức tối đa cấp cho SV | P.CTSV tham mưu | Phân bổ vào đầu năm tài chính |  |
+|  | Phân bổ Quỹ học bổng cử sinh viên đi học nước ngoài | QĐ ban hành và định mức cấp | BGH phê duyệt | Phân bổ vào đầu năm tài chính |  |
+| 2 | Kế hoạch thực hiện (dự kiến) | Cung cấp quyết định phân bổ và danh sách SV được nhận học bổng gửi về các đơn vị; | P.CTSV | Đầu mỗi học kỳ |  |
+|  | Kế hoạch thực hiện (dự kiến) | Khoa lập kế hoạch dự kiến trình BGH (qua PCTSV) | Khoa | Đầu mỗi học kỳ |  |
+| 3 | Thông báo triển khai thực hiện | - Khoa chủ động liên hệ đối tác nước ngoài;<br>- Thông báo triển khai cho SV đăng ký | - Khoa<br>- Sinh viên | Chậm nhất 15 ngày sau khi Trường thông báo |  |
+| 4 | Tổ chức xét chọn | - Tiếp nhận hồ sơ SV đăng ký tham gia;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Tiếp nhận, giải đáp ý kiến và phản hồi thông tin cho SV; | Khoa |  |  |
+| 5 | Tiếp nhận đề cử sinh viên | Tập hợp hồ sơ, công văn đề cử SV tham gia, trong đó ghi rõ nguồn kinh phí, định mức thực hiện gửi về PCTSV | Khoa | Tối đa 03 ngày làm việc |  |
+|  | Tiếp nhận đề cử sinh viên | - Kiểm tra, lập hồ sơ, trình QĐ | - P.CTSV | Tối đa 03 ngày làm việc |  |
+|  | Tiếp nhận đề cử sinh viên | - Phê duyệt | - BGH | Tối đa 03 ngày làm việc |  |
+| 6 | Thông báo kết quả xét chọn | Nhận Quyết định, gửi hồ sơ cho đối tác; đồng thời thông báo cho SV; | - Khoa | Tối đa 03 ngày làm việc |  |
+|  | Thông báo kết quả xét chọn | Nhận kinh phí từ PTV và tổ chức thực hiện theo Quyết định | - PTV | Tối đa 03 ngày làm việc |  |
+| 7 | Báo cáo kết quả học tập | - Báo cáo tóm tắt, kèm theo các kết quả báo cáo của SV gửi về Trường (qua PCTSV) ;<br>- Công văn đề nghị tiếp nhận SV | Khoa | Tối đa 10 ngày làm việc sau khi kết thúc đợt học tập ở nước ngoài |  |
+| 8 | Quyết định thu nhận SV trở lại học tập | Trình QĐ thu nhận SV | PCTSV | Tối đa 03 ngày làm việc |  |
+|  | Quyết định thu nhận SV trở lại học tập | Phê duyệt QĐ thu nhận SV | BGH | Tối đa 03 ngày làm việc |  |
+|  | Quyết định thu nhận SV trở lại học tập | Xét miễn, công nhận điểm học phần | - Khoa<br>- PĐT | Tối đa 10 ngày làm việc sau khi có QĐ thu nhận |  |
 
 ---
 
@@ -296,22 +291,22 @@ Seal of Can Tho University and signature of Tran Thi Thanh Hien
 
 <!-- page: 7 -->
 
-<u>**LƯU ĐỒ 2:**</u>
+## <u>LƯU ĐỒ 2:</u>
 
 ### 2. Đối với sinh viên được cấp HBKKHT và được tài trợ hoặc tự túc hoàn toàn kinh phí
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Thông báo triển khai thực hiện | - Khoa chủ động liên hệ đối tác nước ngoài;<br>- Thông báo triển khai cho SV đăng ký | - Khoa<br>- Sinh viên | Chậm nhất 15 ngày sau khi Trường thông báo |
-| 2 | Tổ chức xét chọn (Hồ sơ không đạt -> quay lại bước 1; Hồ sơ đạt -> bước 3) | - Tiếp nhận hồ sơ SV đăng ký tham gia;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Tiếp nhận, giải đáp ý kiến và phản hồi thông tin cho SV; | Khoa |  |
-| 3 | Đề cử sinh viên tham gia | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | Khoa | Tối đa 03 ngày làm việc |
-|  | Đề cử sinh viên tham gia | - Kiểm tra, lập hồ sơ, trình quyết định (QĐ); | - P.CTSV | Tối đa 03 ngày làm việc |
-|  | Đề cử sinh viên tham gia | - Ký phê duyệt | - BGH | Tối đa 03 ngày làm việc |
-| 4 | Thông báo kết quả xét chọn | - Nhận Quyết định, gửi hồ sơ cho đối tác; đồng thời thông báo kết quả cho SV<br>- Tổ chức thực hiện QĐ | Khoa | Tối đa 03 ngày làm việc |
-| 5 | Báo cáo kết quả học tập | - Báo cáo tóm tắt của Khoa kèm theo các kết quả báo cáo của SV gửi về Trường (qua PCTSV);<br>- Công văn đề nghị tiếp nhận SV | Khoa | Tối đa 10 ngày làm việc sau khi kết thúc đợt học tập ở nước ngoài |
-| 6 | Quyết định thu nhận SV trở lại học tập | Trình QĐ thu nhận SV | PCTSV | Tối đa 03 ngày làm việc |
-|  | Quyết định thu nhận SV trở lại học tập | Phê duyệt QĐ thu nhận, tiếp nhận SV tiếp tục học | BGH | Tối đa 03 ngày làm việc |
-|  | Quyết định thu nhận SV trở lại học tập | Xét miễn, công nhận điểm học phần | - Khoa<br>- PĐT | Tối đa 10 ngày làm việc sau khi có QĐ thu nhận |
+| Bước | Lưu đồ | Nội dung công việc | Người thực hiện | Thời gian thực hiện | Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Thông báo triển khai thực hiện | - Khoa chủ động liên hệ đối tác nước ngoài;<br>- Thông báo triển khai cho SV đăng ký | - Khoa<br>- Sinh viên | Chậm nhất 15 ngày sau khi Trường thông báo |  |
+| 2 | Tổ chức xét chọn (Hồ sơ không đạt -> quay lại bước 1; Hồ sơ đạt -> bước 3) | - Tiếp nhận hồ sơ SV đăng ký tham gia;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Tiếp nhận, giải đáp ý kiến và phản hồi thông tin cho SV; | Khoa |  |  |
+| 3 | Đề cử sinh viên tham gia | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | Khoa | Tối đa 03 ngày làm việc |  |
+|  | Đề cử sinh viên tham gia | - Kiểm tra, lập hồ sơ, trình quyết định (QĐ); | - P.CTSV | Tối đa 03 ngày làm việc |  |
+|  | Đề cử sinh viên tham gia | - Ký phê duyệt | - BGH | Tối đa 03 ngày làm việc |  |
+| 4 | Thông báo kết quả xét chọn | - Nhận Quyết định, gửi hồ sơ cho đối tác; đồng thời thông báo kết quả cho SV<br>- Tổ chức thực hiện QĐ | Khoa | Tối đa 03 ngày làm việc |  |
+| 5 | Báo cáo kết quả học tập | - Báo cáo tóm tắt của Khoa kèm theo các kết quả báo cáo của SV gửi về Trường (qua PCTSV);<br>- Công văn đề nghị tiếp nhận SV | Khoa | Tối đa 10 ngày làm việc sau khi kết thúc đợt học tập ở nước ngoài |  |
+| 6 | Quyết định thu nhận SV trở lại học tập | Trình QĐ thu nhận SV | PCTSV | Tối đa 03 ngày làm việc |  |
+|  | Quyết định thu nhận SV trở lại học tập | Phê duyệt QĐ thu nhận, tiếp nhận SV tiếp tục học | BGH | Tối đa 03 ngày làm việc |  |
+|  | Quyết định thu nhận SV trở lại học tập | Xét miễn, công nhận điểm học phần | - Khoa<br>- PĐT | Tối đa 10 ngày làm việc sau khi có QĐ thu nhận |  |
 
 Trường Đại học Cần Thơ seal
 
@@ -323,18 +318,18 @@ Trường Đại học Cần Thơ seal
 
 v ;
 
-# LƯU ĐỒ 3:
+## LƯU ĐỒ 3:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | SV nộp hồ sơ dự tuyển | - SV nộp hồ sơ dự tuyển cho Khoa;<br>- Hồ sơ dự tuyển đáp ứng yêu cầu của thông báo tuyển chọn | - Sinh viên<br>- Khoa | Bất kỳ trong năm; Nguồn học bổng có thể do sinh viên tìm trên mạng |
-|  | SV nộp hồ sơ dự tuyển | - Tiếp nhận hồ sơ SV đăng ký tham gia ;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Ký xác nhận trên hồ sơ SV (nếu có yêu cầu); |  |  |
-| 2 | Tổ chức xét chọn | - Tiếp nhận hồ sơ SV đăng ký tham gia ;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Ký xác nhận trên hồ sơ SV (nếu có yêu cầu); | Khoa |  |
-|  | Tổ chức xét chọn | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | Khoa |  |
-| 3 | Đề cử sinh viên tham gia | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | Khoa | Tối đa 03 ngày làm việc |
-|  | Đề cử sinh viên tham gia | - Kiểm tra, đối chiếu thông tin, lập hồ sơ, trình QĐ<br>- Phê duyệt | - P.CTSV<br><br>- BGH | Khoa; Tối đa 03 ngày làm việc |
-| 4 | Thông báo kết quả xét chọn | - Nhận QĐ, gửi hồ sơ cho đối tác; thông báo kết quả cho SV<br>- Tổ chức thực hiện QĐ | Khoa | Tối đa 03 ngày làm việc |
-| 5 | Báo cáo kết quả học tập | - Báo cáo tóm tắt của Khoa kèm theo các kết quả báo cáo của SV gửi về Trường (qua PCTSV);<br>- Công văn đề nghị tiếp nhận SV | Khoa | Tối đa 10 ngày làm việc sau khi kết thúc đợt học tập ở nước ngoài |
-| 6 | Quyết định thu nhận SV trở lại học tập | Trình QĐ thu nhận SV | PCTSV | Tối đa 03 ngày làm việc |
-|  | Quyết định thu nhận SV trở lại học tập | Phê duyệt QĐ thu nhận SV | BGH | Tối đa 03 ngày làm việc |
-|  | Quyết định thu nhận SV trở lại học tập | Xét miễn, công nhận điểm học phần | - PĐT<br>- Khoa | Tối đa 10 ngày làm việc sau khi có QĐ thu nhận |
+| 3. Đối với sinh viên là ứng viên được tài trợ hoặc tự túc hoàn toàn kinh phí / Bước | 3. Đối với sinh viên là ứng viên được tài trợ hoặc tự túc hoàn toàn kinh phí / Lưu đồ | 3. Đối với sinh viên là ứng viên được tài trợ hoặc tự túc hoàn toàn kinh phí / Nội dung công việc | 3. Đối với sinh viên là ứng viên được tài trợ hoặc tự túc hoàn toàn kinh phí / Người thực hiện | 3. Đối với sinh viên là ứng viên được tài trợ hoặc tự túc hoàn toàn kinh phí / Thời gian thực hiện | 3. Đối với sinh viên là ứng viên được tài trợ hoặc tự túc hoàn toàn kinh phí / Ghi chú | Cột 10 | Cột 11 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | SV nộp hồ sơ dự tuyển | - SV nộp hồ sơ dự tuyển cho Khoa;<br>- Hồ sơ dự tuyển đáp ứng yêu cầu của thông báo tuyển chọn | - Sinh viên<br>- Khoa | Bất kỳ trong năm | Nguồn học bổng có thể do sinh viên tìm trên mạng |  |  |
+|  | SV nộp hồ sơ dự tuyển | - Tiếp nhận hồ sơ SV đăng ký tham gia ;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Ký xác nhận trên hồ sơ SV (nếu có yêu cầu); |  |  |  |  |  |
+| 2 | Tổ chức xét chọn | - Tiếp nhận hồ sơ SV đăng ký tham gia ;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Ký xác nhận trên hồ sơ SV (nếu có yêu cầu); | - Tiếp nhận hồ sơ SV đăng ký tham gia ;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Ký xác nhận trên hồ sơ SV (nếu có yêu cầu); | - Tiếp nhận hồ sơ SV đăng ký tham gia ;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Ký xác nhận trên hồ sơ SV (nếu có yêu cầu); | - Tiếp nhận hồ sơ SV đăng ký tham gia ;<br>- Kiểm tra, xử lý, phân loại hồ sơ của SV;<br>- Ký xác nhận trên hồ sơ SV (nếu có yêu cầu); | Khoa |  |
+|  | Tổ chức xét chọn | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | Khoa |  |  |  |  |
+| 3 | Đề cử sinh viên tham gia | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | - Tập hợp hồ sơ, công văn đề cử SV tham gia gửi về PCTSV (kinh phí tài trợ hoặc tự túc phục vụ cho học tập theo chương trình đào tạo) | Khoa | Tối đa 03 ngày làm việc |
+|  | Đề cử sinh viên tham gia | - Kiểm tra, đối chiếu thông tin, lập hồ sơ, trình QĐ<br>- Phê duyệt | - P.CTSV<br><br>- BGH |  |  | Khoa | Tối đa 03 ngày làm việc |
+| 4 | Thông báo kết quả xét chọn | - Nhận QĐ, gửi hồ sơ cho đối tác; thông báo kết quả cho SV<br>- Tổ chức thực hiện QĐ | Khoa | Tối đa 03 ngày làm việc |  |  |  |
+| 5 | Báo cáo kết quả học tập | - Báo cáo tóm tắt của Khoa kèm theo các kết quả báo cáo của SV gửi về Trường (qua PCTSV);<br>- Công văn đề nghị tiếp nhận SV | Khoa | Tối đa 10 ngày làm việc sau khi kết thúc đợt học tập ở nước ngoài |  |  |  |
+| 6 | Quyết định thu nhận SV trở lại học tập | Trình QĐ thu nhận SV | PCTSV | Tối đa 03 ngày làm việc |  |  |  |
+|  | Quyết định thu nhận SV trở lại học tập | Phê duyệt QĐ thu nhận SV | BGH | Tối đa 03 ngày làm việc |  |  |  |
+|  | Quyết định thu nhận SV trở lại học tập | Xét miễn, công nhận điểm học phần | - PĐT<br>- Khoa | Tối đa 10 ngày làm việc sau khi có QĐ thu nhận |  |  |  |

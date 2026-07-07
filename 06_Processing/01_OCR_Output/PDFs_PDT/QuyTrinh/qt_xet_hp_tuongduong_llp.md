@@ -1,18 +1,19 @@
 ---
 document_key: ctu-pdt-qt-xet-hp-tuongduong
-version_key: ctu-pdt-qt-xet-hp-tuongduong-a17030d7e104
+version_key: ctu-pdt-qt-xet-hp-tuongduong-6efdbf52a592
 title: "QUY TRÌNH XÉT CÔNG NHẬN HỌC PHẦN TƯƠNG ĐƯƠNG"
 document_type: quy_trinh
-domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: PDT
+domain: hoc_vu
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
+- PDT
+- DVQLN
 signer_name: ""
 audience:
   - student
 code: ""
 issued_date:
 effective_date:
-version_label: ""
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -22,16 +23,14 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/PDT/QuyTrinh/qt_xet_hp_tuongduong.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyTrinh/qt_xet_hp_tuongduong.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: a17030d7e104e2489c1f1277fe87fb84
+checksum: 6efdbf52a59203fe49271cf25ebbf4a4d5c2126f98935e8dcabfff56f6d8eec6
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-04T12:12:28+07:00"
-updated_at: "2026-07-04T12:12:28+07:00"
-notes: ""
+created_at: "2026-07-07T09:38:39+07:00"
+updated_at: "2026-07-07T09:38:39+07:00"
+notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ---
 
 1
@@ -82,13 +81,13 @@ notes: ""
 
 ## II. LƯU ĐỒ:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Gửi yêu cầu | Nộp đơn xét công nhận học phần tương đương | SV, CVHT | Tuần 01 đến tuần 08 của học kỳ chính; Mẫu 1 |
-| 2 | Kiểm tra và xét duyệt | Kiểm tra, xét duyệt và gửi hồ sơ về PĐT | ĐVQLN | Tuần 09-10 của học kỳ chính |
-| 3 | Kiểm tra | Kiểm tra hồ sơ và phản hồi về ĐVQLN | PĐT | 02 tuần làm việc |
-| 4 | Cập nhật kết quả vào hệ thống | Cập nhật kết quả vào hệ thống quản lý | PĐT | 01 tuần làm việc |
-| 5 | SV kiểm tra | SV kiểm tra | SV |  |
+| Quy trình xét công nhận học phần tương đương / Bước | Quy trình xét công nhận học phần tương đương / Lưu đồ | Quy trình xét công nhận học phần tương đương / Nội dung công việc | Quy trình xét công nhận học phần tương đương / Người thực hiện | Quy trình xét công nhận học phần tương đương / Thời gian thực hiện | Quy trình xét công nhận học phần tương đương / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Gửi yêu cầu | Nộp đơn xét công nhận học phần tương đương | SV, CVHT | Tuần 01 đến tuần 08 của học kỳ chính | Mẫu 1 |
+| 2 | Kiểm tra và xét duyệt | Kiểm tra, xét duyệt và gửi hồ sơ về PĐT | ĐVQLN | Tuần 09-10 của học kỳ chính |  |
+| 3 | Kiểm tra | Kiểm tra hồ sơ và phản hồi về ĐVQLN | PĐT | 02 tuần làm việc |  |
+| 4 | Cập nhật kết quả vào hệ thống | Cập nhật kết quả vào hệ thống quản lý | PĐT | 01 tuần làm việc |  |
+| 5 | SV kiểm tra | SV kiểm tra | SV |  |  |
 
 ---
 
@@ -119,17 +118,22 @@ Nay tôi làm đơn này kính đề nghị được công nhận học phần t
 
 Trân trọng kính chào./.
 
-Cần Thơ, ngày      tháng      năm 20    
+Cần Thơ, ngày      tháng      năm 20…
 
-* **Ý KIẾN CỦA CỐ VẤN HỌC TẬP**
+**Ý KIẾN CỦA CỐ VẤN HỌC TẬP**
 (ký tên và ghi rõ họ tên)
-    
-* **SINH VIÊN**
-(ký tên và ghi rõ họ tên)
+
     
 
-* **BỘ MÔN**
+**SINH VIÊN**
 (ký tên và ghi rõ họ tên)
+
     
-* **TRƯỞNG KHOA/VIỆN/BỘ MÔN**
+
+**BỘ MÔN**
+(ký tên và ghi rõ họ tên)
+
+    
+
+**TRƯỞNG KHOA/VIỆN/BỘ MÔN**
 (ký tên và ghi rõ họ tên)

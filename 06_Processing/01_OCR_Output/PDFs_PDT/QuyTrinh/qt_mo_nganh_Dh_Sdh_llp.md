@@ -1,20 +1,19 @@
 ---
 document_key: ctu-pdt-qt-mo-nganh-dh-sdh
-version_key: ctu-pdt-qt-mo-nganh-dh-sdh-9be7856f46a0
+version_key: ctu-pdt-qt-mo-nganh-dh-sdh-fd8ed6bf61e2
 title: "QUY TRÌNH MỞ NGÀNH ĐÀO TẠO TRÌNH ĐỘ ĐẠI HỌC và SAU ĐẠI HỌC"
 document_type: quy_trinh
 domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
+issuing_authority: "Đại học Cần Thơ"
 responsible_department: 
 - PDT
 - KSDH
-signer_name: ""
+signer_name: "HT Hà Thanh Toàn"
 audience:
   - student
 code: ""
 issued_date:
 effective_date:
-version_label: ""
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -24,16 +23,14 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/PDT/QuyTrinh/qt_mo_nganh_Dh_Sdh.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyTrinh/qt_mo_nganh_Dh_Sdh.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 9be7856f46a07177a8dce3c02ca24c6a
+checksum: fd8ed6bf61e255665ea20cf5be00e9152829b3e6534a557746937448c47eb388
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-04T11:50:31+07:00"
-updated_at: "2026-07-04T11:50:31+07:00"
-notes: ""
+created_at: "2026-07-07T09:36:07+07:00"
+updated_at: "2026-07-07T09:36:07+07:00"
+notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ---
 
 1
@@ -48,12 +45,12 @@ notes: ""
 
 ### 1. Cơ sở thực hiện
 
-**Mục đích, phạm vi áp dụng**
+## Mục đích, phạm vi áp dụng
 
 - **Mục đích** : Đào tạo nguồn nhân lực cho vùng Đồng bằng sông Cửu Long nói riêng và cả nước nói chung, thực hiện theo lộ trình quy hoạch phát triển của Trường.
 - **Phạm vi áp dụng:** Các đơn vị đào tạo trình độ đại học, sau đại học.
 
-**Văn bản quy định**
+## Văn bản quy định
 
 - Thông tư số 08/2011/TT-BGDĐT ngày 17 tháng 02 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định điều kiện, hồ sơ, quy trình mở ngành đào tạo, đình chỉ tuyển sinh, thu hồi quyết định mở ngành đào tạo trình độ đại học, trình độ cao đẳng;
 - Căn cứ Thông tư 38/2010/TT-BGDĐT, ngày 22/12/2010 Quy định điều kiện, hồ sơ, quy trình cho phép đào tạo, đình chỉ tuyển sinh, thu hồi quyết định cho phép đào tạo các ngành hoặc chuyên ngành trình độ thạc sĩ, trình độ tiến sĩ.
@@ -93,17 +90,17 @@ notes: ""
 
 07/2015/TT-BGDĐT; mẫu đề án quy định tại TT 38/2010/TT-BGDĐT đối với mở ngành sau đại học và TT 08/2011/TT-BGDĐT đối với mở ngành đại học).
 
-- **Bước 2.2:** Tổ soạn thảo xây dựng mục tiêu chung, mục tiêu cụ thể và chuẩn đầu ra của chương trình đào tạo (theo mẫu chung của Trường).
+- **Bước 2.2**: Tổ soạn thảo xây dựng mục tiêu chung, mục tiêu cụ thể và chuẩn đầu ra của chương trình đào tạo (theo mẫu chung của Trường).
 
-- **Bước 2.3:** Tổ soạn thảo xác định cấu trúc, khối lượng kiến thức cần thiết của chương trình đào tạo, xây dựng chương trình đào tạo đảm bảo mục tiêu đào tạo và chuẩn đầu ra.
+- **Bước 2.3**: Tổ soạn thảo xác định cấu trúc, khối lượng kiến thức cần thiết của chương trình đào tạo, xây dựng chương trình đào tạo đảm bảo mục tiêu đào tạo và chuẩn đầu ra.
 
-- **Bước 2.4:** Tổ soạn thảo đối chiếu, so sánh với chương trình đào tạo cùng trình độ, cùng ngành/ chuyên ngành của các cơ sở đào tạo khác ở trong nước và nước ngoài để hoàn thiện chương trình đào tạo.
+- **Bước 2.4**: Tổ soạn thảo đối chiếu, so sánh với chương trình đào tạo cùng trình độ, cùng ngành/ chuyên ngành của các cơ sở đào tạo khác ở trong nước và nước ngoài để hoàn thiện chương trình đào tạo.
 
-- **Bước 2.5:** Tổ soạn thảo và giảng viên thiết kế đề cương chi tiết các học phần theo chương trình đào tạo đã xác định.
+- **Bước 2.5**: Tổ soạn thảo và giảng viên thiết kế đề cương chi tiết các học phần theo chương trình đào tạo đã xác định.
 
-- **Bước 2.6:** ĐVĐT và Tổ soạn thảo tổ chức hội thảo lấy ý kiến của giảng viên, cán bộ quản lý trong và ngoài cơ sở đào tạo, các nhà khoa học, đại diện đơn vị sử dụng lao động liên quan và người đã tốt nghiệp (nếu có) về chương trình đào tạo.
+- **Bước 2.6**: ĐVĐT và Tổ soạn thảo tổ chức hội thảo lấy ý kiến của giảng viên, cán bộ quản lý trong và ngoài cơ sở đào tạo, các nhà khoa học, đại diện đơn vị sử dụng lao động liên quan và người đã tốt nghiệp (nếu có) về chương trình đào tạo.
 
-- **Bước 2.7:** Tổ soạn thảo hoàn thiện dự thảo chương trình đào tạo trên cơ sở tiếp thu ý kiến phản hồi của các bên liên quan.
+- **Bước 2.7**: Tổ soạn thảo hoàn thiện dự thảo chương trình đào tạo trên cơ sở tiếp thu ý kiến phản hồi của các bên liên quan.
 
 ## Bước 3 Thông qua CTĐT đã hiệu chỉnh sau hội thảo và danh sách Hội đồng thẩm định CTĐT
 
@@ -111,7 +108,7 @@ notes: ""
 
 ## Bước 4 Thẩm định
 
-\* Thẩm định Năng lực đào tạo của Sở Giáo dục và Đào tạo
+\* **Thẩm định Năng lực đào tạo của Sở Giáo dục và Đào tạo**
 
 - ĐVĐT chuẩn bị 04 bộ hồ sơ (gửi Sở GD và ĐT 3 bộ, P.ĐT/K.SĐH lưu 01 bộ) về năng lực đào tạo.
 
@@ -121,7 +118,7 @@ notes: ""
 
 - Sau khi nhận được công văn phản hồi của Sở GD&ĐT, ĐVĐT chỉnh sửa theo góp ý của Sở GD & ĐT, in và gửi lại Sở GD 01 bộ (biên bản các biểu mẫu, lý lịch và bằng cấp).
 
-\* Thẩm định CTĐT
+\* **Thẩm định CTĐT**
 
 - P.ĐT /K.SĐH trình Quyết định thành lập Hội đồng thẩm định CTĐT.
 
@@ -143,7 +140,7 @@ notes: ""
 
 - P.ĐT /K.SĐH trình Quyết định Ban hành CTĐT.
 
-## Bước 5 Hoàn chỉnh đề án gửi Bộ GD-ĐT
+**Bước 5 Hoàn chỉnh đề án gửi Bộ GD-ĐT**
 
 - Tổ soạn thảo hoàn thành Đề án (Tờ trình, CTĐT, Năng lực đào tạo, các minh chứng):
 
@@ -155,7 +152,7 @@ notes: ""
 
 - P.ĐT /K.SĐH thực hiện việc gửi đề án đến Bộ Giáo dục và Đào tạo.
 
-## Bước 6 Chờ Quyết định cho phép mở ngành của Bộ GD-ĐT
+**Bước 6 Chờ Quyết định cho phép mở ngành của Bộ GD-ĐT**
 
 - Hiệu chỉnh, bổ sung, phản hồi theo ý kiến từ Bộ (nếu có)
 
@@ -173,12 +170,12 @@ Biểu mẫu thực hiện theo: Thông tư số 08/2011/TT-BGDĐT ngày 17 thá
 
 ## MỞ NGÀNH ĐÀO TẠO TRÌNH ĐỘ ĐẠI HỌC, SAU ĐẠI HỌC
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | **Thẩm định điều kiện mở ngành** | - Trình bài điều kiện mở ngành<br>- Xin ý kiến HĐ KH&ĐT | - ĐVĐT<br>- P.ĐT/K.SĐH<br>-TT. HĐ KH&ĐT | 1 tháng |
-| 2 | **Xây dựng đề án mở ngành/XDCTĐT** | - Khảo sát nhu cầu<br>- Viết đề án<br>- Thực hiện quy trình xây dựng (TT08; TT38; 7 bước theo TT07) | - TTĐBCL<br>- ĐVĐT | 2 tháng |
-| 3 | **Thông qua nội dung điều chỉnh CTĐT và danh sách Hội đồng thẩm định** | - Xin ý kiến thông qua phiên họp thường trực HĐ KH&ĐT | - ĐVĐT<br>- TT. HĐ KH&ĐT | 1 tháng |
-| 4 | **Thẩm định**<br>- **Năng lực đào tạo**<br>- **Chương trình đào tạo** | - Thẩm định năng lực<br>- Thẩm định CTĐT | - Tổ soạn thảo<br>- Sở GD và ĐT<br>- HĐ thẩm định | 1,5 tháng |
-| 5 | **Hoàn chỉnh đề án gửi Bộ GD-ĐT** | - Tờ trình gửi Bộ<br>- Đóng quyển | - Tổ soạn thảo<br>- P.ĐT/K.SĐH | 1 tháng |
-| 6 | **Phê duyệt của Bộ GD-ĐT** | Hiệu chỉnh, bổ sung, phản hồi theo ý kiến từ Bộ (nếu có) | Tổ soạn thảo | ... |
-| 7 | **Kết thúc** |  |  |  |
+| Quy trình Mở ngành đào tạo trình độ đại học / Bước | Quy trình Mở ngành đào tạo trình độ đại học / Lưu đồ | Quy trình Mở ngành đào tạo trình độ đại học / Nội dung công việc | Quy trình Mở ngành đào tạo trình độ đại học / Người thực hiện | Quy trình Mở ngành đào tạo trình độ đại học / Thời gian thực hiện | Quy trình Mở ngành đào tạo trình độ đại học / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | **Thẩm định điều kiện mở ngành** | - Trình bài điều kiện mở ngành<br>- Xin ý kiến HĐ KH&ĐT | - ĐVĐT<br>- P.ĐT/K.SĐH<br>-TT. HĐ KH&ĐT | 1 tháng |  |
+| 2 | **Xây dựng đề án mở ngành/XDCTĐT** | - Khảo sát nhu cầu<br>- Viết đề án<br>- Thực hiện quy trình xây dựng (TT08; TT38; 7 bước theo TT07) | - TTĐBCL<br>- ĐVĐT | 2 tháng |  |
+| 3 | **Thông qua nội dung điều chỉnh CTĐT và danh sách Hội đồng thẩm định** | - Xin ý kiến thông qua phiên họp thường trực HĐ KH&ĐT | - ĐVĐT<br>- TT. HĐ KH&ĐT | 1 tháng |  |
+| 4 | **Thẩm định**<br>- **Năng lực đào tạo**<br>- **Chương trình đào tạo** | - Thẩm định năng lực<br>- Thẩm định CTĐT | - Tổ soạn thảo<br>- Sở GD và ĐT<br>- HĐ thẩm định | 1,5 tháng |  |
+| 5 | **Hoàn chỉnh đề án gửi Bộ GD-ĐT** | - Tờ trình gửi Bộ<br>- Đóng quyển | - Tổ soạn thảo<br>- P.ĐT/K.SĐH | 1 tháng |  |
+| 6 | **Phê duyệt của Bộ GD-ĐT** | Hiệu chỉnh, bổ sung, phản hồi theo ý kiến từ Bộ (nếu có) | Tổ soạn thảo | ... |  |
+| 7 | **Kết thúc** |  |  |  |  |

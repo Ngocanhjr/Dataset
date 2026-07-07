@@ -1,13 +1,13 @@
 ---
 document_key: ctu-pdt-qt-xet-nhan-bangtn
-version_key: ctu-pdt-qt-xet-nhan-bangtn-0f47e2537efd
+version_key: ctu-pdt-qt-xet-nhan-bangtn-8f2f5766c37f
 title: "QUY TRÌNH XÉT TỐT NGHIỆP VÀ NHẬN BẰNG ĐẠI HỌC, CAO ĐẲNG"
 document_type: quy_trinh
-domain: dao_tao
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: 
-- PDT
+domain: sinh_vien
+issuing_authority: "Đại học Cần Thơ"
+responsible_department:
 - PCTSV
+- PDT
 - DVQLN
 signer_name: ""
 audience:
@@ -15,7 +15,6 @@ audience:
 code: ""
 issued_date:
 effective_date:
-version_label: ""
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -25,16 +24,14 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/PDT/QuyTrinh/qt_xet_nhan_bangTN.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_PDT/QuyTrinh/qt_xet_nhan_bangTN.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 0f47e2537efde1e9c6bafbc80a231e1a
+checksum: 8f2f5766c37f5c93f1d4aeb537c4798b50e13b61c0a2d4110c79da181e3f49be
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-04T12:15:35+07:00"
-updated_at: "2026-07-04T12:15:35+07:00"
-notes: ""
+created_at: "2026-07-07T09:39:28+07:00"
+updated_at: "2026-07-07T09:39:28+07:00"
+notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ---
 
 1
@@ -42,6 +39,7 @@ notes: ""
 <!-- page: 1 -->
 
 # QUY TRÌNH
+
 # XÉT TỐT NGHIỆP VÀ NHẬN BẰNG ĐẠI HỌC, CAO ĐẲNG
 
 ## I. QUY TRÌNH CÔNG TÁC
@@ -95,15 +93,15 @@ notes: ""
 
 ## II. LƯU ĐỒ:
 
-| Bước | Nội dung | Người thực hiện | Thời gian | Ghi chú |
-| --- | --- | --- | --- | --- |
-| 1 | Đăng ký xét tốt nghiệp | Đăng ký XTN trên hệ thống quản lý | SV | 04 tuần |
-| 2 | Xét tốt nghiệp | - Xét tốt nghiệp<br>- Gửi danh sách tốt nghiệp dự kiến đến các đơn vị có liên quan và thông tin trên website PĐT | Hội đồng XTN | 01 tuần làm việc |
-| 3 | Kiểm tra | Kiểm tra, xử lý và phản hồi | - SV<br>- ĐVQLN<br>- PCTSV<br>- PĐT | 01 tuần làm việc |
-| 4 | Ban hành QĐTN | Ban hành QĐTN chung của từng ĐVQLN | Hội đồng XTN | 01 tuần làm việc |
-| 5 | Thanh toán ra Trường | Thanh toán ra Trường | - SV<br>- Các đơn vị có liên quan | 01 tuần làm việc; mẫu 1 |
-| 6 | Nhận hồ sơ tốt nghiệp | - Giao hồ sơ tốt nghiệp cho ĐVQLN<br>- Phát hồ sơ tốt nghiệp cho SV | - PĐT<br>- ĐVQLN<br>- SV | 02 tuần từ ngày ban hành QĐTN |
-| 7 | Nhận bằng tốt nghiệp | Nhận bằng tốt nghiệp tại PĐT | - SV<br>- PĐT | Theo kế hoạch |
+| Quy trình xét tốt nghiệp và nhận bằng đại học, cao đẳng / Bước | Quy trình xét tốt nghiệp và nhận bằng đại học, cao đẳng / Lưu đồ | Quy trình xét tốt nghiệp và nhận bằng đại học, cao đẳng / Nội dung công việc | Quy trình xét tốt nghiệp và nhận bằng đại học, cao đẳng / Người thực hiện | Quy trình xét tốt nghiệp và nhận bằng đại học, cao đẳng / Thời gian thực hiện | Quy trình xét tốt nghiệp và nhận bằng đại học, cao đẳng / Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Đăng ký xét tốt nghiệp | Đăng ký XTN trên hệ thống quản lý | SV | 04 tuần |  |
+| 2 | Xét tốt nghiệp | - Xét tốt nghiệp<br>- Gửi danh sách tốt nghiệp dự kiến đến các đơn vị có liên quan và thông tin trên website PĐT | Hội đồng XTN | 01 tuần làm việc |  |
+| 3 | Kiểm tra | Kiểm tra, xử lý và phản hồi | - SV<br>- ĐVQLN<br>- PCTSV<br>- PĐT | 01 tuần làm việc |  |
+| 4 | Ban hành QĐTN | Ban hành QĐTN chung của từng ĐVQLN | Hội đồng XTN | 01 tuần làm việc |  |
+| 5 | Thanh toán ra Trường | Thanh toán ra Trường | - SV<br>- Các đơn vị có liên quan | 01 tuần làm việc | mẫu 1 |
+| 6 | Nhận hồ sơ tốt nghiệp | - Giao hồ sơ tốt nghiệp cho ĐVQLN<br>- Phát hồ sơ tốt nghiệp cho SV | - PĐT<br>- ĐVQLN<br>- SV | 02 tuần từ ngày ban hành QĐTN |  |
+| 7 | Nhận bằng tốt nghiệp | Nhận bằng tốt nghiệp tại PĐT | - SV<br>- PĐT | Theo kế hoạch |  |
 
 ---
 

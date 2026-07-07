@@ -1,18 +1,20 @@
 ---
 document_key: ctu-ctsv-3481-29-9-2025-thong-bao-trien-khai-vay-von-theo-qd-29
-version_key: ctu-ctsv-3481-29-9-2025-thong-bao-trien-khai-vay-von-theo-qd-29-1a919e82d858
+version_key: ctu-ctsv-3481-29-9-2025-thong-bao-trien-khai-vay-von-theo-qd-29-86d69ccd57ab
 title: "THÔNG BÁO Về việc triển khai Chương trình tín dụng đối với sinh viên, học viên thạc sĩ, nghiên cứu sinh học các ngành khoa học, công nghệ, kỹ thuật và toán"
 document_type: thong_bao
-domain: sinh_vien
-issuing_authority: "Dai hoc Can Tho"
-responsible_department: PCTSV
-signer_name: "HT Tran Trung Tinh"
+domain: hoc_phi
+issuing_authority: "Đại học Cần Thơ"
+responsible_department: 
+- KSDH
+- VPTr
+- PCTSV
+signer_name: "HT Trần Trung Tính"
 audience:
   - student
-code: ""
-issued_date: 2025-9-30
-effective_date: 2025-9-30
-version_label: ""
+code: "3481 /TB-ĐHCT"
+issued_date: 2025-09-30
+effective_date: 2025-09-30
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -22,15 +24,13 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/ThongBao/3481_29-9-2025_Thong_bao_trien_khai_vay_von_theo_QD_29.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/ThongBao/3481_29-9-2025_Thong_bao_trien_khai_vay_von_theo_QD_29.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2025-05-31
 language: vi
-citation_type: page
-related_asset_keys: []
-checksum: 1a919e82d858cbd00d50a4a189243672
+checksum: 86d69ccd57abf7f0a312b2f178107a84dfd3bac8842ac095ca69f167639bfa77
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
-created_at: "2026-07-05T01:17:51+07:00"
-updated_at: "2026-07-05T01:17:51+07:00"
+created_at: "2026-07-07T00:23:52+07:00"
+updated_at: "2026-07-07T00:23:52+07:00"
 notes: ""
 ---
 1
@@ -38,17 +38,19 @@ notes: ""
 <!-- page: 1 -->
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
-**ĐẠI <u>HỌC CẦN</u> THƠ**
+**ĐẠI HỌC CẦN THƠ**
 
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**<u>Độc lập – Tự do – Hạnh phúc</u>**
+**Độc lập – Tự do – Hạnh phúc**
+
+---
 
 Số: 3481 /TB-ĐHCT
 *Cần Thơ, ngày 30 tháng 9 năm 2025*
 
 # THÔNG BÁO
 
-**Về việc triển khai Chương trình tín dụng đối với sinh viên, học viên thạc sĩ, nghiên cứu sinh học các ngành khoa học, công nghệ, kỹ thuật và toán**
+Về việc triển khai Chương trình tín dụng đối với sinh viên, học viên thạc sĩ, nghiên cứu sinh học các ngành khoa học, công nghệ, kỹ thuật và toán
 
 Kính gửi: Thủ trưởng các đơn vị trong Trường
 
@@ -56,7 +58,7 @@ Thực hiện Quyết định số 29/2025/QĐ-TTg, ngày 28/8/2025 của Thủ 
 
 Trên cơ sở Thông tư số 09/2022/TT-BGDĐT, ngày 06/6/2022 của Bộ Giáo dục và Đào tạo Quy định Danh mục thống kê ngành đào tạo của giáo dục đại học;
 
-Ban Giám hiệu Đại học Cần Thơ (ĐHCT) thông báo đến Thủ trưởng các đơn vị nội dung thực hiện hỗ trợ người học như sau:
+Ban Giám hiệu Đại học Cần Thơ (*ĐHCT*) thông báo đến Thủ trưởng các đơn vị nội dung thực hiện hỗ trợ người học như sau:
 
 ### 1. Mục đích sử dụng vốn vay, đối tượng vay vốn:
 
@@ -68,18 +70,18 @@ Người học vay vốn để trang trải học phí, sinh hoạt phí và chi
 
 Sinh viên, học viên thạc sĩ, nghiên cứu sinh là công dân Việt Nam đang theo học các ngành khoa học, công nghệ, kỹ thuật và toán theo quy định đang đào tạo tại ĐHCT thuộc các ngành, lĩnh vực đào tạo cụ thể:
 
-| STT | Tên ngành, lĩnh vực                                                              | Mã ngành trình độĐại học | Mã ngành trình độThạc sĩ | Mã ngành trình độNghiên cứu sinh |
-| --- | ------------------------------------------------------------------------------------ | -------------------------------- | ------------------------------- | --------------------------------------- |
-| 1   | Khoa học sự sống                                                                  | 742                              | 842                             | 942                                     |
-| 2   | Khoa học tự nhiên                                                                 | 744                              | 844                             | 944                                     |
-| 3   | Máy tính và công nghệ thông tin                                                | 748                              | 848                             | 948                                     |
-| 4   | Công nghệ kỹ thuật                                                               | 751                              | 851                             | 951                                     |
-| 5   | Kỹ thuật                                                                           | 752                              | 852                             | 952                                     |
-| 6   | Kiến trúc và xây dựng                                                           | 758                              | 858                             | 958                                     |
-| 7   | Sản xuất và chế biến                                                            | 754                              | 854                             | 954                                     |
-| 8   | Toán và thống kê                                                                 | 746                              | 846                             | 946                                     |
-| 9   | Công nghệ tài chính                                                              | 7340205                          | --                              | --                                      |
-| 10  | Các ngành đào tạo công nghệ then chốt khác theo quy định của pháp luật |                                  |                                 |                                         |
+| STT | Tên ngành, lĩnh vực                                                              | Mã ngành trình độ / Đại học | Mã ngành trình độ / Thạc sĩ | Mã ngành trình độ / Nghiên cứu sinh |
+| --- | ------------------------------------------------------------------------------------ | ----------------------------------- | ---------------------------------- | ------------------------------------------ |
+| 1   | Khoa học sự sống                                                                  | 742                                 | 842                                | 942                                        |
+| 2   | Khoa học tự nhiên                                                                 | 744                                 | 844                                | 944                                        |
+| 3   | Máy tính và công nghệ thông tin                                                | 748                                 | 848                                | 948                                        |
+| 4   | Công nghệ kỹ thuật                                                               | 751                                 | 851                                | 951                                        |
+| 5   | Kỹ thuật                                                                           | 752                                 | 852                                | 952                                        |
+| 6   | Kiến trúc và xây dựng                                                           | 758                                 | 858                                | 958                                        |
+| 7   | Sản xuất và chế biến                                                            | 754                                 | 854                                | 954                                        |
+| 8   | Toán và thống kê                                                                 | 746                                 | 846                                | 946                                        |
+| 9   | Công nghệ tài chính                                                              | 7340205                             | --                                 | --                                         |
+| 10  | Các ngành đào tạo công nghệ then chốt khác theo quy định của pháp luật |                                     |                                    |                                            |
 
 ---
 
@@ -87,7 +89,7 @@ Sinh viên, học viên thạc sĩ, nghiên cứu sinh là công dân Việt Nam
 
 <!-- page: 2 -->
 
-**2. Điều kiện vay vốn:**
+### 2. Điều kiện vay vốn:
 
 2.1. Sinh viên phải tốt nghiệp trung học phổ thông theo quy định của pháp luật và đáp ứng các điều kiện sau:
 
@@ -97,28 +99,26 @@ Sinh viên, học viên thạc sĩ, nghiên cứu sinh là công dân Việt Nam
 
 2.2. Học viên thạc sĩ, nghiên cứu sinh: **được ĐHCT công nhận là học viên thạc sĩ, nghiên cứu sinh của Trường.**
 
-3. Thủ tục đăng ký vay vốn, địa điểm cấp giấy xác nhận:
+### 3. Thủ tục đăng ký vay vốn, địa điểm cấp giấy xác nhận:
 
-3.1. Thủ tục đăng ký:
+#### 3.1. Thủ tục đăng ký:
 
 | Vay vốn lần đầu          | Vay vốn các năm tiếp theo |
 | ---------------------------- | ----------------------------- |
 | Thực hiện mẫu Phụ lục I | Thực hiện mẫu Phụ lục II |
 
-3.2. Địa điểm cấp giấy xác nhận vay vốn:
+#### 3.2. Địa điểm cấp giấy xác nhận vay vốn:
 
 - Sinh viên hình thức chính quy thực hiện thủ tục cấp giấy xác nhận tại văn phòng Phòng Công tác Sinh viên (theo đường dẫn: [https://dsa.ctu.edu.vn/images/upload/vbanply/2021/HotroOnline/Huongdan_Dangky_Xacnhan.pdf](https://dsa.ctu.edu.vn/images/upload/vbanply/2021/HotroOnline/Huongdan_Dangky_Xacnhan.pdf)) ;
 - Học viên thạc sĩ, nghiên cứu sinh thực hiện thủ tục cấp giấy xác nhận tại văn phòng Khoa Sau đại học.
 
-4. Địa điểm đề nghị vay vốn:
+### 4. Địa điểm đề nghị vay vốn:
 
 Người học thuộc một trong các ngành được quy định tại Quyết định 29 có nhu cầu vay vốn nộp hồ sơ tại các Ngân hàng chính sách xã hội tại địa phương để được hỗ trợ thủ tục vay vốn theo quy định.
 
 Đề nghị Thủ trưởng các đơn vị quan tâm triển khai cho người học được biết và tham gia theo tinh thần Thông báo này. Trong quá trình triển khai, nếu gặp vấn đề vướng mắc, vui lòng liên hệ với Phòng Công tác Sinh viên để phối hợp giải quyết.
 
 Trân trọng kính chào./. signature
-
-**HIỆU TRƯỞNG**
 
 **Nơi nhận:**
 
@@ -127,5 +127,8 @@ Trân trọng kính chào./. signature
 - VP. Đoàn trường (để thông tin);
 - Lưu: VT, CTSV.
 
-Seal and signature of Tran Trung Tinh
+**HIỆU TRƯỞNG**
+
+Trường Đại học Cần Thơ stamp and signature
+
 **Trần Trung Tính**
