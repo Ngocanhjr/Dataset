@@ -32,12 +32,12 @@ created_at: "2026-07-07T09:38:39+07:00"
 updated_at: "2026-07-07T09:38:39+07:00"
 notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ---
-
 1
 
 <!-- page: 1 -->
 
 # QUY TRÌNH
+
 # XÉT CÔNG NHẬN HỌC PHẦN TƯƠNG ĐƯƠNG
 
 ## I. QUY TRÌNH CÔNG TÁC:
@@ -47,11 +47,8 @@ notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 **Mục đích, phạm vi áp dụng:**
 
 - Thời gian thực hiện quy trình này là khi bắt đầu học kỳ đến khi sắp kết thúc mỗi học kỳ.
-
 - Xét tương đương những học phần trong chương trình đào tạo không còn mở lớp với một học phần khác có cùng nội dung và khối lượng kiến thức.
-
 - Hướng dẫn sinh viên thực hiện đúng quy trình xét công nhận học phần tương đương.
-
 - Áp dụng cho tất cả sinh viên có nhu cầu xét công nhận học phần tương đương.
 
 **Giải thích từ ngữ, từ viết tắt:**
@@ -64,13 +61,9 @@ notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ### 2. Nội dung quy trình:
 
 - SV nộp đơn đề nghị xét công nhận học phần tương đương (*mẫu 1*) cho CVHT. CVHT tập hợp đơn và chuyển ĐVQLN.
-
 - ĐVQLN kiểm tra, xét duyệt; gửi hồ sơ có liên quan về PĐT.
-
 - PĐT kiểm tra và phản hồi về ĐVQLN.
-
 - PĐT cập nhật kết quả vào hệ thống quản lý.
-
 - SV kiểm tra kết quả trên hệ thống quản lý.
 
 ---
@@ -82,12 +75,12 @@ notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 ## II. LƯU ĐỒ:
 
 | Quy trình xét công nhận học phần tương đương / Bước | Quy trình xét công nhận học phần tương đương / Lưu đồ | Quy trình xét công nhận học phần tương đương / Nội dung công việc | Quy trình xét công nhận học phần tương đương / Người thực hiện | Quy trình xét công nhận học phần tương đương / Thời gian thực hiện | Quy trình xét công nhận học phần tương đương / Ghi chú |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Gửi yêu cầu | Nộp đơn xét công nhận học phần tương đương | SV, CVHT | Tuần 01 đến tuần 08 của học kỳ chính | Mẫu 1 |
-| 2 | Kiểm tra và xét duyệt | Kiểm tra, xét duyệt và gửi hồ sơ về PĐT | ĐVQLN | Tuần 09-10 của học kỳ chính |  |
-| 3 | Kiểm tra | Kiểm tra hồ sơ và phản hồi về ĐVQLN | PĐT | 02 tuần làm việc |  |
-| 4 | Cập nhật kết quả vào hệ thống | Cập nhật kết quả vào hệ thống quản lý | PĐT | 01 tuần làm việc |  |
-| 5 | SV kiểm tra | SV kiểm tra | SV |  |  |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 1                                                                | Gửi yêu cầu                                                      | Nộp đơn xét công nhận học phần tương đương                         | SV, CVHT                                                                      | Tuần 01 đến tuần 08 của học kỳ chính                                     | Mẫu 1                                                             |
+| 2                                                                | Kiểm tra và xét duyệt                                           | Kiểm tra, xét duyệt và gửi hồ sơ về PĐT                                | ĐVQLN                                                                        | Tuần 09-10 của học kỳ chính                                                 |                                                                    |
+| 3                                                                | Kiểm tra                                                           | Kiểm tra hồ sơ và phản hồi về ĐVQLN                                     | PĐT                                                                          | 02 tuần làm việc                                                              |                                                                    |
+| 4                                                                | Cập nhật kết quả vào hệ thống                                | Cập nhật kết quả vào hệ thống quản lý                                  | PĐT                                                                          | 01 tuần làm việc                                                              |                                                                    |
+| 5                                                                | SV kiểm tra                                                        | SV kiểm tra                                                                    | SV                                                                            |                                                                                  |                                                                    |
 
 ---
 
@@ -99,22 +92,23 @@ notes: "Không có ngày ký và ngày áp dụng, không có tên người ký"
 **<u>Độc lập - Tự do - Hạnh phúc</u>**
 
 # ĐƠN ĐỀ NGHỊ
+
 # XÉT CÔNG NHẬN HỌC PHẦN TƯƠNG ĐƯƠNG
 
-* **Kính gửi**: Khoa/Viện/Bộ môn     
-* **Tôi tên là**:     
-* **Mã số SV**:     
-* **Lớp**:     
-* **Khóa**:     
-* **Số điện thoại liên hệ**:     
+* Kính gửi: Khoa/Viện/Bộ môn
+* Tôi tên là:
+* Mã số SV:
+* Lớp:
+* Khóa:
+* Số điện thoại liên hệ:
 
 Nay tôi làm đơn này kính đề nghị được công nhận học phần tương đương, cụ thể như sau:
 
 | Học phần trong chương trình đào tạo / TT | Học phần trong chương trình đào tạo / MSHP | Học phần trong chương trình đào tạo / TÊN HP | Học phần trong chương trình đào tạo / TC | Học phần đề nghị xét tương đương / TT | Học phần đề nghị xét tương đương / MSHP | Học phần đề nghị xét tương đương / TÊN HP | Học phần đề nghị xét tương đương / TC |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
-| 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+| ------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
+| 1                                                | 1                                                  | 1                                                     | 1                                                | 1                                                | 1                                                  | 1                                                     | 1                                                |
+| 2                                                | 2                                                  | 2                                                     | 2                                                | 2                                                | 2                                                  | 2                                                     | 2                                                |
+| 3                                                | 3                                                  | 3                                                     | 3                                                | 3                                                | 3                                                  | 3                                                     | 3                                                |
 
 Trân trọng kính chào./.
 
@@ -123,17 +117,11 @@ Cần Thơ, ngày      tháng      năm 20…
 **Ý KIẾN CỦA CỐ VẤN HỌC TẬP**
 (ký tên và ghi rõ họ tên)
 
-    
-
 **SINH VIÊN**
 (ký tên và ghi rõ họ tên)
 
-    
-
 **BỘ MÔN**
 (ký tên và ghi rõ họ tên)
-
-    
 
 **TRƯỞNG KHOA/VIỆN/BỘ MÔN**
 (ký tên và ghi rõ họ tên)

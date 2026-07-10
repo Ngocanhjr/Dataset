@@ -31,7 +31,6 @@ created_at: "2026-07-07T00:13:24+07:00"
 updated_at: "2026-07-07T00:13:24+07:00"
 notes: ""
 ---
-
 1
 
 <!-- page: 1 -->
@@ -70,84 +69,87 @@ Người dùng chọn **“Cập nhật thông tin”**.
 Giao diện cập nhật thông tin hiển thị (hình 2). Đối với những trường dữ liệu có ký hiệu :
 
 - (*) : bắt buộc nhập thông tin vào
-
 - <mark>Tô màu xám</mark> : Không cho nhập thông tin
 
 ### Cập nhật thông tin sinh viên
 
-**Nơi cấp giấy khai sinh**:
-- **Chọn Tỉnh/Thành phố**: Chọn Tỉnh/Thành phố [dropdown] (*)
-- **Chọn Quận/Huyện**: Chọn Quận/Huyện [dropdown] (*)
-- **Chọn Xã/Phường**: Chọn Xã/Phường [dropdown] (*)
+Nơi cấp giấy khai sinh:
 
-**Điện thoại cá nhân**: 0948930468 (*)
+- Chọn Tỉnh/Thành phố: Chọn Tỉnh/Thành phố [dropdown] (*)
+- Chọn Quận/Huyện: Chọn Quận/Huyện [dropdown] (*)
+- Chọn Xã/Phường: Chọn Xã/Phường [dropdown] (*)
 
-**Dân tộc**: 01 - Kinh [dropdown] (*)
+Điện thoại cá nhân: 0948930468 (*)
 
-**Tôn giáo**: 08 - Không [dropdown] (*)
+Dân tộc: 01 - Kinh [dropdown] (*)
 
-**Ngày vào Đoàn TNCS HCM**:     
+Tôn giáo: 08 - Không [dropdown] (*)
 
-**Ngày vào Đảng CSVN**:     
+Ngày vào Đoàn TNCS HCM:
 
-**Số chứng minh ND/ căn cước CD**: 362466866
+Ngày vào Đảng CSVN:
 
-**Số thẻ BHYT (nếu không có để là chưa tham gia)**:     
+Số chứng minh ND/ căn cước CD: 362466866
 
-**Ngày cấp chứng minh ND/ căn cước CD**:      [calendar_icon]
+Số thẻ BHYT (nếu không có để là chưa tham gia):
 
-**Nơi cấp CMND**:     
+Ngày cấp chứng minh ND/ căn cước CD:      [calendar_icon]
 
-**Họ tên cha/người giám hộ**: Phạm Duy Trương
+Nơi cấp CMND:
 
-**Năm sinh cha/người giám hộ**: 1956
+Họ tên cha/người giám hộ: Phạm Duy Trương
 
-**Nghề nghiệp cha/người giám hộ**: nhà báo
+Năm sinh cha/người giám hộ: 1956
 
-**Nơi làm việc hiện nay (nếu không còn thì nhập đã mất hoặc không liên lạc)**:     
+Nghề nghiệp cha/người giám hộ: nhà báo
 
-**Họ tên mẹ/người giám hộ**: Nguyễn Thị Hải
+Nơi làm việc hiện nay (nếu không còn thì nhập đã mất hoặc không liên lạc):
 
-**Năm sinh mẹ/người giám hộ**: 1959
+Họ tên mẹ/người giám hộ: Nguyễn Thị Hải
 
-**Nghề nghiệp mẹ/người giám hộ**: nội trợ
+Năm sinh mẹ/người giám hộ: 1959
 
-**Nơi làm việc hiện nay (nếu không còn thì nhập đã mất hoặc không liên lạc)**:     
+Nghề nghiệp mẹ/người giám hộ: nội trợ
 
-**Địa chỉ liên lạc**:
-- **Số nhà**:      (*)
-- **Tên đường**:     
-- **Tổ**:     
-- **Khu vực/Ấp**:      (*)
-- **Tỉnh/Thành phố**: Chọn Tỉnh/Thành phố [dropdown] (*)
-- **Quận/Huyện**: Chọn Quận/Huyện [dropdown] (*)
-- **Xã/Phường**: Chọn Xã/Phường [dropdown] (*)
-- **Liên hệ gia đình (Điện thoại cố định)**: 01675569433
-- **Di động của người thân**:     
+Nơi làm việc hiện nay (nếu không còn thì nhập đã mất hoặc không liên lạc):
 
-**Hộ khẩu thường trú**:
-- **Số nhà**:      (*)
-- **Tên đường**:     
-- **Tổ**:     
-- **Khu vực/Ấp**:      (*)
-- **Tỉnh/Thành phố**: 92 - Thành phố Cần Thơ [dropdown] (*)
-- **Quận/Huyện**: 916 - Quận Ninh Kiều [dropdown] (*)
-- **Xã/Phường**: Chọn Xã/Phường [dropdown] (*)
+Địa chỉ liên lạc:
 
-**Địa chỉ tạm trú**:
-- **Số nhà**:      (*)
-- **Tên đường**:     
-- **Tổ**:     
-- **Khu vực/Ấp**:      (*)
-- **Tỉnh/Thành phố**: Chọn Tỉnh/Thành phố [dropdown] (*)
-- **Quận/Huyện**: Chọn Quận/Huyện [dropdown] (*)
-- **Xã/Phường**: Chọn Xã/Phường [dropdown] (*)
+- Số nhà:      (*)
+- Tên đường:
+- Tổ:
+- Khu vực/Ấp:      (*)
+- Tỉnh/Thành phố: Chọn Tỉnh/Thành phố [dropdown] (*)
+- Quận/Huyện: Chọn Quận/Huyện [dropdown] (*)
+- Xã/Phường: Chọn Xã/Phường [dropdown] (*)
+- Liên hệ gia đình (Điện thoại cố định): 01675569433
+- Di động của người thân:
 
-**Tóm tắt hoàn cảnh gia đình (SV đang sống với ai? Chi phí học tập do ai chi trả? Nguồn thu nhập chính của gia đình hoặc người nuôi dưỡng SV? Thu nhập bình quân/người/tháng?)**:     
+Hộ khẩu thường trú:
 
-**Số anh chị em**: <mark>    </mark>
+- Số nhà:      (*)
+- Tên đường:
+- Tổ:
+- Khu vực/Ấp:      (*)
+- Tỉnh/Thành phố: 92 - Thành phố Cần Thơ [dropdown] (*)
+- Quận/Huyện: 916 - Quận Ninh Kiều [dropdown] (*)
+- Xã/Phường: Chọn Xã/Phường [dropdown] (*)
 
-**Họ tên anh chị em**:     
+Địa chỉ tạm trú:
+
+- Số nhà:      (*)
+- Tên đường:
+- Tổ:
+- Khu vực/Ấp:      (*)
+- Tỉnh/Thành phố: Chọn Tỉnh/Thành phố [dropdown] (*)
+- Quận/Huyện: Chọn Quận/Huyện [dropdown] (*)
+- Xã/Phường: Chọn Xã/Phường [dropdown] (*)
+
+Tóm tắt hoàn cảnh gia đình (SV đang sống với ai? Chi phí học tập do ai chi trả? Nguồn thu nhập chính của gia đình hoặc người nuôi dưỡng SV? Thu nhập bình quân/người/tháng?):
+
+Số anh chị em: <mark>    </mark>
+
+Họ tên anh chị em:
 
 *Chú ý: (*) thông tin bắt buộc nhập
 Sinh viên vào đây để xem hướng dẫn chi tiết.

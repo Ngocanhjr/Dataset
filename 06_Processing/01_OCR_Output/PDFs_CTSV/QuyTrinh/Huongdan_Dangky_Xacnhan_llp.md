@@ -31,7 +31,6 @@ created_at: "2026-07-07T00:13:28+07:00"
 updated_at: "2026-07-07T00:13:28+07:00"
 notes: ""
 ---
-
 1
 
 <!-- page: 1 -->
@@ -58,13 +57,13 @@ Screenshot of the "Danh sách các yêu cầu xác nhận" interface with filter
 
 <!-- page: 2 -->
 
-Tiếp theo, sinh viên chọn mẫu đơn cần đăng ký và chọn Thêm, khi đó sinh viên đã đăng ký thành công.
+Tiếp theo, sinh viên chọn mẫu đơn cần đăng ký và chọn **"Thêm"**, khi đó sinh viên đã đăng ký thành công.
 
-Screenshot of registration interface showing "Đăng ký xác nhận" with a dropdown for "Tên mẫu xác nhận" and buttons "Thêm", "Trở về"
+Screenshot of registration interface showing **"Đăng ký xác nhận"** with a dropdown for **"Tên mẫu xác nhận"** and buttons **"Thêm", "Trở về"**
 
 Danh sách sẽ hiển thị các mẫu đơn sinh viên đã đăng ký, trạng thái in và số ngày nhận mẫu đơn theo quy định từ Phòng Công tác Sinh viên.
 
-Screenshot of "Danh sách các yêu cầu xác nhận" table showing a registered request for "Đơn yêu cầu xác nhận vay vốn" dated 08-09-2021
+Screenshot of **"Danh sách các yêu cầu xác nhận"** table showing a registered request for **"Đơn yêu cầu xác nhận vay vốn"** dated 08-09-2021
 
 ### 2. Xóa mẫu đơn xác nhận đã đăng ký:
 
