@@ -1,17 +1,20 @@
 ---
 document_key: ctu-ctsv-qd3266-quy-dinh-cong-tac-hoc-vu-danh-cho-sinh-vien-trinh-do-dai-hoc-hinh-thuc-chinh-quy-v3
 version_key: ctu-ctsv-qd3266-quy-dinh-cong-tac-hoc-vu-danh-cho-sinh-vien-trinh-do-dai-hoc-hinh-thuc-chinh-quy-v3-eab7bcae4c3e
-title: ""
-document_type: unknown
-domain: ""
+title: "QUYẾT ĐỊNH Ban hành Quy định công tác học vụ dành cho sinh viên trình độ đại học hình thức chính quy"
+document_type: quyet_dinh
+domain: hoc_vu
 issuing_authority: "Đại học Cần Thơ"
-responsible_department:
-signer_name: "HT Hà Thanh Toàn"
+responsible_department: 
+- VPTr
+- PDT
+- PCTSV
+signer_name: "HT Trần Trung Tính"
 audience:
   - student
-code: ""
-issued_date:
-effective_date:
+code: "3266 /QĐ-ĐHCT"
+issued_date: 2024-08-15
+effective_date: 2024-08-15
 is_latest: true
 ocr_status: done
 review_status: approved
@@ -21,14 +24,14 @@ source_url: ""
 source_path: "../Dataset/02_Attachments/PDFs/CTSV/QuyetDinh/QD3266_Quy_dinh_cong_tac_hoc_vu_danh_cho_sinh_vien_trinh_do_dai_hoc_hinh_thuc_chinh_quy_V3.pdf"
 canonical_markdown_path: "../Dataset/06_Processing/01_OCR_Output/PDFs_CTSV/QuyetDinh/QD3266_Quy_dinh_cong_tac_hoc_vu_danh_cho_sinh_vien_trinh_do_dai_hoc_hinh_thuc_chinh_quy_V3_llp.md"
 file_type: pdf
-accessed_date:
+accessed_date: 2026-05-31
 language: vi
 checksum: eab7bcae4c3e453cac85d9bb46ce2bf62e9952c02f95855ffa17bc3e20b3ff4d
 parser: llamaparse_postprocessed
 ocr_engine: "LlamaParse API"
 created_at: "2026-07-10T18:41:43+07:00"
 updated_at: "2026-07-10T18:41:43+07:00"
-notes: ""
+notes: "Thi hành từ Học kỳ 2, năm học 2024 - 2025"
 ---
 
 1
