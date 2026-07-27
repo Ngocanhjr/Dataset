@@ -10,7 +10,7 @@ responsible_department:
 - VGDDH
 signer_name: "TT Bùi Văn Ga"
 audience:
-  - student
+  - sinh_vien
 code: "04 /2011/TT-BGDĐT"
 issued_date: 2011-01-28
 effective_date: 2011-03-15

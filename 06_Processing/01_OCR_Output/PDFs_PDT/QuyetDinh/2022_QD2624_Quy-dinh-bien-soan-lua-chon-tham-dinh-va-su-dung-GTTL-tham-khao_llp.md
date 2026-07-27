@@ -15,7 +15,7 @@ responsible_department:
 - KSDH
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "2624 /QĐ-ĐHCT"
 issued_date: 2022-07-15
 effective_date: 2022-07-15

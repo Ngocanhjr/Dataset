@@ -8,7 +8,7 @@ issuing_authority: "Đại học Cần Thơ"
 responsible_department: []
 signer_name: "TP Nguyễn Thanh Tường"
 audience:
-  - student
+  - sinh_vien
 code: "31/CTSV"
 issued_date: 2026-01-27
 effective_date: 2026-01-27

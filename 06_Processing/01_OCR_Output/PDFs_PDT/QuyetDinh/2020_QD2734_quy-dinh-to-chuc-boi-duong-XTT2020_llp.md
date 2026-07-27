@@ -13,7 +13,7 @@ responsible_department:
 - PTC
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "2734 /QĐ-ĐHCT"
 issued_date: 2020-09-22
 effective_date: 2020-09-22

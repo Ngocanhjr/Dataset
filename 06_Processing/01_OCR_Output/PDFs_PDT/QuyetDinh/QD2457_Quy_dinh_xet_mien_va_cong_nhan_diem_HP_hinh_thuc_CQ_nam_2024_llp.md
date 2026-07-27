@@ -15,7 +15,7 @@ responsible_department:
 - KGDTC
 signer_name: "HT Trần Trung Tính"
 audience:
-  - student
+  - sinh_vien
 code: "2457 /QĐ-ĐHCT"
 issued_date: 2024-06-19
 effective_date: 2024-06-19

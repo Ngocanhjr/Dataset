@@ -12,7 +12,7 @@ responsible_department:
 - PTCPTNS
 signer_name: "PHT Trần Ngọc Hải"
 audience:
-  - student
+  - sinh_vien
 code: "6421/QĐ-ĐHCT"
 issued_date: 2025-11-24
 effective_date: 2025-11-24

@@ -22,7 +22,7 @@ responsible_department:
 - KNN
 signer_name: "PHT Trần Trung Tính"
 audience:
-  - student
+  - sinh_vien
 code: "6772 /QĐ-ĐHCT"
 issued_date: 2023-11-30
 effective_date: 2023-12-01

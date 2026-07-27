@@ -12,7 +12,7 @@ responsible_department:
 - TTQLCL
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "3627/QĐ-ĐHCT"
 issued_date: 2020-10-27
 effective_date: 2020-10-27

@@ -9,7 +9,7 @@ responsible_department:
 - PTCCB
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "5976 /QĐ-ĐHCT"
 issued_date: 2023-12-23
 effective_date: 2023-12-23

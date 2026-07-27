@@ -10,7 +10,7 @@ responsible_department:
 - PCTSV
 signer_name: "TP Nguyễn Thanh Tường"
 audience:
-  - student
+  - sinh_vien
 code: "88 /TB-CTSV"
 issued_date: 2026-03-26
 effective_date: 2025-01-01

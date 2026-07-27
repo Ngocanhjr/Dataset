@@ -9,7 +9,7 @@ responsible_department:
 - HDT
 signer_name: "CT Nguyễn Thanh Phương"
 audience:
-  - student
+  - sinh_vien
 code: "29/NQ-HĐT"
 issued_date: 2020-05-19
 effective_date: 2020-05-19

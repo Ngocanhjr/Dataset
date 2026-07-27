@@ -10,10 +10,10 @@ responsible_department:
 - PCTSV
 signer_name: ""
 audience:
-  - student
+  - sinh_vien
 code: ""
-issued_date:
-effective_date:
+issued_date: 2015-01-01
+effective_date: 2015-01-01
 is_latest: true
 ocr_status: done
 review_status: approved

@@ -8,10 +8,10 @@ issuing_authority: "Đại học Cần Thơ"
 responsible_department:
 signer_name: ""
 audience:
-  - student
-code: ""
-issued_date:
-effective_date:
+  - sinh_vien
+code: "" 
+issued_date: 2015-01-01
+effective_date: 2015-01-01
 is_latest: true
 ocr_status: done
 review_status: approved

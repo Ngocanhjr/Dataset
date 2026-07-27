@@ -9,7 +9,7 @@ responsible_department:
 - PCTSV
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "4544/QĐ-ĐHCT"
 issued_date: 2019-10-14
 effective_date: 2019-01-01

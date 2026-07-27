@@ -14,7 +14,7 @@ responsible_department:
 - TTTTQTM
 signer_name: "HT Trần Trung Tính"
 audience:
-  - student
+  - sinh_vien
 code: "2753/ĐHCT-VPT"
 issued_date: 2024-07-31
 effective_date: 2024-07-31

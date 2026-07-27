@@ -14,7 +14,7 @@ responsible_department:
 - PTV
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "777/QĐ-ĐHCT"
 issued_date: 2015-03-26
 effective_date: 2015-03-26

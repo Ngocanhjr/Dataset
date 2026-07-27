@@ -9,7 +9,7 @@ responsible_department:
 - PDt
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "1194 /ĐHCT"
 issued_date: 2020-06-11
 effective_date: 2020-06-11

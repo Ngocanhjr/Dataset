@@ -12,7 +12,7 @@ responsible_department:
 - PLKDT
 signer_name: "HT Trần Trung Tính"
 audience:
-  - student
+  - sinh_vien
 code: "1041 /QĐ-ĐHCT"
 issued_date: 2024-03-29
 effective_date: 2024-03-29

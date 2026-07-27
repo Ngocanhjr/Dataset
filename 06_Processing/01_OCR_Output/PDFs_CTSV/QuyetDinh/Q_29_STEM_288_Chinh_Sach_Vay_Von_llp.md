@@ -8,7 +8,7 @@ issuing_authority: "Thủ tướng Chính phủ"
 responsible_department: []
 signer_name: "PTT Hà Đức Phớc"
 audience:
-  - student
+  - sinh_vien
 code: "29/2025/QĐ-TTg"
 issued_date: 2025-08-28
 effective_date: 2025-08-28

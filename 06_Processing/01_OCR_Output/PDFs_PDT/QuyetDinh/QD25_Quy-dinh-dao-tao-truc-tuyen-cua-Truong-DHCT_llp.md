@@ -13,7 +13,7 @@ responsible_department:
 - TTHL
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "25 /QĐ-ĐHCT"
 issued_date: 2022-01-10
 effective_date: 2022-01-10

@@ -11,7 +11,7 @@ responsible_department:
 - PCTSV
 signer_name: "HT Trần Trung Tính"
 audience:
-  - student
+  - sinh_vien
 code: "3481 /TB-ĐHCT"
 issued_date: 2025-09-30
 effective_date: 2025-09-30

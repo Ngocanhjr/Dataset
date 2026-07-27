@@ -14,7 +14,7 @@ responsible_department:
 - PTC
 signer_name: "HT Hà Thanh Toàn"
 audience:
-  - student
+  - sinh_vien
 code: "407/QĐ-ĐHCT"
 issued_date: 2020-02-26
 effective_date: 2020-02-26
